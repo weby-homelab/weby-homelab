@@ -44,4 +44,4 @@
 - security-monitor-kyiv
 - voip-installer
 
-**Made with ❤️ in Kyiv under air raid sirens**
+**Made with ❤️ in Kyiv under air raid sirens and blackouts**

@@ -1,8 +1,11 @@
 <div align="center">
-  
-  <!-- ПРАВИЛЬНИЙ АВАТАР ОРГАНІЗАЦІЇ -->
-  <img src="https://github.com/weby-homelab.png" width="200" alt="Weby Homelab">
-  
+
+  <!-- ТВІЙ НЕОНОВИЙ ЛОГОТИП W -->
+  <img src="https://github.com/weby-homelab.png" 
+       width="280" 
+       alt="Weby Homelab Logo" 
+       style="border-radius: 20px; box-shadow: 0 0 40px rgba(0, 212, 255, 0.4);">
+
   <h1>Weby Homelab</h1>
   <p><strong>Resilient Infrastructure from Kyiv, Ukraine 🇺🇦</strong></p>
   <p>Built to survive 12+ hour blackouts and grid attacks since 2022</p>
@@ -13,12 +16,16 @@
   <a href="https://x.com/weby_homelab">
     <img src="https://img.shields.io/badge/X-%40weby_homelab-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
-  
+
   <br><br>
   <strong>IaC • GitOps • Zero Trust • Real-world Resilience</strong>
+
 </div>
 
 ---
+
+### Наші проєкти
+...(твій попередній текст з проєктами залишається без змін)
 
 ### Наші проєкти
 ...(твій текст нижче залишається без змін)

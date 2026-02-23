@@ -21,16 +21,16 @@
 ### Наші проєкти
 
 - **[light-monitor-kyiv](https://github.com/weby-homelab/light-monitor-kyiv)**
-- Аналітика відключень світла з графіками, точністю 94.7% і Telegram-алертами. PWA працює без інтернету.
+  Аналітика відключень світла з графіками, точністю 94.7% і Telegram-алертами. PWA працює без інтернету.
 
 - **[security-monitor-kyiv](https://github.com/weby-homelab/security-monitor-kyiv)**  
   Реальний час: тривоги, радіація, якість повітря, світло.
 
 - **[flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv)**
-- Моніторинг блекаутів у реальному часі.
+  Моніторинг блекаутів у реальному часі.
 
 - **[voip-installer](https://github.com/weby-homelab/voip-installer)**
-- Dockerized Asterisk 22 для домашньої АТС.
+  Dockerized Asterisk 22 для домашньої АТС.
 
 ---
 

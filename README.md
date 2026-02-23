@@ -1,45 +1,47 @@
+<p align="center">
+  <a href="README_ENG.md">
+    <img src="https://img.shields.io/badge/🇬🇧_English-00D4FF?style=for-the-badge&logo=readme&logoColor=white" alt="English README">
+  </a>
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🇺🇦_Українська-FF4D00?style=for-the-badge&logo=readme&logoColor=white" alt="Українська версія">
+  </a>
+</p>
+
+<br>
+
 <div align="center">
-
-  <!-- ТВІЙ НЕОНОВИЙ ЛОГОТИП W -->
-  <img src="https://github.com/weby-homelab.png" 
-       width="280" 
-       alt="Weby Homelab Logo" 
-       style="border-radius: 20px; box-shadow: 0 0 40px rgba(0, 212, 255, 0.4);">
-
+  <img src="https://github.com/weby-homelab.png" width="280" alt="Weby Homelab">
   <h1>Weby Homelab</h1>
-  <p><strong>Resilient Infrastructure from Kyiv, Ukraine 🇺🇦</strong></p>
-  <p>Built to survive 12+ hour blackouts and grid attacks since 2022</p>
-
-  <a href="https://weby.srvrs.top">
-    <img src="https://img.shields.io/badge/Website-weby.srvrs.top-00D4FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Website">
+  <h2>СВІТЛО⚡БЕЗПЕКА — flash-monitor-kyiv</h2>
+  <p><strong>Єдина все-в-одному система для Києва</strong><br>
+  Реальний час: світло + тривоги + якість повітря + радіація</p>
+  
+  <a href="https://github.com/weby-homelab/flash-monitor-kyiv">
+    <img src="https://img.shields.io/badge/⭐_Головний_проект-flash--monitor--kyiv-FF4D00?style=for-the-badge" alt="Main Project">
   </a>
-  <a href="https://x.com/weby_homelab">
-    <img src="https://img.shields.io/badge/X-%40weby_homelab-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
-
-  <br><br>
-  <strong>IaC • GitOps • Zero Trust • Real-world Resilience</strong>
-
 </div>
 
 ---
 
-### Наші проєкти
+### Головний проєкт 2026 року
+**flash-monitor-kyiv** (v1.2 Docker Edition) — це еволюція light-monitor-kyiv + security-monitor-kyiv в одну потужну систему.
 
-- **[light-monitor-kyiv](https://github.com/weby-homelab/light-monitor-kyiv)**  
-  Аналітика відключень світла з графіками, точністю 94.7% і Telegram-алертами. PWA працює без інтернету.
+**Що він об’єднує:**
+- Повний моніторинг електроенергії (план vs факт, графіки, точність 94.7%)
+- Повітряні тривоги з живою мапою Києва
+- Якість повітря (PM2.5/PM10) + радіаційний фон (Борщагівка)
+- Погода + IoT heartbeat (працює навіть без світла)
+- Красивий веб-дашборд + Telegram-алерти + ранкові звіти
 
-- **[security-monitor-kyiv](https://github.com/weby-homelab/security-monitor-kyiv)**  
-  Реальний час: тривоги, радіація, якість повітря, світло.
+**Docker-ready** — розгортається за 2 команди.
 
-- **[flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv)**  
-  Моніторинг блекаутів у реальному часі.
-
-- **[voip-installer](https://github.com/weby-homelab/voip-installer)**  
-  Dockerized Asterisk 22 для домашньої АТС.
+→ **https://github.com/weby-homelab/flash-monitor-kyiv**
 
 ---
 
-**Зірка, якщо твій homelab теж виживає під час війни** ⭐
+**Інші проєкти** (архівні/допоміжні):
+- light-monitor-kyiv
+- security-monitor-kyiv
+- voip-installer
 
-Made with ❤️ in Kyiv under air raid sirens and blackouts...
+**Made with ❤️ in Kyiv under air raid sirens**

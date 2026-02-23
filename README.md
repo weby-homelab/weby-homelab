@@ -36,4 +36,4 @@
 
 **Зірка, якщо твій homelab теж виживає під час війни** ⭐
 
-Made with ❤️ in Kyiv under air raid sirens.
+Made with ❤️ in Kyiv under air raid sirens and blackouts...

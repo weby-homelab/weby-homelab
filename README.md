@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/weby-homelab" width="180" alt="Weby Homelab">
+  
+  <h1>Weby Homelab</h1>
+  <p><strong>Resilient Infrastructure from Kyiv, Ukraine 🇺🇦</strong></p>
+  <p>Built to survive 12+ hour blackouts and grid attacks since 2022</p>
 
-<!--
-**weby-homelab/weby-homelab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://weby.srvrs.top">
+    <img src="https://img.shields.io/badge/Website-weby.srvrs.top-00D4FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Website">
+  </a>
+  <a href="https://x.com/weby_homelab">
+    <img src="https://img.shields.io/badge/X-%40weby_homelab-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  
+  <br><br>
+  <strong>IaC • GitOps • Zero Trust • Real-world Resilience</strong>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Наші проєкти
+
+- **[light-monitor-kyiv](https://github.com/weby-homelab/light-monitor-kyiv)** — 9★  
+  Аналітика відключень світла з графіками, точністю 94.7% і Telegram-алертами. PWA працює без інтернету.
+
+- **[security-monitor-kyiv](https://github.com/weby-homelab/security-monitor-kyiv)** — 3★  
+  Реальний час: тривоги, радіація, якість повітря, світло.
+
+- **[flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv)**  
+  Моніторинг блекаутів у реальному часі.
+
+- **[voip-installer](https://github.com/weby-homelab/voip-installer)**  
+  Dockerized Asterisk 22 для домашньої АТС.
+
+---
+
+**Зірка, якщо твій homelab теж виживає під час війни** ⭐
+
+Made with ❤️ in Kyiv under air raid sirens.

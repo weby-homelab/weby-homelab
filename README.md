@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/weby-homelab" width="180" alt="Weby Homelab">
+  
+  <!-- ПРАВИЛЬНИЙ АВАТАР ОРГАНІЗАЦІЇ -->
+  <img src="https://github.com/weby-homelab.png" width="200" alt="Weby Homelab">
   
   <h1>Weby Homelab</h1>
   <p><strong>Resilient Infrastructure from Kyiv, Ukraine 🇺🇦</strong></p>
@@ -17,6 +19,9 @@
 </div>
 
 ---
+
+### Наші проєкти
+...(твій текст нижче залишається без змін)
 
 ### Наші проєкти
 

@@ -24,16 +24,16 @@
 ---
 
 ### Flagship Project 2026
-**flash-monitor-kyiv** (v1.2 Docker Edition) is the evolution of light-monitor-kyiv + security-monitor-kyiv into one powerful system.
+**flash-monitor-kyiv** (v1.4.0 Autonomous Edition) is the evolution of light-monitor-kyiv + security-monitor-kyiv into one powerful system.
 
 **What it integrates:**
-- Full power grid monitoring (plan vs fact, charts, 94.7% accuracy)
-- Air raid alerts with live Kyiv map
+- Full power grid monitoring (plan vs fact, built-in schedule parsing)
+- Air raid alerts with instant notifications and live Kyiv map
 - Air Quality (PM2.5/PM10) + Radiation background (Borshchahivka)
-- Weather + IoT heartbeat (works even during outages)
+- Weather + IoT heartbeat (fully autonomous)
 - Beautiful web dashboard + Telegram alerts + morning reports
 
-**Docker-ready** — deploy in just 2 commands.
+**Docker-ready** — deploy in minutes.
 
 → **https://github.com/weby-homelab/flash-monitor-kyiv**
 

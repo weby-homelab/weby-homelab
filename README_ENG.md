@@ -9,39 +9,40 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github.com/weby-homelab.png" width="280" alt="Weby Homelab">
-  <h1>Weby Homelab</h1>
-  <h2>FLASH MONITOR KYIV — flash-monitor-kyiv</h2>
-  <p><strong>The Unified All-in-One System for Kyiv</strong><br>
-  Real-time: Power + Alerts + Air Quality + Radiation</p>
-  
-  <a href="https://github.com/weby-homelab/flash-monitor-kyiv">
-    <img src="https://img.shields.io/badge/⭐_Main_Project-flash--monitor--kyiv-FF4D00?style=for-the-badge" alt="Main Project">
-  </a>
-</div>
+# 🌌 WEBy Home Lab: Infrastructure Matrix
+
+Welcome to the central hub of **WEBy Home Lab** — an automated, secure, and resilient infrastructure merging cloud resources and local clusters into a single living organism.
+
+This is where the intelligence of my lab resides: from security configurations to critical situation monitoring systems in Kyiv.
 
 ---
 
-### Flagship Project 2026
-**flash-monitor-kyiv** (v1.4.0 Autonomous Edition) is the evolution of light-monitor-kyiv + security-monitor-kyiv into one powerful system.
+## 🚀 Core Projects
 
-**What it integrates:**
-- Full power grid monitoring (plan vs fact, built-in schedule parsing)
-- Air raid alerts with instant notifications and live Kyiv map
-- Air Quality (PM2.5/PM10) + Radiation background (Borshchahivka)
-- Weather + IoT heartbeat (fully autonomous)
-- Beautiful web dashboard + Telegram alerts + morning reports
+### ⚡ [Flash Monitor Kyiv](https://github.com/weby-homelab/flash-monitor-kyiv) (Flagship)
+**Unified autonomous power and security monitoring system.**
+- **Status:** 🟢 **v1.4.14 Active** (Primary System)
+- **Concept:** Full integration of power monitoring, air raid alerts, and AQI into a single Docker-based solution.
+- **Key Feature:** High-precision accuracy tracking, PWA support, and 100% autonomy without external API dependencies.
 
-**Docker-ready** — deploy in minutes.
+### 📊 [Light Monitor Kyiv](https://github.com/weby-homelab/light-monitor-kyiv)
+- **Status:** ⛔ **Archived** (Server operation stopped, logic merged into Flash Monitor).
 
-→ **https://github.com/weby-homelab/flash-monitor-kyiv**
+### 🛡️ [Security Monitor Kyiv](https://github.com/weby-homelab/security-monitor-kyiv)
+- **Status:** ⛔ **Archived** (Server operation stopped, logic merged into Flash Monitor).
+
+### 📞 [VoIP Installer](https://github.com/weby-homelab/voip-installer)
+- **Overview:** Automated deployment of secure Asterisk 22 telephony in Docker.
 
 ---
 
-**Other Projects** (Archival/Supporting):
-- light-monitor-kyiv
-- security-monitor-kyiv
-- voip-installer
+## 🗺️ Roadmap 2026
 
-**Made with ❤️ in Kyiv under air raid sirens and blackouts**
+- [ ] **Infrastructure as Code:** Full migration to Ansible playbooks for all servers.
+- [ ] **AI Integration:** Implementing Gemini API for intelligent log and security analysis.
+- [ ] **Observability:** Prometheus + Grafana stack for hardware health visualization.
+
+---
+<p align="center">
+  ✦ 2026 WEBy Home Lab ✦ Made with ❤️ in Kyiv
+</p>

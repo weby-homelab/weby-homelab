@@ -9,39 +9,60 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github.com/weby-homelab.png" width="280" alt="Weby Homelab">
-  <h1>Weby Homelab</h1>
-  <h2>СВІТЛО⚡БЕЗПЕКА — flash-monitor-kyiv</h2>
-  <p><strong>Єдина все-в-одному система для Києва</strong><br>
-  Реальний час: світло + тривоги + якість повітря + радіація</p>
-  
-  <a href="https://github.com/weby-homelab/flash-monitor-kyiv">
-    <img src="https://img.shields.io/badge/⭐_Головний_проект-flash--monitor--kyiv-FF4D00?style=for-the-badge" alt="Main Project">
-  </a>
-</div>
+# 🌌 WEBy Home Lab: Інфраструктурна Матриця
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Infrastructure-as--Code-blueviolet?style=for-the-badge&logo=ansible" alt="IaC">
+  <img src="https://img.shields.io/badge/Security-Zero--Trust-red?style=for-the-badge&logo=cloudflare" alt="Security">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/2026-Ready-yellow?style=for-the-badge" alt="Year">
+</p>
+
+Ласкаво просимо до центрального вузла екосистеми **WEBy Home Lab** — автоматизованої, безпечної та відмовостійкої інфраструктури, що об'єднує хмарні ресурси та локальні кластери в єдиний живий організм.
+
+Тут зберігається інтелект моєї лабораторії: від конфігурацій безпеки до систем моніторингу критичної ситуації в Києві.
+
+Доступна також [Англійська версія документації](README_ENG.md).
 
 ---
 
-### Головний проєкт 2026 року
-**flash-monitor-kyiv** (v1.4.0 Autonomous Edition) — це еволюція light-monitor-kyiv + security-monitor-kyiv в одну потужну систему.
+## 🚀 Основні проекти
 
-**Що він об’єднує:**
-- Повний моніторинг електроенергії (план vs факт, вбудований парсер графіків)
-- Повітряні тривоги з миттєвими сповіщеннями та живою мапою
-- Якість повітря (PM2.5/PM10) + радіаційний фон (Борщагівка)
-- Погода + IoT heartbeat (працює автономно)
-- Красивий веб-дашборд + Telegram-алерти + ранкові звіти
+### ⚡ [Flash Monitor Kyiv](https://github.com/weby-homelab/flash-monitor-kyiv) (Флагман)
+**Уніфікована автономна система енергомоніторингу та безпеки.**
+- **Статус:** 🟢 **v1.4.14 Active** (Основна система)
+- **Суть:** Повне об'єднання функцій моніторингу світла, повітряних тривог та якості повітря (AQI) в одному Docker-контейнері.
+- **Фішка:** Розрахунок точності графіків до секунди, підтримка PWA та автономний парсинг Yasno/ДТЕК.
 
-**Docker-ready** — розгортається за лічені хвилини.
+### 📊 [Light Monitor Kyiv](https://github.com/weby-homelab/light-monitor-kyiv)
+- **Статус:** ⛔ **Archived** (Роботу на сервері зупинено, функціонал інтегровано у Flash Monitor).
 
-→ **https://github.com/weby-homelab/flash-monitor-kyiv**
+### 🛡️ [Security Monitor Kyiv](https://github.com/weby-homelab/security-monitor-kyiv)
+- **Статус:** ⛔ **Archived** (Роботу на сервері зупинено, функціонал інтегровано у Flash Monitor).
+
+### 📞 [VoIP Installer](https://github.com/weby-homelab/voip-installer)
+- **Суть:** Автоматизоване розгортання захищеної телефонії Asterisk 22 у Docker.
 
 ---
 
-**Інші проєкти** (архівні/допоміжні):
-- light-monitor-kyiv
-- security-monitor-kyiv
-- voip-installer
+## 🖥️ Апаратний Стек
 
-**Made with ❤️ in Kyiv under air raid sirens and blackouts**
+| Вузол | Локація | Роль | ОС / Гіпервізор |
+| :--- | :--- | :--- | :--- |
+| **HTZNR (Primary)** | Німеччина | Edge Services, Flash Monitor | Ubuntu 24.04 LTS |
+| **IONOS-VPS** | Європа | Backup VoIP, DNS, Turnserver | Debian (Tmux Hardened) |
+| **PRXMX-02** | Home Lab | Центральне ядро, NAS, AdGuard | Proxmox VE 9.1 |
+| **PRXMX-01** | Home Lab | Backup Node (Battery Monitored) | Proxmox VE (Laptop) |
+
+---
+
+## 🗺️ Дорожня карта 2026
+
+- [ ] **Infrastructure as Code:** Повний перехід на Ansible плейбуки для всіх серверів.
+- [ ] **AI Integration:** Впровадження Gemini API для інтелектуального аналізу логів та безпеки.
+- [ ] **Observability:** Стек Prometheus + Grafana для візуалізації стану «заліза».
+
+---
+<p align="center">
+  ✦ 2026 WEBy Home Lab ✦ Made with ❤️ in Kyiv
+</p>

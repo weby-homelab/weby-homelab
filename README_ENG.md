@@ -9,9 +9,9 @@
 
 <br>
 
-# 🌌 WEBy Home Lab: Infrastructure Matrix
+# 🌌 Weby Homelab: Infrastructure Matrix
 
-Welcome to the central hub of **WEBy Home Lab** — an automated, secure, and resilient infrastructure merging cloud resources and local clusters into a single living organism.
+Welcome to the central hub of **Weby Homelab** — an automated, secure, and resilient infrastructure merging cloud resources and local clusters into a single living organism.
 
 This is where the intelligence of my lab resides: from security configurations to critical situation monitoring systems in Kyiv.
 

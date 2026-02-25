@@ -9,7 +9,7 @@
 
 <br>
 
-# 🌌 Weby Homelab: Інфраструктурна Матриця
+# Weby Homelab: Інфраструктурна Матриця
 
 <p align="center">
   <img src="https://img.shields.io/badge/Infrastructure-as--Code-blueviolet?style=for-the-badge&logo=ansible" alt="IaC">

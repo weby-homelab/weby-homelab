@@ -1,46 +1,51 @@
 <p align="center">
+  <img src="https://github.com/weby-homelab.png" width="280" alt="Weby Homelab">
+</p>
+
+<h1 align="center">Weby Homelab</h1>
+
+<p align="center">
+  <strong>FLASH⚡SAFETY</strong> — all-in-one resilient monitoring for Kyiv<br>
+  Real-time: power • air raid alerts • AQI • radiation
+</p>
+
+<p align="center">
   <a href="README_ENG.md">
-    <img src="https://img.shields.io/badge/🇬🇧_English-00D4FF?style=for-the-badge&logo=readme&logoColor=white" alt="English README">
+    <img src="https://img.shields.io/badge/🇬🇧_English-00D4FF?style=for-the-badge&logo=readme&logoColor=white" alt="English">
   </a>
   <a href="README.md">
-    <img src="https://img.shields.io/badge/🇺🇦_Українська-FF4D00?style=for-the-badge&logo=readme&logoColor=white" alt="Українська версія">
+    <img src="https://img.shields.io/badge/🇺🇦_Українська-FF4D00?style=for-the-badge&logo=readme&logoColor=white" alt="Українська">
   </a>
 </p>
 
-<br>
+---
 
-# 🌌 Weby Homelab: Infrastructure Matrix
+### 🚀 Flagship Project
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Infrastructure-as--Code-blueviolet?style=for-the-badge&logo=ansible" alt="IaC">
-  <img src="https://img.shields.io/badge/Security-Zero--Trust-red?style=for-the-badge&logo=cloudflare" alt="Security">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/2026-Ready-yellow?style=for-the-badge" alt="Year">
-</p>
+**⚡ [flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv)** — v1.4.14 (Active)
 
-Welcome to the central hub of the **Weby Homelab** ecosystem — an automated, secure, and resilient infrastructure merging cloud resources and local clusters into a single living organism.
+Unified system integrating:
+- Power monitoring (plan vs fact + heartbeat)
+- Air raid alerts with live Kyiv map
+- Air quality (PM2.5/PM10) + radiation background
+- PWA dashboard, Telegram alerts, morning reports
 
-This is where the intelligence of my lab resides: from security configurations to critical situation monitoring systems in Kyiv.
+**Works even during 12+ hour blackouts**  
+Docker multi-arch • Autonomous • Deploys in 2 commands
+
+→ **[View Release v1.4.14](https://github.com/weby-homelab/flash-monitor-kyiv/releases/tag/v1.4.14)**  
+→ **[Live Dashboard](https://flash.srvrs.top)**
 
 ---
 
-## 🚀 Core Projects
+### Other Projects
 
-### ⚡ [Flash Monitor Kyiv](https://github.com/weby-homelab/flash-monitor-kyiv) (Flagship)
-**Unified autonomous power and security monitoring system.**
-- **Status:** 🟢 **v1.4.14 Active** (Primary System)
-- **Concept:** Full integration of power monitoring, air raid alerts, and air quality (AQI) into a single Docker-based solution.
-- **Key Feature:** Surgical precision in schedule accuracy tracking, PWA support, and 100% autonomy without external API dependencies.
-
-### 📊 [Light Monitor Kyiv](https://github.com/weby-homelab/light-monitor-kyiv)
-- **Status:** ⛔ **Archived** (Server operation stopped, functionality merged into Flash Monitor).
-
-### 🛡️ [Security Monitor Kyiv](https://github.com/weby-homelab/security-monitor-kyiv)
-- **Status:** ⛔ **Archived** (Server operation stopped, functionality merged into Flash Monitor).
+- **[light-monitor-kyiv](https://github.com/weby-homelab/light-monitor-kyiv)** — ⛔ Archived (functionality migrated to Flash Monitor)
+- **[security-monitor-kyiv](https://github.com/weby-homelab/security-monitor-kyiv)** — ⛔ Archived (functionality migrated to Flash Monitor)
 
 ---
 
 <p align="center">
-  © 2026 Weby Homelab<br>
-  Made with ❤️ in Kyiv under air raid sirens and blackouts
+  Made with ❤️ in Kyiv under air raid sirens and blackouts<br>
+  <strong>© 2026 Weby Homelab</strong>
 </p>

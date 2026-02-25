@@ -22,8 +22,6 @@
 
 Тут зберігається інтелект моєї лабораторії: від конфігурацій безпеки до систем моніторингу критичної ситуації в Києві.
 
-Доступна також [Англійська версія документації](README_ENG.md).
-
 ---
 
 ## 🚀 Основні проекти
@@ -40,29 +38,9 @@
 ### 🛡️ [Security Monitor Kyiv](https://github.com/weby-homelab/security-monitor-kyiv)
 - **Статус:** ⛔ **Archived** (Роботу на сервері зупинено, функціонал інтегровано у Flash Monitor).
 
-### 📞 [VoIP Installer](https://github.com/weby-homelab/voip-installer)
-- **Суть:** Автоматизоване розгортання захищеної телефонії Asterisk 22 у Docker.
-
 ---
 
-## 🖥️ Апаратний Стек
-
-| Вузол | Локація | Роль | ОС / Гіпервізор |
-| :--- | :--- | :--- | :--- |
-| **HTZNR (Primary)** | Німеччина | Edge Services, Flash Monitor | Ubuntu 24.04 LTS |
-| **IONOS-VPS** | Європа | Backup VoIP, DNS, Turnserver | Debian (Tmux Hardened) |
-| **PRXMX-02** | Home Lab | Центральне ядро, NAS, AdGuard | Proxmox VE 9.1 |
-| **PRXMX-01** | Home Lab | Backup Node (Battery Monitored) | Proxmox VE (Laptop) |
-
----
-
-## 🗺️ Дорожня карта 2026
-
-- [ ] **Infrastructure as Code:** Повний перехід на Ansible плейбуки для всіх серверів.
-- [ ] **AI Integration:** Впровадження Gemini API для інтелектуального аналізу логів та безпеки.
-- [ ] **Observability:** Стек Prometheus + Grafana для візуалізації стану «заліза».
-
----
 <p align="center">
-  ✦ 2026 WEBy Home Lab ✦ Made with ❤️ in Kyiv
+  © 2026 Weby Homelab<br>
+  Made with ❤️ in Kyiv under air raid sirens and blackouts
 </p>

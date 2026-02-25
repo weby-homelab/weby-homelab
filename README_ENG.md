@@ -31,18 +31,9 @@ This is where the intelligence of my lab resides: from security configurations t
 ### 🛡️ [Security Monitor Kyiv](https://github.com/weby-homelab/security-monitor-kyiv)
 - **Status:** ⛔ **Archived** (Server operation stopped, logic merged into Flash Monitor).
 
-### 📞 [VoIP Installer](https://github.com/weby-homelab/voip-installer)
-- **Overview:** Automated deployment of secure Asterisk 22 telephony in Docker.
-
 ---
 
-## 🗺️ Roadmap 2026
-
-- [ ] **Infrastructure as Code:** Full migration to Ansible playbooks for all servers.
-- [ ] **AI Integration:** Implementing Gemini API for intelligent log and security analysis.
-- [ ] **Observability:** Prometheus + Grafana stack for hardware health visualization.
-
----
 <p align="center">
-  ✦ 2026 WEBy Home Lab ✦ Made with ❤️ in Kyiv
+  © 2026 Weby Homelab<br>
+  Made with ❤️ in Kyiv under air raid sirens and blackouts
 </p>

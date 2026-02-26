@@ -22,7 +22,7 @@
 
 ### 🚀 Flagship Project
 
-**⚡ [flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv)** — v1.4.14 (Active)
+**⚡ [flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv)** — v1.6.0 (Active)
 
 Unified system integrating:
 - Power monitoring (plan vs fact + heartbeat)
@@ -33,7 +33,7 @@ Unified system integrating:
 **Works even during 12+ hour blackouts**  
 Docker multi-arch • Autonomous • Deploys in 2 commands
 
-→ **[View Release v1.4.14](https://github.com/weby-homelab/flash-monitor-kyiv/releases/tag/v1.4.14)**  
+→ **[View Release v1.6.0](https://github.com/weby-homelab/flash-monitor-kyiv/releases/tag/v1.4.14)**  
 → **[Live Dashboard](https://flash.srvrs.top)**
 
 ---

@@ -22,7 +22,7 @@
 
 ### 🚀 Головний проєкт
 
-**⚡ [flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv)** — v1.4.14 (Active)
+**⚡ [flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv)** — v1.6.0 (Active)
 
 Єдина система, яка об’єднує:
 - Моніторинг електроенергії (план vs факт + heartbeat)
@@ -30,10 +30,10 @@
 - Якість повітря (PM2.5/PM10) + радіаційний фон
 - PWA-дашборд, Telegram-алерти, ранкові звіти
 
-**Працює навіть під час 12+ годинних блекаутів**  
+**Працює навіть під час 18+ годинних блекаутів**  
 Docker multi-arch • Автономний • Розгортається за 2 команди
 
-→ **[Переглянути реліз v1.4.14](https://github.com/weby-homelab/flash-monitor-kyiv/releases/tag/v1.4.14)**  
+→ **[Переглянути реліз v1.6.0](https://github.com/weby-homelab/flash-monitor-kyiv/releases/tag/v1.4.14)**  
 → **[Живий дашборд](https://flash.srvrs.top)**
 
 ---

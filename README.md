@@ -33,7 +33,7 @@
 **Працює навіть під час 18+ годинних блекаутів**  
 Docker multi-arch • Автономний • Розгортається за 2 команди
 
-→ **[Переглянути реліз v1.11.2](https://github.com/weby-homelab/flash-monitor-kyiv/releases/tag/v1.9.7)**  
+→ **[Переглянути реліз v1.11.2](https://github.com/weby-homelab/flash-monitor-kyiv/releases/tag/v1.11.2)**  
 → **[Живий дашборд](https://flash.srvrs.top)**
 
 ---

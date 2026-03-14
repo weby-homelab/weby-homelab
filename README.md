@@ -5,8 +5,8 @@
 <h1 align="center">Weby Homelab</h1>
 
 <p align="center">
-  <strong>СВІТЛО⚡БЕЗПЕКА</strong> — все-в-одному resilient monitoring для Києва<br>
-  Реальний час: світло • тривоги • AQI • радіація
+  <strong>Resilient Open Source Solutions for Modern Infrastructure</strong><br>
+  Від енергомоніторингу Києва до професійного керування мережевою безпекою
 </p>
 
 <p align="center">
@@ -20,28 +20,42 @@
 
 ---
 
-### 🚀 Головний проєкт
+## ⚡ Енергомоніторинг та Безпека
 
-**⚡ [flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv)** — [![Latest Release](https://img.shields.io/github/v/release/weby-homelab/flash-monitor-kyiv)](https://github.com/weby-homelab/flash-monitor-kyiv/releases/latest) (Active)
+### 🚀 [flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv) — [![Latest Release](https://img.shields.io/github/v/release/weby-homelab/flash-monitor-kyiv)](https://github.com/weby-homelab/flash-monitor-kyiv/releases/latest) (Active)
 
-Єдина система, яка об’єднує:
-- Моніторинг електроенергії (план vs факт + heartbeat)
-- Повітряні тривоги з живою картою Києва
-- Якість повітря (PM2.5/PM10) + радіаційний фон
-- PWA-дашборд, Telegram-алерти, ранкові звіти
+**СВІТЛО⚡БЕЗПЕКА** — флагманська система для жителів Києва.
+- **Smart Power Tracking:** Розумний fallback між Yasno та DTEK, розрахунок відхилень та прогнозів.
+- **Safety Hub:** Миттєві сповіщення про повітряні тривоги, мапа тривог, моніторинг AQI та радіації.
+- **Resilience:** Повна автономність, локальне кешування та підтримка IoT-датчиків.
 
-**Працює навіть під час 18+ годинних блекаутів**  
-Docker multi-arch • Автономний • Розгортається за 2 команди
-
-→ **[Переглянути останній реліз](https://github.com/weby-homelab/flash-monitor-kyiv/releases/latest)**  
-→ **[Живий дашборд](https://flash.srvrs.top)**
+→ **[Живий дашборд](https://flash.srvrs.top)** | **[Останній реліз](https://github.com/weby-homelab/flash-monitor-kyiv/releases/latest)**
 
 ---
 
-### Інші проєкти
+## 🛡️ Мережевий захист та Адміністрування
 
-- **[light-monitor-kyiv](https://github.com/weby-homelab/light-monitor-kyiv)** — ⛔ Archived (функціонал перенесено у Flash Monitor)
-- **[security-monitor-kyiv](https://github.com/weby-homelab/security-monitor-kyiv)** — ⛔ Archived (функціонал перенесено у Flash Monitor)
+### 🪵 [NiftyWall](https://github.com/weby-homelab/niftywall) — [![Version](https://img.shields.io/badge/version-1.4.1-teal.svg)](https://github.com/weby-homelab/niftywall)
+Професійний веб-дашборд для **nftables**. 
+- Пряма робота з ядром Linux без абстракцій. 
+- Розумне клонування правил, Time Machine (авто-снапшоти) та інтеграція з Fail2Ban.
+- Ідеально для Docker-середовищ та високопродуктивних серверів.
+
+### 🛡️ [Firewalld-GUI](https://github.com/weby-homelab/firewalld-gui) — [![Latest Release](https://img.shields.io/github/v/release/weby-homelab/firewalld-gui)](https://github.com/weby-homelab/firewalld-gui/releases/latest)
+Сучасна панель керування для **firewalld** та **Fail2Ban**.
+- Створена для AlmaLinux, RHEL та Ubuntu.
+- Зручний Rule Builder, керування зонами та моніторинг банів в реальному часі.
+
+### 🧱 [UFW-GUI](https://github.com/weby-homelab/ufw-gui) — [![Latest Release](https://img.shields.io/github/v/release/weby-homelab/ufw-gui)](https://github.com/weby-homelab/ufw-gui/releases/latest)
+Легкий та швидкий дашборд для **UFW**.
+- Мінімалістична альтернатива для Debian/Ubuntu серверів.
+- Швидке налаштування правил та інтегрований захист від Brute Force.
+
+---
+
+### 📦 Інші інструменти
+- **[voip-installer](https://github.com/weby-homelab/voip-installer)** — автоматизовані скрипти розгортання Asterisk.
+- **[ssh-port-changer](https://github.com/weby-homelab/ssh-port-changer)** — безпечна зміна порту SSH для Ubuntu 24.04 (systemd sockets support).
 
 ---
 

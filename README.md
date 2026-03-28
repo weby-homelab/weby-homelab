@@ -55,7 +55,7 @@
 
 ### 📦 Інші інструменти
 - **[voip-installer](https://github.com/weby-homelab/voip-installer)** — автоматизовані скрипти розгортання Asterisk.
-- **[ssh-port-changer](https://github.com/weby-homelab/ssh-port-changer)** — безпечна зміна порту SSH для Ubuntu 24.04 (systemd sockets support).
+- **[ssh-port-changer]([https://github.com/weby-homelab/ssh-port-changer](https://github.com/weby-homelab/voip-installer/tree/main/tools/ssh-port-changer])** — безпечна зміна порту SSH для Ubuntu 24.04 (systemd sockets support).
 
 ---
 

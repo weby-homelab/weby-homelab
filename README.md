@@ -11,7 +11,6 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" height="30" /> Надійні Open Source рішення для сучасної інфраструктури
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=weby-homelab&show_icons=true&theme=transparent&hide_border=true&title_color=00D4FF&text_color=white&icon_color=00D4FF" alt="GitHub Stats" />
 </div>
 
 ---

@@ -98,10 +98,10 @@ ADBlock-PD — це високопродуктивний, оптимізован
 
 ---
 
-## 🐍 Активність
+## 📈 Графік активності
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weby-homelab&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---

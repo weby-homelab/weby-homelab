@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Weby%20Homelab&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Weby%20Homelab&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=weby-homelab&color=blueviolet&style=flat-square" alt="Views" />
 </div>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Привіт! Я Weby Homelab
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Привіт! Я Weby Homelab
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" height="30" /> Надійні Open Source рішення для сучасної інфраструктури
 
@@ -15,11 +15,11 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="30" height="30" /> Про мене
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="30" height="30" /> Про мене
 
-<img align="right" src="https://github.com/CelaDaniel/CelaDaniel/raw/main/assets/animation_coder.gif" width="300" />
+<img align="right" src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" width="300" />
 
-*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Round%20Pushpin.png" width="20" /> Локація: **Київ, Україна** 🇺🇦
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Round%20Pushpin.png" width="20" /> Локація: **Київ, Україна** 🇺🇦
 *   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="20" /> Працюю над **Енергомоніторингом** та **Мережевою безпекою**
 *   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="20" /> Автор **NiftyWall** та **Firewalld-GUI**
 *   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20" /> Створюю **відмовостійку інфраструктуру**
@@ -69,7 +69,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Snake.png" alt="Snake" width="30" height="30" /> Активність
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snake.png" alt="Snake" width="30" height="30" /> Активність
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg" alt="Snake Game" />
@@ -79,5 +79,5 @@
 
 <div align="center">
   <p>Зроблено з ❤️ в Києві під звуки сирен та в часи блекаутів</p>
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
 </div>

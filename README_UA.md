@@ -21,18 +21,19 @@
 
 ---
 
-## 💎 Головний проєкт: ADBlock-PD
+## 💎 Головний проєкт: ADBlock-Private-DNS (ADBlock-PD)
 
 ### [ADBlock-PD](https://github.com/weby-homelab/adblock-pd) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/adblock-pd?color=brightgreen&label=v)
 
-**Найкращий легкий приватний DNS-резолвер із посиленою приватністю.**
+**Найкращий максимально захищений приватний DNS-резолвер для абсолютного суверенітету інфраструктури.**
 
-ADBlock-PD — це високопродуктивний, оптимізований форк, створений для абсолютної приватності та швидкості. Він є сучасною "slim" альтернативою важким DNS-рішенням, фокусуючись на ефективності та забезпечуючи середовище безпеки без компромісів.
+ADBlock-PD — це спеціалізований, спроектований для приватності форк AdGuard Home, ретельно перероблений для **повного розриву всіх зв'язків із зовнішніми інфраструктурами**. Він перетворює потужний механізм фільтрації на справжню "фортецю", яка залишається виключно у вашому локальному середовищі.
 
-- **Високопродуктивне ядро:** Оптимізовано для низької затримки та високої пропускної здатності.
-- **Посилена приватність:** Вбудований захист від відстеження та телеметрії.
-- **Сучасний Ad-Blocking:** Фільтрація реклами та шкідливих доменів на рівні мережі.
-- **Легкий та ефективний:** Створений для роботи на мінімальному залізі з максимальною стабільністю.
+- **Децентралізація інфраструктури:** Повністю очищений від будь-якої телеметрії, прихованих запитів або залежностей від стороннього коду.
+- **Фортеця приватності:** Посилене ядро, оптимізоване для роботи без витоків даних та забезпечення абсолютного локального контролю.
+- **Фільтрація корпоративного рівня:** Блокування реклами та захист від шкідливих доменів на рівні всієї мережі без зайвого "сміття".
+- **Шифрований суверенітет:** Повна підтримка протоколів DoH, DoT та DoQUIC для повністю зашифрованої та прихованої присутності в мережі.
+- **Оптимізація продуктивності:** Архітектура "Slim & Fast", створена для високої пропускної здатності та мінімальної затримки відповіді.
 
 ---
 
@@ -75,7 +76,7 @@ ADBlock-PD — це високопродуктивний, оптимізован
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,react,ts,docker,linux,nginx,sqlite,githubactions,git,bash,html,css" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,react,ts,docker,linux,nginx,sqlite,githubactions,git,bash,html,css,go" />
   </a>
 </div>
 
@@ -83,6 +84,7 @@ ADBlock-PD — це високопродуктивний, оптимізован
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />

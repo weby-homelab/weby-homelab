@@ -21,18 +21,19 @@
 
 ---
 
-## 💎 Featured Project: ADBlock-PD
+## 💎 Featured Project: ADBlock-Private-DNS (ADBlock-PD)
 
 ### [ADBlock-PD](https://github.com/weby-homelab/adblock-pd) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/adblock-pd?color=brightgreen&label=v)
 
-**The Ultimate Lightweight Private DNS Resolver with Hardened Privacy.**
+**The ultimate, heavily hardened private DNS resolver for absolute infrastructure sovereignty.**
 
-ADBlock-PD is a high-performance, optimized fork designed for absolute privacy and speed. It serves as a modern "slim" alternative to heavy DNS solutions, focusing on efficiency and providing a zero-compromise security environment.
+ADBlock-PD is a specialized, privacy-engineered fork of AdGuard Home, meticulously redesigned to **sever all ties with external infrastructures**. It transforms a powerful filtering engine into a "fortress" that stays strictly within your local environment, ensuring your DNS queries remain exclusively yours.
 
-- **High-Performance Core:** Optimized for low latency and high throughput.
-- **Privacy Hardened:** Built-in protection against tracking and telemetry.
-- **Modern Ad-Blocking:** Network-level filtering of ads and malicious domains.
-- **Lightweight & Efficient:** Designed to run on minimal hardware with maximum stability.
+- **Infrastructure Decoupling:** Completely sanitized to remove any telemetry, hidden requests, or third-party code dependencies.
+- **Privacy Fortress:** Hardened core optimized for zero-leak security and absolute local control.
+- **Enterprise-Grade Filtering:** Real-time, network-level ad-blocking and malicious domain protection without the bloat.
+- **Encrypted Sovereignty:** Full support for DoH, DoT, and DoQUIC, allowing for a fully encrypted, stealthy DNS presence.
+- **Performance Optimized:** A "Slim & Fast" architecture designed for high-throughput and low-latency response times.
 
 ---
 
@@ -75,7 +76,7 @@ Modern control panel for **firewalld** and **Fail2Ban**. Rule Builder & Real-tim
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,react,ts,docker,linux,nginx,sqlite,githubactions,git,bash,html,css" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,react,ts,docker,linux,nginx,sqlite,githubactions,git,bash,html,css,go" />
   </a>
 </div>
 
@@ -83,6 +84,7 @@ Modern control panel for **firewalld** and **Fail2Ban**. Rule Builder & Real-tim
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />

@@ -37,7 +37,7 @@
 
 ### [flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/flash-monitor-kyiv?color=brightgreen&label=v)
 
-**LIGHT⚡SAFETY** — flagship system for Kyiv residents.
+**POWER⚡SAFETY** — flagship system for Kyiv residents.
 - **Smart Power Tracking:** Intelligent fallback between Yasno and DTEK.
 - **Safety Hub:** Instant air raid alerts, AQI, and radiation.
 - **Resilience:** Fully autonomous with local caching.

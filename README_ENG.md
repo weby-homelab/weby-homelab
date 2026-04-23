@@ -1,65 +1,84 @@
-<p align="center">
-  <img src="https://github.com/weby-homelab.png" width="280" alt="Weby Homelab">
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Weby%20Homelab&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+</div>
 
-<h1 align="center">Weby Homelab</h1>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=weby-homelab&color=blueviolet&style=flat-square" alt="Views" />
+</div>
 
-<p align="center">
-  <strong>Resilient Open Source Solutions for Modern Infrastructure</strong><br>
-  From power monitoring in Kyiv to professional network security management
-</p>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hello there! I'm Weby Homelab
 
-<p align="center">
-  <a href="README_ENG.md">
-    <img src="https://img.shields.io/badge/🇬🇧_English-00D4FF?style=for-the-badge&logo=readme&logoColor=white" alt="English">
-  </a>
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/🇺🇦_Українська-FF4D00?style=for-the-badge&logo=readme&logoColor=white" alt="Ukrainian">
-  </a>
-</p>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" height="30" /> Resilient Open Source Solutions for Modern Infrastructure
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=weby-homelab&show_icons=true&theme=transparent&hide_border=true&title_color=00D4FF&text_color=white&icon_color=00D4FF" alt="GitHub Stats" />
+</div>
 
 ---
 
-## ⚡ Energy Monitoring & Safety
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="30" height="30" /> About Me
 
-### 🚀 [flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv) — [![Latest Release](https://img.shields.io/github/v/release/weby-homelab/flash-monitor-kyiv)](https://github.com/weby-homelab/flash-monitor-kyiv/releases/latest) (Active)
+<img align="right" src="https://github.com/CelaDaniel/CelaDaniel/raw/main/assets/animation_coder.gif" width="300" />
+
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Round%20Pushpin.png" width="20" /> Based in **Kyiv, Ukraine** 🇺🇦
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="20" /> Working on **Energy Monitoring** and **Network Security**
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="20" /> Creator of **NiftyWall** and **Firewalld-GUI**
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20" /> Dedicated to building **Resilient Infrastructure**
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Love%20Letter.png" width="20" /> Contact me: **rekvizitor.ua@gmail.com**
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="Voltage" width="30" height="30" /> Energy Monitoring & Safety
+
+### 🚀 [flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv) — [![Latest Release](https://img.shields.io/github/v/release/weby-homelab/flash-monitor-kyiv)](https://github.com/weby-homelab/flash-monitor-kyiv/releases/latest)
 
 **LIGHT⚡SAFETY** — flagship system for Kyiv residents.
-- **Smart Power Tracking:** Intelligent fallback between Yasno and DTEK, deviation calculations, and forecasts.
-- **Safety Hub:** Instant air raid alerts, live alarm map, AQI, and radiation monitoring.
-- **Resilience:** Fully autonomous, local caching, and IoT sensor support.
+- **Smart Power Tracking:** Intelligent fallback between Yasno and DTEK.
+- **Safety Hub:** Instant air raid alerts, live map, AQI, and radiation.
+- **Resilience:** Fully autonomous with local caching.
 
 → **[Live Dashboard](https://flash.srvrs.top)** | **[Latest Release](https://github.com/weby-homelab/flash-monitor-kyiv/releases/latest)**
 
 ---
 
-## 🛡️ Network Security & Administration
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Lock" width="30" height="30" /> Network Security & Admin
 
-### 🪵 [NiftyWall](https://github.com/weby-homelab/niftywall) — [![Version](https://img.shields.io/badge/version-1.4.1-teal.svg)](https://github.com/weby-homelab/niftywall)
-Professional web dashboard for **nftables**.
-- Direct Linux kernel interaction without unnecessary abstractions.
-- Smart rule cloning, Time Machine (auto-snapshots), and Fail2Ban integration.
-- Perfect for Docker environments and high-performance servers.
+### 🪵 [NiftyWall](https://github.com/weby-homelab/niftywall) — ![Version](https://img.shields.io/badge/version-1.4.1-teal.svg)
+Professional web dashboard for **nftables**. Direct kernel interaction with "Time Machine" snapshots.
 
 ### 🛡️ [Firewalld-GUI](https://github.com/weby-homelab/firewalld-gui) — [![Latest Release](https://img.shields.io/github/v/release/weby-homelab/firewalld-gui)](https://github.com/weby-homelab/firewalld-gui/releases/latest)
-Modern control panel for **firewalld** and **Fail2Ban**.
-- Built for AlmaLinux, RHEL, and Ubuntu.
-- User-friendly Rule Builder, zone management, and real-time ban monitoring.
+Modern control panel for **firewalld** and **Fail2Ban**. Rule Builder & Real-time monitor.
 
 ### 🧱 [UFW-GUI](https://github.com/weby-homelab/ufw-gui) — [![Latest Release](https://img.shields.io/github/v/release/weby-homelab/ufw-gui)](https://github.com/weby-homelab/ufw-gui/releases/latest)
-Lightweight and fast dashboard for **UFW**.
-- Minimalistic alternative for Debian/Ubuntu servers.
-- Fast rule configuration and integrated Brute Force protection.
+Lightweight dashboard for **UFW**. Minimalistic with Brute Force protection.
 
 ---
 
-### 📦 Other Tools
-- **[voip-installer](https://github.com/weby-homelab/voip-installer)** — automated Asterisk deployment scripts.
-- **[ssh-port-changer](https://github.com/weby-homelab/ssh-port-changer)** — safe SSH port changing for Ubuntu 24.04 (systemd sockets support).
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="30" height="30" /> Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</div>
 
 ---
 
-<p align="center">
-  Made with ❤️ in Kyiv under air raid sirens and blackouts<br>
-  <strong>✦ 2026 Weby Homelab ✦</strong>
-</p>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Snake.png" alt="Snake" width="30" height="30" /> My Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</div>
+
+---
+
+<div align="center">
+  <p>Made with ❤️ in Kyiv under air raid sirens and blackouts</p>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" width="100%" />
+</div>

@@ -2,6 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Weby%20Homelab&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
+<p align="center">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🇬🇧_English-00D4FF?style=for-the-badge&logo=readme&logoColor=white" alt="English README">
+  </a>
+  <a href="README_UA.md">
+    <img src="https://img.shields.io/badge/🇺🇦_Українська-FF4D00?style=for-the-badge&logo=readme&logoColor=white" alt="Українська версія">
+  </a>
+</p>
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=weby-homelab&color=blueviolet&style=flat-square" alt="Views" />
 </div>

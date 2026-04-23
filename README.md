@@ -23,16 +23,16 @@
 
 ## 💎 Featured Project: ADBlock-PD
 
-### [ADBlock-PD](https://github.com/weby-homelab/adb-pd) — ![Version](https://img.shields.io/badge/status-Public%20Archive-orange)
+### [ADBlock-PD](https://github.com/weby-homelab/adblock-pd) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/adblock-pd?color=brightgreen&label=v)
 
-**The Ultimate Private DNS Resolver with Pro-Grade Glassmorphism Dashboard.**
+**The Ultimate Lightweight Private DNS Resolver with Hardened Privacy.**
 
-ADBlock-PD is a "heavily hardened", lightweight, self-hosted DNS solution designed for absolute privacy, speed, and total control. It serves as a modern alternative to legacy DNS servers, focusing on encrypted protocols and providing a "Zero Telemetry" environment.
+ADBlock-PD is a high-performance, optimized fork designed for absolute privacy and speed. It serves as a modern "slim" alternative to heavy DNS solutions, focusing on efficiency and providing a zero-compromise security environment.
 
-- **High-Performance Resolver:** Full support for DNS-over-HTTPS (DoH), DNS-over-TLS (DoT), and DNS-over-QUIC.
-- **Advanced Ad-Blocking:** Real-time filtering of telemetry, ads, and malicious domains at the network level.
-- **Glassmorphism Dashboard:** Professional-grade management interface with real-time analytics and audit logs.
-- **Hardened Security:** Built-in AuthGate, rate limiting, and encrypted sync between nodes.
+- **High-Performance Core:** Optimized for low latency and high throughput.
+- **Privacy Hardened:** Built-in protection against tracking and telemetry.
+- **Modern Ad-Blocking:** Network-level filtering of ads and malicious domains.
+- **Lightweight & Efficient:** Designed to run on minimal hardware with maximum stability.
 
 ---
 

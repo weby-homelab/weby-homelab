@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Weby%20Homelab&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/main/assets/github-baner-webyhomelab.png" width="100%" alt="Weby Homelab Banner" />
 </div>
 
 <p align="center">
@@ -21,6 +21,21 @@
 
 ---
 
+## 💎 Головний проєкт: ADBlock-PD
+
+### [ADBlock-PD](https://github.com/weby-homelab/adb-pd) — ![Version](https://img.shields.io/badge/status-Публічний%20архів-orange)
+
+**Найкращий приватний DNS-резолвер із професійною Glassmorphism панеллю.**
+
+ADBlock-PD — це "максимально захищене", легке, приватне DNS-рішення, створене для абсолютної приватності, швидкості та повного контролю. Це сучасна альтернатива застарілим DNS-серверам, яка фокусується на зашифрованих протоколах та забезпечує середовище з "нульовою телеметрією".
+
+- **Високопродуктивний резолвер:** Повна підтримка DNS-over-HTTPS (DoH), DNS-over-TLS (DoT) та DNS-over-QUIC.
+- **Просунутий Ad-Blocking:** Фільтрація телеметрії, реклами та шкідливих доменів на рівні мережі в реальному часі.
+- **Glassmorphism панель:** Професійний інтерфейс керування з аналітикою та аудит-логами.
+- **Посилена безпека:** Вбудований AuthGate, обмеження швидкості (rate limiting) та шифрована синхронізація між вузлами.
+
+---
+
 ## 🌐 Про мене
 
 <img align="right" src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" width="280" />
@@ -37,7 +52,7 @@
 
 ### [flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/flash-monitor-kyiv?color=brightgreen&label=v)
 
-**СВІТЛО⚡БЕЗПЕКА** — флагманська система для киян.
+**POWER⚡SAFETY** — флагманська система для киян.
 - **Smart Power Tracking:** Розумний fallback між Yasno та ДТЕК.
 - **Safety Hub:** Миттєві сповіщення про тривоги, AQI та радіація.
 - **Resilience:** Повна автономність та локальне кешування.
@@ -53,9 +68,6 @@
 
 ### 🛡️ [Firewalld-GUI](https://github.com/weby-homelab/firewalld-gui) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/firewalld-gui?label=v)
 Сучасна панель керування для **firewalld** та **Fail2Ban**. Rule Builder та моніторинг атак.
-
-### 🧱 [UFW-GUI](https://github.com/weby-homelab/ufw-gui) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/ufw-gui?label=v)
-Легкий дашборд для **UFW**. Мінімалізм та захист від Brute Force.
 
 ---
 

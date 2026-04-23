@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Weby%20Homelab&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/main/assets/github-baner-webyhomelab.png" width="100%" alt="Weby Homelab Banner" />
 </div>
 
 <p align="center">
@@ -21,6 +21,21 @@
 
 ---
 
+## 💎 Featured Project: ADBlock-PD
+
+### [ADBlock-PD](https://github.com/weby-homelab/adb-pd) — ![Version](https://img.shields.io/badge/status-Public%20Archive-orange)
+
+**The Ultimate Private DNS Resolver with Pro-Grade Glassmorphism Dashboard.**
+
+ADBlock-PD is a "heavily hardened", lightweight, self-hosted DNS solution designed for absolute privacy, speed, and total control. It serves as a modern alternative to legacy DNS servers, focusing on encrypted protocols and providing a "Zero Telemetry" environment.
+
+- **High-Performance Resolver:** Full support for DNS-over-HTTPS (DoH), DNS-over-TLS (DoT), and DNS-over-QUIC.
+- **Advanced Ad-Blocking:** Real-time filtering of telemetry, ads, and malicious domains at the network level.
+- **Glassmorphism Dashboard:** Professional-grade management interface with real-time analytics and audit logs.
+- **Hardened Security:** Built-in AuthGate, rate limiting, and encrypted sync between nodes.
+
+---
+
 ## 🌐 About Me
 
 <img align="right" src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" width="280" />
@@ -39,7 +54,7 @@
 
 **POWER⚡SAFETY** — flagship system for Kyiv residents.
 - **Smart Power Tracking:** Intelligent fallback between Yasno and DTEK.
-- **Safety Hub:** Instant air raid alerts, AQI, and radiation.
+- **Safety Hub:** Instant air raid alerts, AQI, and radiation monitoring.
 - **Resilience:** Fully autonomous with local caching.
 
 → **[Live Dashboard](https://flash.srvrs.top)** | **[Latest Release](https://github.com/weby-homelab/flash-monitor-kyiv/releases/latest)**
@@ -53,9 +68,6 @@ Professional web dashboard for **nftables**. Direct kernel interaction with "Tim
 
 ### 🛡️ [Firewalld-GUI](https://github.com/weby-homelab/firewalld-gui) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/firewalld-gui?label=v)
 Modern control panel for **firewalld** and **Fail2Ban**. Rule Builder & Real-time monitor.
-
-### 🧱 [UFW-GUI](https://github.com/weby-homelab/ufw-gui) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/ufw-gui?label=v)
-Lightweight dashboard for **UFW**. Minimalistic with Brute Force protection.
 
 ---
 

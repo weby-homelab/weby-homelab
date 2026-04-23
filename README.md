@@ -6,30 +6,27 @@
   <img src="https://komarev.com/ghpvc/?username=weby-homelab&color=blueviolet&style=flat-square" alt="Views" />
 </div>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Привіт! Я Weby Homelab
+# 👋 Привіт! Я Weby Homelab
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" height="30" /> Надійні Open Source рішення для сучасної інфраструктури
-
-<div align="center">
-</div>
+### 🚀 Надійні Open Source рішення для сучасної інфраструктури
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="30" height="30" /> Про мене
+## 🌐 Про мене
 
-<img align="right" src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" width="300" />
+<img align="right" src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" width="280" />
 
-*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Round%20Pushpin.png" width="20" /> Локація: **Київ, Україна** 🇺🇦
-*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="20" /> Працюю над **Енергомоніторингом** та **Мережевою безпекою**
-*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="20" /> Автор **NiftyWall** та **Firewalld-GUI**
-*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20" /> Створюю **відмовостійку інфраструктуру**
-*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Love%20Letter.png" width="20" /> Зв'язок: **contact@srvrs.top**
+*   📍 Локація: **Київ, Україна** 🇺🇦
+*   💡 Спеціалізація: **Енергомоніторинг** та **Мережева безпека**
+*   🛡️ Автор проєктів: **NiftyWall**, **Firewalld-GUI**, **UFW-GUI**
+*   💻 Фокус: Створення **відмовостійкої інфраструктури**
+*   📧 Зв'язок: **contact@srvrs.top**
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="Voltage" width="30" height="30" /> Енергомоніторинг та Безпека
+## ⚡ Енергомоніторинг та Безпека
 
-### 🚀 [flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv) — [![Latest Release](https://img.shields.io/github/v/release/weby-homelab/flash-monitor-kyiv)](https://github.com/weby-homelab/flash-monitor-kyiv/releases/latest)
+### [flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/flash-monitor-kyiv?color=brightgreen&label=v)
 
 **СВІТЛО⚡БЕЗПЕКА** — флагманська система для киян.
 - **Smart Power Tracking:** Розумний fallback між Yasno та ДТЕК.
@@ -40,36 +37,30 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Lock" width="30" height="30" /> Мережевий захист та Адмін
+## 🔒 Мережевий захист та Адмін
 
 ### 🪵 [NiftyWall](https://github.com/weby-homelab/niftywall) — ![Version](https://img.shields.io/badge/version-1.4.1-teal.svg)
 Професійний дашборд для **nftables**. Пряма робота з ядром та "Машина часу" для правил.
 
-### 🛡️ [Firewalld-GUI](https://github.com/weby-homelab/firewalld-gui) — [![Latest Release](https://img.shields.io/github/v/release/weby-homelab/firewalld-gui)](https://github.com/weby-homelab/firewalld-gui/releases/latest)
+### 🛡️ [Firewalld-GUI](https://github.com/weby-homelab/firewalld-gui) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/firewalld-gui?label=v)
 Сучасна панель керування для **firewalld** та **Fail2Ban**. Rule Builder та моніторинг атак.
 
-### 🧱 [UFW-GUI](https://github.com/weby-homelab/ufw-gui) — [![Latest Release](https://img.shields.io/github/v/release/weby-homelab/ufw-gui)](https://github.com/weby-homelab/ufw-gui/releases/latest)
+### 🧱 [UFW-GUI](https://github.com/weby-homelab/ufw-gui) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/ufw-gui?label=v)
 Легкий дашборд для **UFW**. Мінімалізм та захист від Brute Force.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="30" height="30" /> Стек технологій
+## ⚙️ Стек технологій
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,react,ts,docker,linux,nginx,sqlite,githubactions,git,bash,html,css" />
+  </a>
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snake.png" alt="Snake" width="30" height="30" /> Активність
+## 🐍 Активність
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg" alt="Snake Game" />

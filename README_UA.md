@@ -39,8 +39,6 @@ ADBlock-PD — це спеціалізований, спроектований �
 
 ## 🌐 Про мене
 
-<img align="right" src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" width="280" />
-
 *   📍 Локація: **Київ, Україна** 🇺🇦
 *   💡 Спеціалізація: **Енергомоніторинг** та **Мережева безпека**
 *   🛡️ Автор проєктів: **NiftyWall**, **Firewalld-GUI**, **UFW-GUI**

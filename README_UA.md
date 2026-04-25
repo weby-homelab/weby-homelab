@@ -19,6 +19,13 @@
 
 ### 🚀 Надійні Open Source рішення для сучасної інфраструктури
 
+<p align="center">
+  <a href="https://x.com/weby_homelab"><img src="https://img.shields.io/badge/X-(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
+  <a href="https://t.me/weby_homelab"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://weby.srvrs.top"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:contact@srvrs.top"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
 ---
 
 ## 💎 Головний проєкт: ADBlock-Private-DNS (ADBlock-PD)
@@ -43,7 +50,6 @@ ADBlock-PD — це спеціалізований, спроектований �
 *   💡 Спеціалізація: **Енергомоніторинг** та **Мережева безпека**
 *   🛡️ Автор проєктів: **NiftyWall**, **Firewalld-GUI**, **UFW-GUI**
 *   💻 Фокус: Створення **відмовостійкої інфраструктури**
-*   📧 Зв'язок: **contact@srvrs.top**
 
 ---
 
@@ -82,47 +88,6 @@ ADBlock-PD — це спеціалізований, спроектований �
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=weby-homelab&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</div>
-
----
-
-## 📈 Графік активності
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weby-homelab&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-</div>
-
----
-
-<div align="center">
-  <p>Зроблено з ❤️ в Києві під звуки сирен та в часи блекаутів</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
-</div>
-e" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</div>
-
----
-
-## 📈 Графік активності
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weby-homelab&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-</div>
-
----
-
-<div align="center">
-  <p>Зроблено з ❤️ в Києві під звуки сирен та в часи блекаутів</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
-</div>
-ields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
 
 ---

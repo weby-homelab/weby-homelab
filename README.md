@@ -56,11 +56,10 @@ ADBlock-PD is a specialized, privacy-engineered fork of AdGuard Home, meticulous
 ## ⚡ Energy Monitoring & Safety
 
 ### [flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/flash-monitor-kyiv?color=brightgreen&label=v)
+**POWER⚡SAFETY** — flagship system for Kyiv residents. Intelligent fallback between Yasno and DTEK, air raid alerts, and AQI monitoring.
 
-**POWER⚡SAFETY** — flagship system for Kyiv residents.
-- **Smart Power Tracking:** Intelligent fallback between Yasno and DTEK.
-- **Safety Hub:** Instant air raid alerts, AQI, and radiation monitoring.
-- **Resilience:** Fully autonomous with local caching.
+### [air-quality-dashboard](https://github.com/weby-homelab/air-quality-dashboard) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/air-quality-dashboard?color=brightgreen&label=v)
+**EcoStation** — Modern real-time air quality (PM2.5, PM10) and radiation monitoring dashboard with PWA support.
 
 → **[Live Dashboard](https://flash.srvrs.top)** | **[Latest Release](https://github.com/weby-homelab/flash-monitor-kyiv/releases/latest)**
 
@@ -68,7 +67,7 @@ ADBlock-PD is a specialized, privacy-engineered fork of AdGuard Home, meticulous
 
 ## 🔒 Network Security & Admin
 
-### 🪵 [NiftyWall](https://github.com/weby-homelab/niftywall) — ![Version](https://img.shields.io/badge/version-1.4.1-teal.svg)
+### 🪵 [NiftyWall](https://github.com/weby-homelab/niftywall) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/niftywall?color=brightgreen&label=v)
 Professional web dashboard for **nftables**. Direct kernel interaction with "Time Machine" snapshots.
 
 ### 🛡️ [Firewalld-GUI](https://github.com/weby-homelab/firewalld-gui) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/firewalld-gui?label=v)

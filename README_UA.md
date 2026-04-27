@@ -56,11 +56,10 @@ ADBlock-PD — це спеціалізований, спроектований �
 ## ⚡ Енергомоніторинг та Безпека
 
 ### [flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/flash-monitor-kyiv?color=brightgreen&label=v)
+**POWER⚡SAFETY** — флагманська система для киян. Розумний fallback між Yasno та ДТЕК, сповіщення про тривоги та AQI.
 
-**POWER⚡SAFETY** — флагманська система для киян.
-- **Smart Power Tracking:** Розумний fallback між Yasno та ДТЕК.
-- **Safety Hub:** Миттєві сповіщення про тривоги, AQI та радіація.
-- **Resilience:** Повна автономність та локальне кешування.
+### [air-quality-dashboard](https://github.com/weby-homelab/air-quality-dashboard) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/air-quality-dashboard?color=brightgreen&label=v)
+**EcoStation** — Сучасний PWA-дашборд для моніторингу якості повітря (PM2.5, PM10) та радіації в реальному часі.
 
 → **[Живий Дашборд](https://flash.srvrs.top)** | **[Останній реліз](https://github.com/weby-homelab/flash-monitor-kyiv/releases/latest)**
 
@@ -68,7 +67,7 @@ ADBlock-PD — це спеціалізований, спроектований �
 
 ## 🔒 Мережевий захист та Адмін
 
-### 🪵 [NiftyWall](https://github.com/weby-homelab/niftywall) — ![Version](https://img.shields.io/badge/version-1.4.1-teal.svg)
+### 🪵 [NiftyWall](https://github.com/weby-homelab/niftywall) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/niftywall?color=brightgreen&label=v)
 Професійний дашборд для **nftables**. Пряма робота з ядром та "Машина часу" для правил.
 
 ### 🛡️ [Firewalld-GUI](https://github.com/weby-homelab/firewalld-gui) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/firewalld-gui?label=v)

@@ -100,6 +100,14 @@ Modern control panel for **firewalld** and **Fail2Ban**. Rule Builder & Real-tim
 ---
 
 <div align="center">
-  <p>Made with ❤️ in Kyiv under air raid sirens and blackouts</p>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
 </div>
+
+---
+
+<br>
+<p align="center">
+  Built in Ukraine under air raid sirens &amp; blackouts ⚡<br>
+  &copy; 2026 Weby Homelab
+</p>

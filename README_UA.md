@@ -103,3 +103,11 @@ ADBlock-PD — це спеціалізований, спроектований �
   <p>Зроблено з ❤️ в Києві під звуки сирен та в часи блекаутів</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
 </div>
+
+---
+
+<br>
+<p align="center">
+  Built in Ukraine under air raid sirens &amp; blackouts ⚡<br>
+  &copy; 2026 Weby Homelab
+</p>

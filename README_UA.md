@@ -94,6 +94,12 @@ ADBlock-PD — це спеціалізований, спроектований �
 ## 📈 Графік активності
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg">
+  </picture>
+  <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=weby-homelab&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </div>
 

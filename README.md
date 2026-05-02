@@ -1,6 +1,16 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/main/assets/baner-weby-homelab.png" width="100%" alt="Weby Homelab Banner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
+
+#<div align="center">
+#  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/main/assets/baner-weby-homelab.png" width="100%" alt="Weby Homelab Banner" />
+#</div>
+
+---
 
 <p align="center">
   <a href="README.md">
@@ -96,14 +106,6 @@ Modern control panel for **firewalld** and **Fail2Ban**. Rule Builder & Real-tim
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-stats.svg" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ---

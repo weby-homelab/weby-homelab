@@ -6,8 +6,6 @@
   </picture>
 </div>
 
----
-
 <p align="center">
   <a href="README.md">
     <img src="https://img.shields.io/badge/🇬🇧_English-00D4FF?style=for-the-badge&logo=readme&logoColor=white" alt="English README">

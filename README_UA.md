@@ -86,7 +86,7 @@ ADBlock-PD — це спеціалізований, спроектований �
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=weby-homelab&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=weby-homelab&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </div>
 
 ---

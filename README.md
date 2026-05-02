@@ -6,10 +6,6 @@
   </picture>
 </div>
 
-#<div align="center">
-#  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/main/assets/baner-weby-homelab.png" width="100%" alt="Weby Homelab Banner" />
-#</div>
-
 ---
 
 <p align="center">

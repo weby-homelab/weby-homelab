@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/main/assets/baner-weby-homelab.png" width="100%" alt="Weby Homelab Banner" />
-</div>
-
 <p align="center">
   <a href="README.md">
     <img src="https://img.shields.io/badge/🇬🇧_English-00D4FF?style=for-the-badge&logo=readme&logoColor=white" alt="English README">
@@ -11,6 +7,13 @@
   </a>
 </p>
 
+<div align="center">
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weby-homelab&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+</div>
+
+<br>
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=weby-homelab&color=blueviolet&style=flat-square" alt="Views" />
 </div>
@@ -19,14 +22,7 @@
 
 ### 🚀 Надійні Open Source рішення для сучасної інфраструктури
 
-<p align="center">
-  <a href="https://x.com/weby_homelab"><img src="https://img.shields.io/badge/X-(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
-  <a href="https://t.me/weby_homelab"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://weby.srvrs.top"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:contact@srvrs.top"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
+##
 
 ## 💎 Головний проєкт: ADBlock-Private-DNS (ADBlock-PD)
 
@@ -42,7 +38,7 @@ ADBlock-PD — це спеціалізований, спроектований �
 - **Шифрований суверенітет:** Повна підтримка протоколів DoH, DoT та DoQUIC для повністю зашифрованої та прихованої присутності в мережі.
 - **Оптимізація продуктивності:** Архітектура "Slim & Fast", створена для високої пропускної здатності та мінімальної затримки відповіді.
 
----
+##
 
 ## 🌐 Про мене
 
@@ -51,7 +47,14 @@ ADBlock-PD — це спеціалізований, спроектований �
 *   🛡️ Автор проєктів: **NiftyWall**, **Firewalld-GUI**, **UFW-GUI**
 *   💻 Фокус: Створення **відмовостійкої інфраструктури**
 
----
+<p align="left">
+  <a href="https://x.com/weby_homelab"><img src="https://img.shields.io/badge/X-(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
+  <a href="https://t.me/weby_homelab"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://weby.srvrs.top"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:contact@srvrs.top"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+##
 
 ## ⚡ Енергомоніторинг та Безпека
 
@@ -63,7 +66,7 @@ ADBlock-PD — це спеціалізований, спроектований �
 
 → **[Живий Дашборд](https://flash.srvrs.top)** | **[Останній реліз](https://github.com/weby-homelab/flash-monitor-kyiv/releases/latest)**
 
----
+##
 
 ## 🔒 Мережевий захист та Адмін
 
@@ -79,14 +82,19 @@ ADBlock-PD — це спеціалізований, спроектований �
 ### 📞 [VoIP Server Installer](https://github.com/weby-homelab/voip-installer) — ![Latest Release](https://img.shields.io/github/v/tag/weby-homelab/voip-installer?label=v)
 Безпечне та автоматизоване розгортання **Asterisk** на Ubuntu 24.04.
 
----
+##
 
 ## 🎮 Спільнота та Mini Apps
 
 ### 🏆 [Karma Community App](https://github.com/weby-homelab/karma-community-app) — ![Status](https://img.shields.io/badge/Status-Active-success)
 Сучасний **Telegram Mini App** для гейміфікації спільноти. React фронтенд та Node.js бот.
 
----
+##
+<div align="center">
+  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-stats.svg" alt="GitHub Stats" />
+</div>
+
+<br>
 
 ## ⚙️ Стек технологій та Інструменти
 
@@ -96,36 +104,16 @@ ADBlock-PD — це спеціалізований, спроектований �
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-stats.svg" alt="GitHub Stats" />
-</div>
-
----
-
-## 📈 Графік активності
-
+##
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg">
   </picture>
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weby-homelab&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </div>
 
----
-
-<div align="center">
-  <p>Зроблено з ❤️ в Києві під звуки сирен та в часи блекаутів</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
-</div>
-
----
-
-<br>
+##
 <p align="center">
   Built in Ukraine under air raid sirens &amp; blackouts ⚡<br>
   &copy; 2026 Weby Homelab

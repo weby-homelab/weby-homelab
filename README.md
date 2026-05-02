@@ -91,7 +91,7 @@ Modern control panel for **firewalld** and **Fail2Ban**. Rule Builder & Real-tim
   </a>
 </div>
 
----
+##
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake-dark.svg">
@@ -99,6 +99,7 @@ Modern control panel for **firewalld** and **Fail2Ban**. Rule Builder & Real-tim
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
 ##
 <p align="center">
   Built in Ukraine under air raid sirens &amp; blackouts ⚡<br>

@@ -76,7 +76,12 @@ Professional web dashboard for **nftables**. Direct kernel interaction with "Tim
 ### 🛡️ [Firewalld-GUI](https://github.com/weby-homelab/firewalld-gui) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/firewalld-gui?label=v)
 Modern control panel for **firewalld** and **Fail2Ban**. Rule Builder & Real-time monitor.
 
----
+##
+<div align="center">
+  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-stats.svg" alt="GitHub Stats" />
+</div>
+
+<br>
 
 ## ⚙️ Tech Stack & Tools
 
@@ -95,13 +100,6 @@ Modern control panel for **firewalld** and **Fail2Ban**. Rule Builder & Real-tim
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-stats.svg" alt="GitHub Stats" />
-</div>
-
----
-
-<br>
 <p align="center">
   Built in Ukraine under air raid sirens &amp; blackouts ⚡<br>
   &copy; 2026 Weby Homelab

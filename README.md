@@ -76,6 +76,19 @@ Professional web dashboard for **nftables**. Direct kernel interaction with "Tim
 ### 🛡️ [Firewalld-GUI](https://github.com/weby-homelab/firewalld-gui) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/firewalld-gui?label=v)
 Modern control panel for **firewalld** and **Fail2Ban**. Rule Builder & Real-time monitor.
 
+### 🧱 [UFW-GUI](https://github.com/weby-homelab/ufw-gui) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/ufw-gui?label=v)
+Modern web interface for managing **UFW** via **Docker** with Zero-Fallback Secrets.
+
+### 📞 [VoIP Server Installer](https://github.com/weby-homelab/voip-installer) — ![Latest Release](https://img.shields.io/github/v/tag/weby-homelab/voip-installer?label=v)
+Secure and automated **Asterisk** deployment on Ubuntu 24.04.
+
+##
+
+## 🎮 Community & Mini Apps
+
+### 🏆 [Karma Community App](https://github.com/weby-homelab/karma-community-app) — ![Status](https://img.shields.io/badge/Status-Active-success)
+Modern **Telegram Mini App** for community gamification. React frontend and Node.js bot backend.
+
 ##
 <div align="center">
   <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-stats.svg" alt="GitHub Stats" />

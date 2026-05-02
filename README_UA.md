@@ -73,6 +73,19 @@ ADBlock-PD — це спеціалізований, спроектований �
 ### 🛡️ [Firewalld-GUI](https://github.com/weby-homelab/firewalld-gui) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/firewalld-gui?label=v)
 Сучасна панель керування для **firewalld** та **Fail2Ban**. Rule Builder та моніторинг атак.
 
+### 🧱 [UFW-GUI](https://github.com/weby-homelab/ufw-gui) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/ufw-gui?label=v)
+Сучасний веб-інтерфейс для керування **UFW** через **Docker** з Zero-Fallback Secrets.
+
+### 📞 [VoIP Server Installer](https://github.com/weby-homelab/voip-installer) — ![Latest Release](https://img.shields.io/github/v/tag/weby-homelab/voip-installer?label=v)
+Безпечне та автоматизоване розгортання **Asterisk** на Ubuntu 24.04.
+
+---
+
+## 🎮 Спільнота та Mini Apps
+
+### 🏆 [Karma Community App](https://github.com/weby-homelab/karma-community-app) — ![Status](https://img.shields.io/badge/Status-Active-success)
+Сучасний **Telegram Mini App** для гейміфікації спільноти. React фронтенд та Node.js бот.
+
 ---
 
 ## ⚙️ Стек технологій та Інструменти

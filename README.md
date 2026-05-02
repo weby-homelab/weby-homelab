@@ -22,7 +22,7 @@
 
 ### 🚀 Resilient Open Source Solutions for Modern Infrastructure
 
----
+##
 
 ## 💎 Featured Project: ADBlock-Private-DNS (ADBlock-PD)
 
@@ -38,7 +38,7 @@ ADBlock-PD is a specialized, privacy-engineered fork of AdGuard Home, meticulous
 - **Encrypted Sovereignty:** Full support for DoH, DoT, and DoQUIC, allowing for a fully encrypted, stealthy DNS presence.
 - **Performance Optimized:** A "Slim & Fast" architecture designed for high-throughput and low-latency response times.
 
----
+##
 
 ## 🌐 About Me
 
@@ -54,7 +54,7 @@ ADBlock-PD is a specialized, privacy-engineered fork of AdGuard Home, meticulous
   <a href="mailto:contact@srvrs.top"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+##
 
 ## ⚡ Energy Monitoring & Safety
 
@@ -66,7 +66,7 @@ ADBlock-PD is a specialized, privacy-engineered fork of AdGuard Home, meticulous
 
 → **[Live Dashboard](https://flash.srvrs.top)** | **[Latest Release](https://github.com/weby-homelab/flash-monitor-kyiv/releases/latest)**
 
----
+##
 
 ## 🔒 Network Security & Admin
 
@@ -99,7 +99,7 @@ Modern control panel for **firewalld** and **Fail2Ban**. Rule Builder & Real-tim
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
+##
 <p align="center">
   Built in Ukraine under air raid sirens &amp; blackouts ⚡<br>
   &copy; 2026 Weby Homelab

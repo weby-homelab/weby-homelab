@@ -83,12 +83,6 @@ Modern control panel for **firewalld** and **Fail2Ban**. Rule Builder & Real-tim
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-stats.svg" alt="GitHub Stats" />
-</div>
-
 ---
 
 ## 📈 Contribution Graph
@@ -96,6 +90,12 @@ Modern control panel for **firewalld** and **Fail2Ban**. Rule Builder & Real-tim
 <div align="center">
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=weby-homelab&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-stats.svg" alt="GitHub Stats" />
 </div>
 
 <div align="center">

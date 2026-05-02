@@ -106,8 +106,6 @@ Modern control panel for **firewalld** and **Fail2Ban**. Rule Builder & Real-tim
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg">
   </picture>
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weby-homelab&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---

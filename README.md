@@ -1,11 +1,3 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 <p align="center">
   <a href="README.md">
     <img src="https://img.shields.io/badge/🇬🇧_English-00D4FF?style=for-the-badge&logo=readme&logoColor=white" alt="English README">
@@ -15,6 +7,14 @@
   </a>
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=weby-homelab&color=blueviolet&style=flat-square" alt="Views" />
 </div>
@@ -22,13 +22,6 @@
 # 👋 Hello there! I'm Weby Homelab
 
 ### 🚀 Resilient Open Source Solutions for Modern Infrastructure
-
-<p align="center">
-  <a href="https://x.com/weby_homelab"><img src="https://img.shields.io/badge/X-(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
-  <a href="https://t.me/weby_homelab"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://weby.srvrs.top"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:contact@srvrs.top"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
 
 ---
 
@@ -54,6 +47,13 @@ ADBlock-PD is a specialized, privacy-engineered fork of AdGuard Home, meticulous
 *   💡 Specialization: **Energy Monitoring** and **Network Security**
 *   🛡️ Author of: **NiftyWall**, **Firewalld-GUI**, **UFW-GUI**
 *   💻 Focus: Building **Resilient Infrastructure**
+
+<p align="center">
+  <a href="https://x.com/weby_homelab"><img src="https://img.shields.io/badge/X-(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
+  <a href="https://t.me/weby_homelab"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://weby.srvrs.top"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:contact@srvrs.top"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 

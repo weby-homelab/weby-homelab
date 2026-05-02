@@ -29,6 +29,11 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # fetch and cache github-readme-stats for resilience
+      - name: fetch github-readme-stats
+        run: |
+          curl -s "https://github-readme-stats-sigma-five.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" > dist/github-stats.svg
           
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page

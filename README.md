@@ -86,7 +86,7 @@ Modern control panel for **firewalld** and **Fail2Ban**. Rule Builder & Real-tim
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=weby-homelab&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-stats.svg" alt="GitHub Stats" />
 </div>
 
 ---

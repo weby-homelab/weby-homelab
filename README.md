@@ -100,7 +100,7 @@ Modern **Telegram Mini App** for community gamification. React frontend and Node
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,react,ts,docker,linux,nginx,sqlite,githubactions,git,bash,html,css,go" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,svelte,vite,express,py,fastapi,flask,go,html,css,tailwind,docker,bash,sqlite,mongodb,nginx,cloudflare,linux,ubuntu,git,githubactions&perline=12" />
   </a>
 </div>
 

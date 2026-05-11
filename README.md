@@ -77,9 +77,24 @@ Modern control panel for **firewalld** and **Fail2Ban**. Rule Builder & Real-tim
 
 ## ⚙️ Tech Stack & Tools
 
+#### 🌐 Frontend & Languages
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,react,ts,docker,linux,nginx,sqlite,githubactions,git,bash,html,css,go" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,svelte,html,css,tailwind" />
+  </a>
+</div>
+
+#### ⚙️ Backend & Tools
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,vite,py,fastapi,flask,go" />
+  </a>
+</div>
+
+#### 💾 Database & DevOps
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,bash,sqlite,mongodb,nginx,cloudflare,linux,ubuntu,git,githubactions" />
   </a>
 </div>
 

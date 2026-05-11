@@ -99,21 +99,21 @@ Modern **Telegram Mini App** for community gamification. React frontend and Node
 ## ⚙️ Tech Stack & Tools
 
 #### 🌐 Frontend & Languages
-<div align="center">
+<div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,svelte,html,css,tailwind" />
   </a>
 </div>
 
 #### ⚙️ Backend & Tools
-<div align="center">
+<div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,vite,py,fastapi,flask,go" />
   </a>
 </div>
 
 #### 💾 Database & DevOps
-<div align="center">
+<div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,bash,sqlite,mongodb,nginx,cloudflare,linux,ubuntu,git,githubactions" />
   </a>

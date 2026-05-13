@@ -90,7 +90,7 @@ Secure and automated **Asterisk** deployment on Ubuntu 24.04.
 Modern **Telegram Mini App** for community gamification. React frontend and Node.js bot backend.
 
 ##
-<div align="center">
+<div align="right">
   <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-stats.svg" alt="GitHub Stats" />
 </div>
 

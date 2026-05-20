@@ -44,7 +44,7 @@ ADBlock-PD is a specialized, privacy-engineered fork of AdGuard Home, meticulous
 
 *   📍 Location: **Kyiv, Ukraine** 🇺🇦
 *   💡 Specialization: **Energy Monitoring** and **Network Security**
-*   🛡️ Author of: **NiftyWall**, **Firewalld-GUI**, **UFW-GUI**
+*   🛡️ Author of: **NiftyWall**, **Firewalld-GUI**, **UFW-GUI**, **Docker-Mailserver-GUI**
 *   💻 Focus: Building **Resilient Infrastructure**
 
 <p align="left">
@@ -81,6 +81,9 @@ Modern web interface for managing **UFW** via **Docker** with Zero-Fallback Secr
 
 ### 📞 [VoIP Server Installer](https://github.com/weby-homelab/voip-installer) — ![Latest Release](https://img.shields.io/github/v/tag/weby-homelab/voip-installer?label=v)
 Secure and automated **Asterisk** deployment on Ubuntu 24.04.
+
+### ✉️ [Docker-Mailserver-GUI](https://github.com/weby-homelab/docker-mailserver-gui) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/docker-mailserver-gui?label=v)
+Highly secure **Zero Trust** mail server with **Traefik** reverse proxy & **SnappyMail** webmail GUI. Microservices architecture with auto-SSL.
 
 ##
 

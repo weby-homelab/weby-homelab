@@ -92,6 +92,9 @@ ADBlock-PD — це спеціалізований, спроектований �
 ### 🏆 [Karma Community App](https://github.com/weby-homelab/karma-community-app) — ![Status](https://img.shields.io/badge/Status-Active-success)
 Сучасний **Telegram Mini App** для гейміфікації спільноти. React фронтенд та Node.js бот.
 
+### 🛡️ [Safety-Chat-Bot](https://github.com/weby-homelab/safety-chat-bot) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/safety-chat-bot?color=brightgreen&label=v)
+Легкий **Telegram** бот для модерації з нативною системою карми через реакції. Побудований на **Aiogram 3** та **PostgreSQL**. Автореєстрація, антиспам фільтри та готовність до Docker.
+
 ##
 
 ## 🛠️ Інструменти розробника

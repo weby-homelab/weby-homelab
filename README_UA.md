@@ -61,8 +61,14 @@ ADBlock-PD — це спеціалізований, спроектований �
 ### [flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/flash-monitor-kyiv?color=brightgreen&label=v)
 **POWER⚡SAFETY** — флагманська система для киян. Розумний fallback між Yasno та ДТЕК, сповіщення про тривоги та AQI.
 
+### 🛡️ [security-monitor-kyiv](https://github.com/weby-homelab/security-monitor-kyiv) — ![Stars](https://img.shields.io/github/stars/weby-homelab/security-monitor-kyiv?style=flat-square)
+Дашборд ситуаційної обізнаності для Києва. Відстежує в реальному часі повітряні тривоги 🚨, радіацію ☢️, якість повітря ☁️ та стан мережі живлення 💡.
+
 ### [air-quality-dashboard](https://github.com/weby-homelab/air-quality-dashboard) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/air-quality-dashboard?color=brightgreen&label=v)
 **EcoStation** — Сучасний PWA-дашборд для моніторингу якості повітря (PM2.5, PM10) та радіації в реальному часі.
+
+### 🔌 [fm-ua](https://github.com/weby-homelab/fm-ua) — ![Status](https://img.shields.io/badge/Status-Active-success)
+Flash-Monitor-UA v2.0 — децентралізований P2P-маркетплейс електроенергії на базі Python.
 
 → **[Живий Дашборд](https://flash.srvrs.top)** | **[Останній реліз](https://github.com/weby-homelab/flash-monitor-kyiv/releases/latest)**
 
@@ -79,6 +85,9 @@ ADBlock-PD — це спеціалізований, спроектований �
 ### 🧱 [UFW-GUI](https://github.com/weby-homelab/ufw-gui) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/ufw-gui?label=v)
 Сучасний веб-інтерфейс для керування **UFW** через **Docker** з Zero-Fallback Secrets.
 
+### 🌐 [adb-pd](https://github.com/weby-homelab/adb-pd) — ![Status](https://img.shields.io/badge/Status-Active-success)
+Високопродуктивний DNS-over-HTTPS/TLS/QUIC резолвер на Python з професійною панеллю керування в стилі Glassmorphism.
+
 ### 📞 [VoIP Server Installer](https://github.com/weby-homelab/voip-installer) — ![Latest Release](https://img.shields.io/github/v/tag/weby-homelab/voip-installer?label=v)
 Безпечне та автоматизоване розгортання **Asterisk** на Ubuntu 24.04.
 
@@ -94,6 +103,16 @@ ADBlock-PD — це спеціалізований, спроектований �
 
 ### 🛡️ [Safety-Chat-Bot](https://github.com/weby-homelab/safety-chat-bot) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/safety-chat-bot?color=brightgreen&label=v)
 Легкий **Telegram** бот для модерації з нативною системою карми через реакції. Побудований на **Aiogram 3** та **PostgreSQL**. Автореєстрація, антиспам фільтри та готовність до Docker.
+
+##
+
+## 🌌 Інфраструктура та Homelab
+
+### 🌌 [homelab](https://github.com/weby-homelab/homelab) — ![Status](https://img.shields.io/badge/Status-Active-success)
+Центральна нервова система моєї інфраструктури. Інфраструктура як код (IaC), Ansible-конфігурації, скрипти автоматизації та моніторинг для безпечного хмарного та локального HomeLab-середовища.
+
+### 💡 [light-monitor-kyiv](https://github.com/weby-homelab/light-monitor-kyiv) — ![Stars](https://img.shields.io/github/stars/weby-homelab/light-monitor-kyiv?style=flat-square)
+Аналітичний інструмент для homelab, який збирає статистику відключень, будує красиві графіки (Dark Mode) та розраховує точність графіків відключень Yasno/DTEK.
 
 ##
 

@@ -118,7 +118,7 @@ ADBlock-PD — це спеціалізований, спроектований �
 #### 💾 Database & DevOps
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,bash,sqlite,mongodb,nginx,cloudflare,linux,ubuntu,git,githubactions" />
+    <img src="https://skillicons.dev/icons?i=docker,bash,sqlite,postgres,mongodb,nginx,cloudflare,prometheus,linux,ubuntu,git,githubactions" />
   </a>
 </div>
 

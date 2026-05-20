@@ -92,6 +92,9 @@ Highly secure **Zero Trust** mail server with **Traefik** reverse proxy & **Snap
 ### 🏆 [Karma Community App](https://github.com/weby-homelab/karma-community-app) — ![Status](https://img.shields.io/badge/Status-Active-success)
 Modern **Telegram Mini App** for community gamification. React frontend and Node.js bot backend.
 
+### 🛡️ [Safety-Chat-Bot](https://github.com/weby-homelab/safety-chat-bot) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/safety-chat-bot?color=brightgreen&label=v)
+Lightweight **Telegram** moderation bot with native karma system via reactions. Built on **Aiogram 3** & **PostgreSQL**. Auto-registration, anti-spam filters & Docker-ready.
+
 ##
 
 ## 🛠️ Developer Tools

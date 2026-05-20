@@ -61,8 +61,14 @@ ADBlock-PD is a specialized, privacy-engineered fork of AdGuard Home, meticulous
 ### [flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/flash-monitor-kyiv?color=brightgreen&label=v)
 **POWER⚡SAFETY** — flagship system for Kyiv residents. Intelligent fallback between Yasno and DTEK, air raid alerts, and AQI monitoring.
 
+### 🛡️ [security-monitor-kyiv](https://github.com/weby-homelab/security-monitor-kyiv) — ![Stars](https://img.shields.io/github/stars/weby-homelab/security-monitor-kyiv?style=flat-square)
+Situational awareness wall dashboard for Kyiv. Tracks real-time air raid alerts 🚨, radiation ☢️, AQI ☁️, and power grid status 💡.
+
 ### [air-quality-dashboard](https://github.com/weby-homelab/air-quality-dashboard) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/air-quality-dashboard?color=brightgreen&label=v)
 **EcoStation** — Modern real-time air quality (PM2.5, PM10) and radiation monitoring dashboard with PWA support.
+
+### 🔌 [fm-ua](https://github.com/weby-homelab/fm-ua) — ![Status](https://img.shields.io/badge/Status-Active-success)
+Flash-Monitor-UA v2.0 — Python-based peer-to-peer (P2P) decentralized energy marketplace.
 
 → **[Live Dashboard](https://flash.srvrs.top)** | **[Latest Release](https://github.com/weby-homelab/flash-monitor-kyiv/releases/latest)**
 
@@ -79,6 +85,9 @@ Modern control panel for **firewalld** and **Fail2Ban**. Rule Builder & Real-tim
 ### 🧱 [UFW-GUI](https://github.com/weby-homelab/ufw-gui) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/ufw-gui?label=v)
 Modern web interface for managing **UFW** via **Docker** with Zero-Fallback Secrets.
 
+### 🌐 [adb-pd](https://github.com/weby-homelab/adb-pd) — ![Status](https://img.shields.io/badge/Status-Active-success)
+High-performance DNS-over-HTTPS/TLS/QUIC resolver written in Python with a pro-grade Glassmorphism administration dashboard.
+
 ### 📞 [VoIP Server Installer](https://github.com/weby-homelab/voip-installer) — ![Latest Release](https://img.shields.io/github/v/tag/weby-homelab/voip-installer?label=v)
 Secure and automated **Asterisk** deployment on Ubuntu 24.04.
 
@@ -94,6 +103,16 @@ Modern **Telegram Mini App** for community gamification. React frontend and Node
 
 ### 🛡️ [Safety-Chat-Bot](https://github.com/weby-homelab/safety-chat-bot) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/safety-chat-bot?color=brightgreen&label=v)
 Lightweight **Telegram** moderation bot with native karma system via reactions. Built on **Aiogram 3** & **PostgreSQL**. Auto-registration, anti-spam filters & Docker-ready.
+
+##
+
+## 🌌 Infrastructure & Homelab
+
+### 🌌 [homelab](https://github.com/weby-homelab/homelab) — ![Status](https://img.shields.io/badge/Status-Active-success)
+The central nervous system of my infrastructure. Infrastructure as Code (IaC), Ansible configurations, automation scripts, and monitoring setups for my secure, multi-node cloud & local HomeLab environment.
+
+### 💡 [light-monitor-kyiv](https://github.com/weby-homelab/light-monitor-kyiv) — ![Stars](https://img.shields.io/github/stars/weby-homelab/light-monitor-kyiv?style=flat-square)
+Analytical homelab tool that collects statistics, builds elegant charts (Dark Mode), and calculates the real accuracy of power outage schedules.
 
 ##
 

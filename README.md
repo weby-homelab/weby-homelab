@@ -93,6 +93,13 @@ Highly secure **Zero Trust** mail server with **Traefik** reverse proxy & **Snap
 Modern **Telegram Mini App** for community gamification. React frontend and Node.js bot backend.
 
 ##
+
+## 🛠️ Developer Tools
+
+### 🤖 [Claude-Laravel](https://github.com/weby-homelab/claude-laravel) — ![Status](https://img.shields.io/badge/Status-Active-success)
+Production-ready **Claude Code** configuration for **Laravel** — 16 specialized AI agents, 23 skills, and automated quality gates with agent team pipelines.
+
+##
 <div align="right">
   <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-stats.svg" alt="GitHub Stats" />
 </div>

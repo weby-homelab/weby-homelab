@@ -93,6 +93,13 @@ ADBlock-PD — це спеціалізований, спроектований �
 Сучасний **Telegram Mini App** для гейміфікації спільноти. React фронтенд та Node.js бот.
 
 ##
+
+## 🛠️ Інструменти розробника
+
+### 🤖 [Claude-Laravel](https://github.com/weby-homelab/claude-laravel) — ![Status](https://img.shields.io/badge/Status-Active-success)
+Готова конфігурація **Claude Code** для **Laravel** — 16 спеціалізованих AI-агентів, 23 навички та автоматизовані quality gates з пайплайнами агентних команд.
+
+##
 <div align="center">
   <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-stats.svg" alt="GitHub Stats" />
 </div>

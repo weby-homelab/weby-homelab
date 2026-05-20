@@ -44,7 +44,7 @@ ADBlock-PD — це спеціалізований, спроектований �
 
 *   📍 Локація: **Київ, Україна** 🇺🇦
 *   💡 Спеціалізація: **Енергомоніторинг** та **Мережева безпека**
-*   🛡️ Автор проєктів: **NiftyWall**, **Firewalld-GUI**, **UFW-GUI**
+*   🛡️ Автор проєктів: **NiftyWall**, **Firewalld-GUI**, **UFW-GUI**, **Docker-Mailserver-GUI**
 *   💻 Фокус: Створення **відмовостійкої інфраструктури**
 
 <p align="left">
@@ -81,6 +81,9 @@ ADBlock-PD — це спеціалізований, спроектований �
 
 ### 📞 [VoIP Server Installer](https://github.com/weby-homelab/voip-installer) — ![Latest Release](https://img.shields.io/github/v/tag/weby-homelab/voip-installer?label=v)
 Безпечне та автоматизоване розгортання **Asterisk** на Ubuntu 24.04.
+
+### ✉️ [Docker-Mailserver-GUI](https://github.com/weby-homelab/docker-mailserver-gui) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/docker-mailserver-gui?label=v)
+Високозахищений поштовий сервер із **Zero Trust** архітектурою: **Traefik** проксі та **SnappyMail** веб-інтерфейс. Мікросервісна архітектура з авто-SSL.
 
 ##
 

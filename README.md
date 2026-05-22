@@ -181,8 +181,6 @@ currently_building: ADBlock-Private-DNS
 
 </div>
 
-##
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🌐 TOP LANGUAGES                                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -215,9 +213,8 @@ currently_building: ADBlock-Private-DNS
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:00D4FF,100:0D1117&height=100&section=footer" width="100%" />
+<div align="center">
 
-<br>
   <a href="README.md">
     <img src="https://img.shields.io/badge/🇬🇧_English-00D4FF?style=for-the-badge&logo=readme&logoColor=white" alt="English README">
   </a>
@@ -225,3 +222,6 @@ currently_building: ADBlock-Private-DNS
     <img src="https://img.shields.io/badge/🇺🇦_Українська-FF6B35?style=for-the-badge&logo=readme&logoColor=white" alt="Українська версія">
   </a>
 
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:00D4FF,100:0D1117&height=100&section=footer" width="100%" />

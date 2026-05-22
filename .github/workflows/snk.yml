@@ -8,10 +8,11 @@ on:
   # Allow manual trigger
   workflow_dispatch:
 
-  # Run on push to main
+  # Run on push to main and fix branch for verification
   push:
     branches:
       - main
+      - fix/profile-caching-and-details
 
 jobs:
   generate:
@@ -29,6 +30,56 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Setup Node.js to run github-readme-stats locally
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # Clone and start github-readme-stats server locally
+      - name: Run github-readme-stats locally from source
+        run: |
+          git clone https://github.com/anuraghazra/github-readme-stats.git grs-local
+          cd grs-local
+          npm install
+          PORT=9000 PAT_1=${{ secrets.GITHUB_TOKEN }} node express.js > grs.log 2>&1 &
+          
+          # Wait for the local server to start
+          for i in {1..30}; do
+            if curl -s -I http://localhost:9000/api > /dev/null; then
+              echo "Local server started successfully"
+              break
+            fi
+            sleep 1
+          done
+
+      # Cache stats and cards as static SVGs to ensure 100% uptime and avoid Vercel rate limits/downtime
+      - name: Cache stats and cards
+        run: |
+          mkdir -p dist
+          
+          # Restore previous cached SVGs from output branch if available to avoid deletion on failure
+          git clone --depth 1 --branch output https://github.com/${{ github.repository }}.git dist-backup || true
+          if [ -d dist-backup ]; then
+            cp -r dist-backup/*.svg dist/ || true
+            rm -rf dist-backup
+          fi
+
+          # Local GRS instances
+          curl -f -s "http://localhost:9000/api?username=weby-homelab&show_icons=true&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117&hide_border=false&count_private=true&include_all_commits=true" -o dist/github-stats.svg || (echo "Failed to fetch github-stats" && cat grs-local/grs.log || true)
+          curl -f -s "http://localhost:9000/api/top-langs?username=weby-homelab&layout=donut-vertical&theme=react&border_color=00D4FF&title_color=00D4FF&bg_color=0D1117&hide_border=false&langs_count=8" -o dist/github-top-langs.svg || (echo "Failed to fetch top-langs" && cat grs-local/grs.log || true)
+          curl -f -s "http://localhost:9000/api/pin?username=weby-homelab&repo=adblock-pd&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" -o dist/pin-adblock-pd.svg || (echo "Failed to fetch pin-adblock-pd" && cat grs-local/grs.log || true)
+          curl -f -s "http://localhost:9000/api/pin?username=weby-homelab&repo=flash-monitor-kyiv&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" -o dist/pin-flash-monitor-kyiv.svg || (echo "Failed to fetch pin-flash-monitor-kyiv" && cat grs-local/grs.log || true)
+          curl -f -s "http://localhost:9000/api/pin?username=weby-homelab&repo=firewalld-gui&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" -o dist/pin-firewalld-gui.svg || (echo "Failed to fetch pin-firewalld-gui" && cat grs-local/grs.log || true)
+          curl -f -s "http://localhost:9000/api/pin?username=weby-homelab&repo=niftywall&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" -o dist/pin-niftywall.svg || (echo "Failed to fetch pin-niftywall" && cat grs-local/grs.log || true)
+          curl -f -s "http://localhost:9000/api/pin?username=weby-homelab&repo=docker-mailserver-gui&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" -o dist/pin-docker-mailserver-gui.svg || (echo "Failed to fetch pin-docker-mailserver-gui" && cat grs-local/grs.log || true)
+          curl -f -s "http://localhost:9000/api/pin?username=weby-homelab&repo=ufw-gui&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" -o dist/pin-ufw-gui.svg || (echo "Failed to fetch pin-ufw-gui" && cat grs-local/grs.log || true)
+          
+          # Public Working Instances
+          curl -f -s "https://streak-stats.demolab.com/?user=weby-homelab&theme=react&border=00D4FF&ring=FF6B35&fire=FFD700&currStreakLabel=00D4FF&background=0D1117" -o dist/github-streak-stats.svg || echo "Failed to fetch streak-stats"
+          curl -f -s "https://github-profile-trophy.vercel.app/?username=weby-homelab&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" -o dist/github-trophies.svg || echo "Failed to fetch trophies"
+
 
       # Push generated files to output branch
       - name: Deploy to output branch

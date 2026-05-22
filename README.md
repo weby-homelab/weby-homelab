@@ -11,16 +11,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=130&lines=%F0%9F%9B%A1%EF%B8%8F+Building+Resilient+Infrastructure+from+Kyiv+%F0%9F%87%BA%F0%9F%87%A6;%E2%9A%A1+Surviving+12h%2B+blackouts+since+2022;%F0%9F%94%92+Zero+Trust+%E2%80%A2+IaC+%E2%80%A2+GitOps+%E2%80%A2+Privacy+First" height="130" alt="Typing SVG" />
   </a>
-
-  <!-- ═══════════════════════════════════════════════════════════ -->
-  <!-- 🏷️ QUICK INFO BADGES                                       -->
-  <!-- ═══════════════════════════════════════════════════════════ -->
-
-  ![Location](https://img.shields.io/badge/📍_Kyiv,_Ukraine-0057B7?style=for-the-badge&logoColor=white)
-  ![Focus](https://img.shields.io/badge/🛡️_Network_Security-FF6B35?style=for-the-badge)
-  ![Focus](https://img.shields.io/badge/⚡_Energy_Monitoring-FFD700?style=for-the-badge&logoColor=black)
-  ![Focus](https://img.shields.io/badge/🏠_HomeLab-00D4FF?style=for-the-badge)
- 
 </div>
 
 ##

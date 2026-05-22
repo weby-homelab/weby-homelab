@@ -72,30 +72,44 @@ currently_building: ADBlock-Private-DNS
 
 ## 💎 Featured Projects
 
-<div align="center">
-
-  <a href="https://github.com/weby-homelab/adblock-pd">
-    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-adblock-pd.svg" width="48%" alt="adblock-pd" />
-  </a>
-  <a href="https://github.com/weby-homelab/flash-monitor-kyiv">
-    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-flash-monitor-kyiv.svg" width="48%" alt="flash-monitor-kyiv" />
-  </a>
-
-  <a href="https://github.com/weby-homelab/firewalld-gui">
-    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-firewalld-gui.svg" width="48%" alt="firewalld-gui" />
-  </a>
-  <a href="https://github.com/weby-homelab/niftywall">
-    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-niftywall.svg" width="48%" alt="niftywall" />
-  </a>
-
-  <a href="https://github.com/weby-homelab/docker-mailserver-gui">
-    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-docker-mailserver-gui.svg" width="48%" alt="docker-mailserver-gui" />
-  </a>
-  <a href="https://github.com/weby-homelab/ufw-gui">
-    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-ufw-gui.svg" width="48%" alt="ufw-gui" />
-  </a>
-
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/weby-homelab/adblock-pd">
+        <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-adblock-pd.svg" width="400" alt="adblock-pd" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/weby-homelab/flash-monitor-kyiv">
+        <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-flash-monitor-kyiv.svg" width="400" alt="flash-monitor-kyiv" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/weby-homelab/firewalld-gui">
+        <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-firewalld-gui.svg" width="400" alt="firewalld-gui" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/weby-homelab/niftywall">
+        <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-niftywall.svg" width="400" alt="niftywall" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/weby-homelab/docker-mailserver-gui">
+        <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-docker-mailserver-gui.svg" width="400" alt="docker-mailserver-gui" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/weby-homelab/ufw-gui">
+        <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-ufw-gui.svg" width="400" alt="ufw-gui" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -151,12 +165,16 @@ currently_building: ADBlock-Private-DNS
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-stats.svg" width="49%" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-streak-stats.svg" width="49%" alt="Streak Stats" />
-
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-stats.svg" width="400" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-streak-stats.svg" width="400" alt="Streak Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 

@@ -9,7 +9,7 @@
   <!-- ⌨️ ANIMATED TYPING                                          -->
   <!-- ═══════════════════════════════════════════════════════════ -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%F0%9F%9B%A1%EF%B8%8F+%D0%91%D1%83%D0%B4%D1%83%D1%8E+%D0%B2%D1%96%D0%B4%D0%BC%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%96%D0%B9%D0%BA%D1%83+%D1%96%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%83+%D0%B7+%D0%9A%D0%B8%D1%94%D0%B2%D0%B0+%F0%9F%87%BA%F0%9F%87%A6;%E2%9A%A1+%D0%92%D0%B8%D0%B6%D0%B8%D0%B2%D0%B0%D1%94%D0%BC%D0%BE+12%2B+%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD+%D0%B1%D0%BB%D0%B5%D0%BA%D0%B0%D1%83%D1%82%D1%96%D0%B2+%D0%B7+2022;%F0%9F%94%92+Zero+Trust+%E2%80%A2+IaC+%E2%80%A2+GitOps+%E2%80%A2+Privacy+First" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=130&lines=%F0%9F%9B%A1%EF%B8%8F+%D0%91%D1%83%D0%B4%D1%83%D1%8E+%D0%B2%D1%96%D0%B4%D0%BC%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%96%D0%B9%D0%BA%D1%83+%D1%96%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%83+%D0%B7+%D0%9A%D0%B8%D1%94%D0%B2%D0%B0+%F0%9F%87%BA%F0%9F%87%A6;%E2%9A%A1+%D0%92%D0%B8%D0%B6%D0%B8%D0%B2%D0%B0%D1%94%D0%BC%D0%BE+12%2B+%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD+%D0%B1%D0%BB%D0%B5%D0%BA%D0%B0%D1%83%D1%82%D1%96%D0%B2+%D0%B7+2022;%F0%9F%94%92+Zero+Trust+%E2%80%A2+IaC+%E2%80%A2+GitOps+%E2%80%A2+Privacy+First" height="130" alt="Typing SVG" />
   </a>
 
   <!-- ═══════════════════════════════════════════════════════════ -->
@@ -72,44 +72,28 @@ currently_building: ADBlock-Private-DNS
 
 ## 💎 Головні проєкти
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/weby-homelab/adblock-pd">
-        <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-adblock-pd.svg" width="400" alt="adblock-pd" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/weby-homelab/flash-monitor-kyiv">
-        <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-flash-monitor-kyiv.svg" width="400" alt="flash-monitor-kyiv" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/weby-homelab/firewalld-gui">
-        <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-firewalld-gui.svg" width="400" alt="firewalld-gui" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/weby-homelab/niftywall">
-        <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-niftywall.svg" width="400" alt="niftywall" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/weby-homelab/docker-mailserver-gui">
-        <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-docker-mailserver-gui.svg" width="400" alt="docker-mailserver-gui" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/weby-homelab/ufw-gui">
-        <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-ufw-gui.svg" width="400" alt="ufw-gui" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/weby-homelab/adblock-pd">
+    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-adblock-pd.svg" width="400" height="150" alt="adblock-pd" />
+  </a>
+  <a href="https://github.com/weby-homelab/flash-monitor-kyiv">
+    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-flash-monitor-kyiv.svg" width="400" height="150" alt="flash-monitor-kyiv" />
+  </a>
+  <br />
+  <a href="https://github.com/weby-homelab/firewalld-gui">
+    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-firewalld-gui.svg" width="400" height="150" alt="firewalld-gui" />
+  </a>
+  <a href="https://github.com/weby-homelab/niftywall">
+    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-niftywall.svg" width="400" height="150" alt="niftywall" />
+  </a>
+  <br />
+  <a href="https://github.com/weby-homelab/docker-mailserver-gui">
+    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-docker-mailserver-gui.svg" width="400" height="150" alt="docker-mailserver-gui" />
+  </a>
+  <a href="https://github.com/weby-homelab/ufw-gui">
+    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-ufw-gui.svg" width="400" height="150" alt="ufw-gui" />
+  </a>
+</div>
 
 ---
 
@@ -165,16 +149,10 @@ currently_building: ADBlock-Private-DNS
 
 ## 📊 Статистика GitHub
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-stats.svg" width="400" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-streak-stats.svg" width="400" alt="Streak Stats" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-stats.svg" height="195" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-streak-stats.svg" height="195" alt="Streak Stats" />
+</div>
 
 ---
 

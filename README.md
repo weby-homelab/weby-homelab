@@ -23,7 +23,7 @@
 
   <br>
 
-  <img src="https://komarev.com/ghpvc/?username=weby-homelab&color=00D4FF&style=flat-square&label=Profile+Views" alt="Views" />
+  
 
   <!-- Language Switcher -->
   <br><br>
@@ -62,6 +62,7 @@ currently_building: ADBlock-Private-DNS
   <a href="https://t.me/weby_homelab"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://weby.srvrs.top"><img src="https://img.shields.io/badge/🌐_Website-00D4FF?style=for-the-badge" alt="Website" /></a>
   <a href="mailto:contact@srvrs.top"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a><img src="https://komarev.com/ghpvc/?username=weby-homelab&color=00D4FF&style=flat-square&label=Profile+Views" alt="Views" /></a>
 </p>
 
 ---

@@ -75,24 +75,24 @@ currently_building: ADBlock-Private-DNS
 <div align="center">
 
   <a href="https://github.com/weby-homelab/adblock-pd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=weby-homelab&repo=adblock-pd&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" width="48%" />
+    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-adblock-pd.svg" width="48%" alt="adblock-pd" />
   </a>
   <a href="https://github.com/weby-homelab/flash-monitor-kyiv">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=weby-homelab&repo=flash-monitor-kyiv&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" width="48%" />
+    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-flash-monitor-kyiv.svg" width="48%" alt="flash-monitor-kyiv" />
   </a>
 
   <a href="https://github.com/weby-homelab/firewalld-gui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=weby-homelab&repo=firewalld-gui&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" width="48%" />
+    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-firewalld-gui.svg" width="48%" alt="firewalld-gui" />
   </a>
   <a href="https://github.com/weby-homelab/niftywall">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=weby-homelab&repo=niftywall&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" width="48%" />
+    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-niftywall.svg" width="48%" alt="niftywall" />
   </a>
 
   <a href="https://github.com/weby-homelab/docker-mailserver-gui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=weby-homelab&repo=docker-mailserver-gui&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" width="48%" />
+    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-docker-mailserver-gui.svg" width="48%" alt="docker-mailserver-gui" />
   </a>
   <a href="https://github.com/weby-homelab/ufw-gui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=weby-homelab&repo=ufw-gui&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" width="48%" />
+    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-ufw-gui.svg" width="48%" alt="ufw-gui" />
   </a>
 
 </div>
@@ -104,7 +104,7 @@ currently_building: ADBlock-Private-DNS
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><h3>⚡ All Projects (click to expand)</h3></summary>
+  <summary><b>⚡ All Projects (click to expand)</b></summary>
 
 #### ⚡ Energy Monitoring & Safety
 
@@ -153,8 +153,8 @@ currently_building: ADBlock-Private-DNS
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=weby-homelab&show_icons=true&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117&hide_border=false&count_private=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=weby-homelab&theme=react&border=00D4FF&ring=FF6B35&fire=FFD700&currStreakLabel=00D4FF&background=0D1117" width="49%" />
+  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-stats.svg" width="49%" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-streak-stats.svg" width="49%" alt="Streak Stats" />
 
 </div>
 
@@ -167,7 +167,7 @@ currently_building: ADBlock-Private-DNS
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=weby-homelab&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-trophies.svg" width="100%" alt="Achievements" />
 </div>
 
 ---
@@ -204,7 +204,7 @@ currently_building: ADBlock-Private-DNS
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weby-homelab&layout=donut-vertical&theme=react&border_color=00D4FF&title_color=00D4FF&bg_color=0D1117&hide_border=false&langs_count=8" width="35%" />
+  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-top-langs.svg" width="35%" alt="Top Languages" />
 </div>
 
 ---

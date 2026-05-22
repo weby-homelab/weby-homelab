@@ -20,23 +20,10 @@
   ![Focus](https://img.shields.io/badge/🛡️_Network_Security-FF6B35?style=for-the-badge)
   ![Focus](https://img.shields.io/badge/⚡_Energy_Monitoring-FFD700?style=for-the-badge&logoColor=black)
   ![Focus](https://img.shields.io/badge/🏠_HomeLab-00D4FF?style=for-the-badge)
-
-  <br>
-
-  
-
-  <!-- Language Switcher -->
-  <br><br>
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/🇬🇧_English-00D4FF?style=for-the-badge&logo=readme&logoColor=white" alt="English README">
-  </a>
-  <a href="README_UA.md">
-    <img src="https://img.shields.io/badge/🇺🇦_Українська-FF6B35?style=for-the-badge&logo=readme&logoColor=white" alt="Українська версія">
-  </a>
-
+ 
 </div>
 
----
+##
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🧑‍💻 ABOUT ME                                                   -->
@@ -65,7 +52,7 @@ currently_building: ADBlock-Private-DNS
   <a><img src="https://komarev.com/ghpvc/?username=weby-homelab&color=00D4FF&style=flat-square&label=Profile+Views" alt="Views" /></a>
 </p>
 
----
+##
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 💎 FEATURED PROJECTS                                           -->
@@ -96,7 +83,7 @@ currently_building: ADBlock-Private-DNS
   </a>
 </div>
 
----
+##
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ⚡ ALL PROJECTS                                                -->
@@ -142,7 +129,7 @@ currently_building: ADBlock-Private-DNS
 
 </details>
 
----
+##
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 📊 GITHUB STATS                                                -->
@@ -155,7 +142,7 @@ currently_building: ADBlock-Private-DNS
   <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-streak-stats.svg" height="195" alt="Streak Stats" />
 </div>
 
----
+##
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🏆 ACHIEVEMENTS                                                -->
@@ -167,7 +154,7 @@ currently_building: ADBlock-Private-DNS
   <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-trophies.svg" width="100%" alt="Achievements" />
 </div>
 
----
+##
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🛠️ TECH STACK                                                  -->
@@ -194,7 +181,7 @@ currently_building: ADBlock-Private-DNS
 
 </div>
 
----
+##
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🌐 TOP LANGUAGES                                               -->
@@ -204,7 +191,7 @@ currently_building: ADBlock-Private-DNS
   <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-top-langs.svg" width="35%" alt="Top Languages" />
 </div>
 
----
+##
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 📈 CONTRIBUTION ACTIVITY                                       -->
@@ -216,7 +203,7 @@ currently_building: ADBlock-Private-DNS
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=weby-homelab&theme=react-dark&hide_border=true&area=true&color=00D4FF&line=FF6B35&point=FFD700" width="100%" alt="Contribution Graph" />
 </div>
 
----
+##
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 📜 FOOTER                                                      -->
@@ -229,3 +216,12 @@ currently_building: ADBlock-Private-DNS
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:00D4FF,100:0D1117&height=100&section=footer" width="100%" />
+
+<br>
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🇬🇧_English-00D4FF?style=for-the-badge&logo=readme&logoColor=white" alt="English README">
+  </a>
+  <a href="README_UA.md">
+    <img src="https://img.shields.io/badge/🇺🇦_Українська-FF6B35?style=for-the-badge&logo=readme&logoColor=white" alt="Українська версія">
+  </a>
+

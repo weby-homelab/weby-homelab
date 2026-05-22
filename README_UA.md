@@ -21,22 +21,9 @@
   ![Фокус](https://img.shields.io/badge/⚡_Енергомоніторинг-FFD700?style=for-the-badge&logoColor=black)
   ![Фокус](https://img.shields.io/badge/🏠_HomeLab-00D4FF?style=for-the-badge)
 
-  <br>
-
-  <img src="https://komarev.com/ghpvc/?username=weby-homelab&color=00D4FF&style=flat-square&label=Profile+Views" alt="Views" />
-
-  <!-- Language Switcher -->
-  <br><br>
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/🇬🇧_English-00D4FF?style=for-the-badge&logo=readme&logoColor=white" alt="English README">
-  </a>
-  <a href="README_UA.md">
-    <img src="https://img.shields.io/badge/🇺🇦_Українська-FF6B35?style=for-the-badge&logo=readme&logoColor=white" alt="Українська версія">
-  </a>
-
 </div>
 
----
+##
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🧑‍💻 ПРО МЕНЕ                                                   -->
@@ -62,9 +49,10 @@ currently_building: ADBlock-Private-DNS
   <a href="https://t.me/weby_homelab"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://weby.srvrs.top"><img src="https://img.shields.io/badge/🌐_Сайт-00D4FF?style=for-the-badge" alt="Website" /></a>
   <a href="mailto:contact@srvrs.top"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a><img src="https://komarev.com/ghpvc/?username=weby-homelab&color=00D4FF&style=flat-square&label=Profile+Views" alt="Views" /></a>
 </p>
 
----
+##
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 💎 ГОЛОВНІ ПРОЄКТИ                                            -->
@@ -95,7 +83,7 @@ currently_building: ADBlock-Private-DNS
   </a>
 </div>
 
----
+##
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ⚡ ВСІ ПРОЄКТИ                                                -->
@@ -141,7 +129,7 @@ currently_building: ADBlock-Private-DNS
 
 </details>
 
----
+##
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 📊 GITHUB STATS                                                -->
@@ -154,7 +142,7 @@ currently_building: ADBlock-Private-DNS
   <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-streak-stats.svg" height="195" alt="Streak Stats" />
 </div>
 
----
+##
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🏆 ДОСЯГНЕННЯ                                                  -->
@@ -166,7 +154,7 @@ currently_building: ADBlock-Private-DNS
   <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-trophies.svg" width="100%" alt="Досягнення" />
 </div>
 
----
+##
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🛠️ СТЕК ТЕХНОЛОГІЙ                                            -->
@@ -193,8 +181,6 @@ currently_building: ADBlock-Private-DNS
 
 </div>
 
----
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🌐 ТОП МОВИ                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -203,7 +189,7 @@ currently_building: ADBlock-Private-DNS
   <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-top-langs.svg" width="35%" alt="Top Languages" />
 </div>
 
----
+##
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 📈 АКТИВНІСТЬ                                                  -->
@@ -215,28 +201,16 @@ currently_building: ADBlock-Private-DNS
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=weby-homelab&theme=react-dark&hide_border=true&area=true&color=00D4FF&line=FF6B35&point=FFD700" width="100%" alt="Contribution Graph" />
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
-
----
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 📜 FOOTER                                                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&border=true&quote=Найкраща%20інфраструктура%20—%20та,%20що%20працює,%20коли%20все%20інше%20ламається.&author=Weby%20Homelab" />
-
-  <br><br>
-
-  <sub>Створено в Україні під звуки сирен та блекаути ⚡ • © 2026 Weby Homelab</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:00D4FF,100:0D1117&height=100&section=footer" width="100%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:00D4FF,100:0D1117&height=100&section=footer" width="100%" />
+<div align="center">
+
+  <sub>Створено в Україні під звуки сирен та блекаути⚡ 2026 Weby Homelab</sub>
+
+</div>

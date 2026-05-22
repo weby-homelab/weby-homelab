@@ -201,8 +201,6 @@ currently_building: ADBlock-Private-DNS
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=weby-homelab&theme=react-dark&hide_border=true&area=true&color=00D4FF&line=FF6B35&point=FFD700" width="100%" alt="Contribution Graph" />
 </div>
 
-##
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 📜 FOOTER                                                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -215,6 +213,8 @@ currently_building: ADBlock-Private-DNS
   <a href="README_UA.md">
     <img src="https://img.shields.io/badge/🇺🇦_Українська-FF6B35?style=for-the-badge&logo=readme&logoColor=white" alt="Українська версія">
   </a>
+
+<br>
 
 </div>
 

@@ -1,158 +1,246 @@
-<p align="center">
+<div align="center">
+
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  <!-- 🎨 ANIMATED HEADER BANNER                                  -->
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:FF6B35&height=220&section=header&text=WEBY%20HOMELAB&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Resilient%20Infrastructure%20from%20Kyiv%20🇺🇦&descSize=18&descAlignY=55&descColor=FFD700" width="100%" />
+
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  <!-- ⌨️ ANIMATED TYPING                                          -->
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%F0%9F%9B%A1%EF%B8%8F+Building+Resilient+Infrastructure+from+Kyiv+%F0%9F%87%BA%F0%9F%87%A6;%E2%9A%A1+Surviving+12h%2B+blackouts+since+2022;%F0%9F%94%92+Zero+Trust+%E2%80%A2+IaC+%E2%80%A2+GitOps+%E2%80%A2+Privacy+First" alt="Typing SVG" />
+  </a>
+
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  <!-- 🏷️ QUICK INFO BADGES                                       -->
+  <!-- ═══════════════════════════════════════════════════════════ -->
+
+  ![Location](https://img.shields.io/badge/📍_Kyiv,_Ukraine-0057B7?style=for-the-badge&logoColor=white)
+  ![Focus](https://img.shields.io/badge/🛡️_Network_Security-FF6B35?style=for-the-badge)
+  ![Focus](https://img.shields.io/badge/⚡_Energy_Monitoring-FFD700?style=for-the-badge&logoColor=black)
+  ![Focus](https://img.shields.io/badge/🏠_HomeLab-00D4FF?style=for-the-badge)
+
+  <br>
+
+  <img src="https://komarev.com/ghpvc/?username=weby-homelab&color=00D4FF&style=flat-square&label=Profile+Views" alt="Views" />
+
+  <!-- Language Switcher -->
+  <br><br>
   <a href="README.md">
     <img src="https://img.shields.io/badge/🇬🇧_English-00D4FF?style=for-the-badge&logo=readme&logoColor=white" alt="English README">
   </a>
   <a href="README_UA.md">
-    <img src="https://img.shields.io/badge/🇺🇦_Українська-FF4D00?style=for-the-badge&logo=readme&logoColor=white" alt="Українська версія">
+    <img src="https://img.shields.io/badge/🇺🇦_Українська-FF6B35?style=for-the-badge&logo=readme&logoColor=white" alt="Українська версія">
   </a>
-</p>
 
-<div align="center">
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weby-homelab&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </div>
 
-<br>
+---
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=weby-homelab&color=blueviolet&style=flat-square" alt="Views" />
-</div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🧑‍💻 ABOUT ME                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-# 👋 Hello there! I'm Weby Homelab
+## 🧑‍💻 About
 
-### 🚀 Resilient Open Source Solutions for Modern Infrastructure
-
-##
-
-## 💎 Featured Project: ADBlock-Private-DNS (ADBlock-PD)
-
-### [ADBlock-PD](https://github.com/weby-homelab/adblock-pd) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/adblock-pd?color=brightgreen&label=v)
-
-**The ultimate, heavily hardened private DNS resolver for absolute infrastructure sovereignty.**
-
-ADBlock-PD is a specialized, privacy-engineered fork of AdGuard Home, meticulously redesigned to **sever all ties with external infrastructures**. It transforms a powerful filtering engine into a "fortress" that stays strictly within your local environment, ensuring your DNS queries remain exclusively yours.
-
-- **Infrastructure Decoupling:** Completely sanitized to remove any telemetry, hidden requests, or third-party code dependencies.
-- **Privacy Fortress:** Hardened core optimized for zero-leak security and absolute local control.
-- **Enterprise-Grade Filtering:** Real-time, network-level ad-blocking and malicious domain protection without the bloat.
-- **Encrypted Sovereignty:** Full support for DoH, DoT, and DoQUIC, allowing for a fully encrypted, stealthy DNS presence.
-- **Performance Optimized:** A "Slim & Fast" architecture designed for high-throughput and low-latency response times.
-
-##
-
-## 🌐 About Me
-
-*   📍 Location: **Kyiv, Ukraine** 🇺🇦
-*   💡 Specialization: **Energy Monitoring** and **Network Security**
-*   🛡️ Author of: **NiftyWall**, **Firewalld-GUI**, **UFW-GUI**, **Docker-Mailserver-GUI**
-*   💻 Focus: Building **Resilient Infrastructure**
+```yaml
+name: Weby Homelab
+location: Kyiv, Ukraine 🇺🇦
+role: Infrastructure Engineer & Security Enthusiast
+mission: Building tools that survive real-world adversity
+focus:
+  - "🛡️ Network Security (NFTables, Firewalld, UFW)"
+  - "⚡ Energy Monitoring (power grid resilience)"
+  - "🔒 Privacy-First DNS (DoH/DoT/DoQUIC)"
+  - "🐳 Docker & Self-Hosting"
+currently_building: ADBlock-Private-DNS
+```
 
 <p align="left">
-  <a href="https://x.com/weby_homelab"><img src="https://img.shields.io/badge/X-(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
-  <a href="https://t.me/weby_homelab"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://weby.srvrs.top"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:contact@srvrs.top"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/weby_homelab"><img src="https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
+  <a href="https://t.me/weby_homelab"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://weby.srvrs.top"><img src="https://img.shields.io/badge/🌐_Website-00D4FF?style=for-the-badge" alt="Website" /></a>
+  <a href="mailto:contact@srvrs.top"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-##
+---
 
-## ⚡ Energy Monitoring & Safety
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 💎 FEATURED PROJECTS                                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### [flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/flash-monitor-kyiv?color=brightgreen&label=v)
-**POWER⚡SAFETY** — flagship system for Kyiv residents. Intelligent fallback between Yasno and DTEK, air raid alerts, and AQI monitoring.
+## 💎 Featured Projects
 
-### 🛡️ [security-monitor-kyiv](https://github.com/weby-homelab/security-monitor-kyiv) — ![Stars](https://img.shields.io/github/stars/weby-homelab/security-monitor-kyiv?style=flat-square)
-Situational awareness wall dashboard for Kyiv. Tracks real-time air raid alerts 🚨, radiation ☢️, AQI ☁️, and power grid status 💡.
+<div align="center">
 
-### [air-quality-dashboard](https://github.com/weby-homelab/air-quality-dashboard) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/air-quality-dashboard?color=brightgreen&label=v)
-**EcoStation** — Modern real-time air quality (PM2.5, PM10) and radiation monitoring dashboard with PWA support.
-
-### 🔌 [fm-ua](https://github.com/weby-homelab/fm-ua) — ![Status](https://img.shields.io/badge/Status-Active-success)
-Flash-Monitor-UA v2.0 — Python-based peer-to-peer (P2P) decentralized energy marketplace.
-
-→ **[Live Dashboard](https://flash.srvrs.top)** | **[Latest Release](https://github.com/weby-homelab/flash-monitor-kyiv/releases/latest)**
-
-##
-
-## 🔒 Network Security & Admin
-
-### 🪵 [NiftyWall](https://github.com/weby-homelab/niftywall) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/niftywall?color=brightgreen&label=v)
-Professional web dashboard for **nftables**. Direct kernel interaction with "Time Machine" snapshots.
-
-### 🛡️ [Firewalld-GUI](https://github.com/weby-homelab/firewalld-gui) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/firewalld-gui?label=v)
-Modern control panel for **firewalld** and **Fail2Ban**. Rule Builder & Real-time monitor.
-
-### 🧱 [UFW-GUI](https://github.com/weby-homelab/ufw-gui) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/ufw-gui?label=v)
-Modern web interface for managing **UFW** via **Docker** with Zero-Fallback Secrets.
-
-### 🌐 [adb-pd](https://github.com/weby-homelab/adb-pd) — ![Status](https://img.shields.io/badge/Status-Active-success)
-High-performance DNS-over-HTTPS/TLS/QUIC resolver written in Python with a pro-grade Glassmorphism administration dashboard.
-
-### 📞 [VoIP Server Installer](https://github.com/weby-homelab/voip-installer) — ![Latest Release](https://img.shields.io/github/v/tag/weby-homelab/voip-installer?label=v)
-Secure and automated **Asterisk** deployment on Ubuntu 24.04.
-
-### ✉️ [Docker-Mailserver-GUI](https://github.com/weby-homelab/docker-mailserver-gui) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/docker-mailserver-gui?label=v)
-Highly secure **Zero Trust** mail server with **Traefik** reverse proxy & **SnappyMail** webmail GUI. Microservices architecture with auto-SSL.
-
-##
-
-## 🎮 Community & Mini Apps
-
-### 🏆 [Karma Community App](https://github.com/weby-homelab/karma-community-app) — ![Status](https://img.shields.io/badge/Status-Active-success)
-Modern **Telegram Mini App** for community gamification. React frontend and Node.js bot backend.
-
-### 🛡️ [Safety-Chat-Bot](https://github.com/weby-homelab/safety-chat-bot) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/safety-chat-bot?color=brightgreen&label=v)
-Lightweight **Telegram** moderation bot with native karma system via reactions. Built on **Aiogram 3** & **PostgreSQL**. Auto-registration, anti-spam filters & Docker-ready.
-
-##
-
-## 🌌 Infrastructure & Homelab
-
-### 🌌 [homelab](https://github.com/weby-homelab/homelab) — ![Status](https://img.shields.io/badge/Status-Active-success)
-The central nervous system of my infrastructure. Infrastructure as Code (IaC), Ansible configurations, automation scripts, and monitoring setups for my secure, multi-node cloud & local HomeLab environment.
-
-### 💡 [light-monitor-kyiv](https://github.com/weby-homelab/light-monitor-kyiv) — ![Stars](https://img.shields.io/github/stars/weby-homelab/light-monitor-kyiv?style=flat-square)
-Analytical homelab tool that collects statistics, builds elegant charts (Dark Mode), and calculates the real accuracy of power outage schedules.
-
-##
-
-## 🛠️ Developer Tools
-
-### 🤖 [Claude-Laravel](https://github.com/weby-homelab/claude-laravel) — ![Status](https://img.shields.io/badge/Status-Active-success)
-Production-ready **Claude Code** configuration for **Laravel** — 16 specialized AI agents, 23 skills, and automated quality gates with agent team pipelines.
-
-##
-<div align="right">
-  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-stats.svg" alt="GitHub Stats" />
-</div>
-
-<br>
-
-## ⚙️ Tech Stack & Tools
-
-#### 🌐 Frontend & Languages
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,svelte,html,css,tailwind" />
+  <a href="https://github.com/weby-homelab/adblock-pd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=weby-homelab&repo=adblock-pd&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" width="48%" />
   </a>
-</div>
-
-#### ⚙️ Backend & Tools
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,vite,py,fastapi,flask,go" />
+  <a href="https://github.com/weby-homelab/flash-monitor-kyiv">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=weby-homelab&repo=flash-monitor-kyiv&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" width="48%" />
   </a>
-</div>
 
-#### 💾 Database & DevOps
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,bash,sqlite,postgres,mongodb,nginx,cloudflare,prometheus,linux,ubuntu,git,githubactions" />
+  <a href="https://github.com/weby-homelab/firewalld-gui">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=weby-homelab&repo=firewalld-gui&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" width="48%" />
   </a>
+  <a href="https://github.com/weby-homelab/niftywall">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=weby-homelab&repo=niftywall&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" width="48%" />
+  </a>
+
+  <a href="https://github.com/weby-homelab/docker-mailserver-gui">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=weby-homelab&repo=docker-mailserver-gui&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" width="48%" />
+  </a>
+  <a href="https://github.com/weby-homelab/ufw-gui">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=weby-homelab&repo=ufw-gui&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" width="48%" />
+  </a>
+
 </div>
 
-##
-<p align="center">
-  Built in Ukraine under air raid sirens &amp; blackouts ⚡<br>
-  &copy; 2026 Weby Homelab
-</p>
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ⚡ ALL PROJECTS                                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<details>
+<summary><h3>⚡ All Projects (click to expand)</h3></summary>
+
+#### ⚡ Energy Monitoring & Safety
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv) | **POWER⚡SAFETY** — flagship monitoring for Kyiv. Intelligent Yasno/DTEK fallback, air raid alerts, AQI | ![Release](https://img.shields.io/github/v/release/weby-homelab/flash-monitor-kyiv?color=00D4FF&label=v) |
+| [security-monitor-kyiv](https://github.com/weby-homelab/security-monitor-kyiv) | Situational awareness dashboard. Air raids 🚨, radiation ☢️, AQI ☁️, power grid 💡 | ![Stars](https://img.shields.io/github/stars/weby-homelab/security-monitor-kyiv?color=FFD700&style=flat-square) |
+| [air-quality-dashboard](https://github.com/weby-homelab/air-quality-dashboard) | **EcoStation** — PWA for PM2.5, PM10 & radiation monitoring | ![Release](https://img.shields.io/github/v/release/weby-homelab/air-quality-dashboard?color=00D4FF&label=v) |
+| [fm-ua](https://github.com/weby-homelab/fm-ua) | Flash-Monitor-UA v2.0 — P2P energy marketplace | ![Status](https://img.shields.io/badge/Active-success) |
+
+#### 🔒 Network Security & Admin
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [ADBlock-PD](https://github.com/weby-homelab/adblock-pd) | Hardened private DNS resolver — zero telemetry, DoH/DoT/DoQUIC | ![Release](https://img.shields.io/github/v/release/weby-homelab/adblock-pd?color=00D4FF&label=v) |
+| [NiftyWall](https://github.com/weby-homelab/niftywall) | Professional nftables dashboard with "Time Machine" snapshots | ![Release](https://img.shields.io/github/v/release/weby-homelab/niftywall?color=00D4FF&label=v) |
+| [Firewalld-GUI](https://github.com/weby-homelab/firewalld-gui) | Modern firewalld + Fail2Ban control panel | ![Release](https://img.shields.io/github/v/release/weby-homelab/firewalld-gui?color=00D4FF&label=v) |
+| [UFW-GUI](https://github.com/weby-homelab/ufw-gui) | Docker web UI for UFW with Zero-Fallback Secrets | ![Release](https://img.shields.io/github/v/release/weby-homelab/ufw-gui?color=00D4FF&label=v) |
+| [adb-pd](https://github.com/weby-homelab/adb-pd) | DNS-over-HTTPS/TLS/QUIC resolver with Glassmorphism UI | ![Status](https://img.shields.io/badge/Active-success) |
+| [Docker-Mailserver-GUI](https://github.com/weby-homelab/docker-mailserver-gui) | Zero Trust mail server + Traefik + SnappyMail | ![Release](https://img.shields.io/github/v/release/weby-homelab/docker-mailserver-gui?color=00D4FF&label=v) |
+| [VoIP Installer](https://github.com/weby-homelab/voip-installer) | Automated Asterisk deployment on Ubuntu 24.04 | ![Release](https://img.shields.io/github/v/tag/weby-homelab/voip-installer?color=00D4FF&label=v) |
+
+#### 🎮 Community & Apps
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [Karma Community App](https://github.com/weby-homelab/karma-community-app) | Telegram Mini App for community gamification | ![Status](https://img.shields.io/badge/Active-success) |
+| [Safety-Chat-Bot](https://github.com/weby-homelab/safety-chat-bot) | Telegram moderation bot with karma via reactions | ![Release](https://img.shields.io/github/v/release/weby-homelab/safety-chat-bot?color=00D4FF&label=v) |
+
+#### 🌌 Infrastructure
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [homelab](https://github.com/weby-homelab/homelab) | Central IaC, Ansible configs & monitoring | ![Status](https://img.shields.io/badge/Active-success) |
+| [light-monitor-kyiv](https://github.com/weby-homelab/light-monitor-kyiv) | Analytical power outage tracker with charts | ![Stars](https://img.shields.io/github/stars/weby-homelab/light-monitor-kyiv?color=FFD700&style=flat-square) |
+
+</details>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB STATS                                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=weby-homelab&show_icons=true&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117&hide_border=false&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=weby-homelab&theme=react&border=00D4FF&ring=FF6B35&fire=FFD700&currStreakLabel=00D4FF&background=0D1117" width="49%" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🏆 ACHIEVEMENTS                                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=weby-homelab&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🛠️ TECH STACK                                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+  #### 🌐 Languages
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,go,ts,js,bash,html,css&theme=dark" />
+  </a>
+
+  #### ⚙️ Frameworks & Tools
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,svelte,fastapi,flask,express,vite,tailwind&theme=dark" />
+  </a>
+
+  #### 🏗️ Infrastructure & DevOps
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,linux,nginx,postgres,redis,prometheus,cloudflare,git,github,githubactions&theme=dark" />
+  </a>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🌐 TOP LANGUAGES                                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weby-homelab&layout=donut-vertical&theme=react&border_color=00D4FF&title_color=00D4FF&bg_color=0D1117&hide_border=false&langs_count=8" width="35%" />
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 📈 CONTRIBUTION ACTIVITY                                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weby-homelab&theme=react-dark&hide_border=true&area=true&color=00D4FF&line=FF6B35&point=FFD700" width="100%" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 📜 FOOTER                                                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&border=true&quote=The%20best%20infrastructure%20is%20the%20one%20that%20works%20when%20everything%20else%20fails.&author=Weby%20Homelab" />
+
+  <br><br>
+
+  <sub>Built in Ukraine under air raid sirens & blackouts ⚡ • © 2026 Weby Homelab</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:00D4FF,100:0D1117&height=100&section=footer" width="100%" />

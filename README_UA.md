@@ -1,167 +1,246 @@
-<p align="center">
+<div align="center">
+
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  <!-- 🎨 ANIMATED HEADER BANNER                                  -->
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:FF6B35&height=220&section=header&text=WEBY%20HOMELAB&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Відмовостійка%20інфраструктура%20з%20Києва%20🇺🇦&descSize=18&descAlignY=55&descColor=FFD700" width="100%" />
+
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  <!-- ⌨️ ANIMATED TYPING                                          -->
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%F0%9F%9B%A1%EF%B8%8F+%D0%91%D1%83%D0%B4%D1%83%D1%8E+%D0%B2%D1%96%D0%B4%D0%BC%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%96%D0%B9%D0%BA%D1%83+%D1%96%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%83+%D0%B7+%D0%9A%D0%B8%D1%94%D0%B2%D0%B0+%F0%9F%87%BA%F0%9F%87%A6;%E2%9A%A1+%D0%92%D0%B8%D0%B6%D0%B8%D0%B2%D0%B0%D1%94%D0%BC%D0%BE+12%2B+%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD+%D0%B1%D0%BB%D0%B5%D0%BA%D0%B0%D1%83%D1%82%D1%96%D0%B2+%D0%B7+2022;%F0%9F%94%92+Zero+Trust+%E2%80%A2+IaC+%E2%80%A2+GitOps+%E2%80%A2+Privacy+First" alt="Typing SVG" />
+  </a>
+
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  <!-- 🏷️ QUICK INFO BADGES                                       -->
+  <!-- ═══════════════════════════════════════════════════════════ -->
+
+  ![Локація](https://img.shields.io/badge/📍_Київ,_Україна-0057B7?style=for-the-badge&logoColor=white)
+  ![Фокус](https://img.shields.io/badge/🛡️_Мережева_безпека-FF6B35?style=for-the-badge)
+  ![Фокус](https://img.shields.io/badge/⚡_Енергомоніторинг-FFD700?style=for-the-badge&logoColor=black)
+  ![Фокус](https://img.shields.io/badge/🏠_HomeLab-00D4FF?style=for-the-badge)
+
+  <br>
+
+  <img src="https://komarev.com/ghpvc/?username=weby-homelab&color=00D4FF&style=flat-square&label=Profile+Views" alt="Views" />
+
+  <!-- Language Switcher -->
+  <br><br>
   <a href="README.md">
     <img src="https://img.shields.io/badge/🇬🇧_English-00D4FF?style=for-the-badge&logo=readme&logoColor=white" alt="English README">
   </a>
   <a href="README_UA.md">
-    <img src="https://img.shields.io/badge/🇺🇦_Українська-FF4D00?style=for-the-badge&logo=readme&logoColor=white" alt="Українська версія">
+    <img src="https://img.shields.io/badge/🇺🇦_Українська-FF6B35?style=for-the-badge&logo=readme&logoColor=white" alt="Українська версія">
   </a>
-</p>
 
-<div align="center">
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weby-homelab&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </div>
 
-<br>
+---
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=weby-homelab&color=blueviolet&style=flat-square" alt="Views" />
-</div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🧑‍💻 ПРО МЕНЕ                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-# 👋 Привіт! Я Weby Homelab
+## 🧑‍💻 Про мене
 
-### 🚀 Надійні Open Source рішення для сучасної інфраструктури
-
-##
-
-## 💎 Головний проєкт: ADBlock-Private-DNS (ADBlock-PD)
-
-### [ADBlock-PD](https://github.com/weby-homelab/adblock-pd) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/adblock-pd?color=brightgreen&label=v)
-
-**Найкращий максимально захищений приватний DNS-резолвер для абсолютного суверенітету інфраструктури.**
-
-ADBlock-PD — це спеціалізований, спроектований для приватності форк AdGuard Home, ретельно перероблений для **повного розриву всіх зв'язків із зовнішніми інфраструктурами**. Він перетворює потужний механізм фільтрації на справжню "фортецю", яка залишається виключно у вашому локальному середовищі.
-
-- **Децентралізація інфраструктури:** Повністю очищений від будь-якої телеметрії, прихованих запитів або залежностей від стороннього коду.
-- **Фортеця приватності:** Посилене ядро, оптимізоване для роботи без витоків даних та забезпечення абсолютного локального контролю.
-- **Фільтрація корпоративного рівня:** Блокування реклами та захист від шкідливих доменів на рівні всієї мережі без зайвого "сміття".
-- **Шифрований суверенітет:** Повна підтримка протоколів DoH, DoT та DoQUIC для повністю зашифрованої та прихованої присутності в мережі.
-- **Оптимізація продуктивності:** Архітектура "Slim & Fast", створена для високої пропускної здатності та мінімальної затримки відповіді.
-
-##
-
-## 🌐 Про мене
-
-*   📍 Локація: **Київ, Україна** 🇺🇦
-*   💡 Спеціалізація: **Енергомоніторинг** та **Мережева безпека**
-*   🛡️ Автор проєктів: **NiftyWall**, **Firewalld-GUI**, **UFW-GUI**, **Docker-Mailserver-GUI**
-*   💻 Фокус: Створення **відмовостійкої інфраструктури**
+```yaml
+name: Weby Homelab
+location: Київ, Україна 🇺🇦
+role: Інженер інфраструктури та ентузіаст безпеки
+mission: Створення інструментів, що витримують реальні випробування
+focus:
+  - "🛡️ Мережева безпека (NFTables, Firewalld, UFW)"
+  - "⚡ Енергомоніторинг (стійкість мережі живлення)"
+  - "🔒 Privacy-First DNS (DoH/DoT/DoQUIC)"
+  - "🐳 Docker та Self-Hosting"
+currently_building: ADBlock-Private-DNS
+```
 
 <p align="left">
-  <a href="https://x.com/weby_homelab"><img src="https://img.shields.io/badge/X-(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
-  <a href="https://t.me/weby_homelab"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://weby.srvrs.top"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:contact@srvrs.top"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/weby_homelab"><img src="https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
+  <a href="https://t.me/weby_homelab"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://weby.srvrs.top"><img src="https://img.shields.io/badge/🌐_Сайт-00D4FF?style=for-the-badge" alt="Website" /></a>
+  <a href="mailto:contact@srvrs.top"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-##
+---
 
-## ⚡ Енергомоніторинг та Безпека
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 💎 ГОЛОВНІ ПРОЄКТИ                                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### [flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/flash-monitor-kyiv?color=brightgreen&label=v)
-**POWER⚡SAFETY** — флагманська система для киян. Розумний fallback між Yasno та ДТЕК, сповіщення про тривоги та AQI.
+## 💎 Головні проєкти
 
-### 🛡️ [security-monitor-kyiv](https://github.com/weby-homelab/security-monitor-kyiv) — ![Stars](https://img.shields.io/github/stars/weby-homelab/security-monitor-kyiv?style=flat-square)
-Дашборд ситуаційної обізнаності для Києва. Відстежує в реальному часі повітряні тривоги 🚨, радіацію ☢️, якість повітря ☁️ та стан мережі живлення 💡.
-
-### [air-quality-dashboard](https://github.com/weby-homelab/air-quality-dashboard) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/air-quality-dashboard?color=brightgreen&label=v)
-**EcoStation** — Сучасний PWA-дашборд для моніторингу якості повітря (PM2.5, PM10) та радіації в реальному часі.
-
-### 🔌 [fm-ua](https://github.com/weby-homelab/fm-ua) — ![Status](https://img.shields.io/badge/Status-Active-success)
-Flash-Monitor-UA v2.0 — децентралізований P2P-маркетплейс електроенергії на базі Python.
-
-→ **[Живий Дашборд](https://flash.srvrs.top)** | **[Останній реліз](https://github.com/weby-homelab/flash-monitor-kyiv/releases/latest)**
-
-##
-
-## 🔒 Мережевий захист та Адмін
-
-### 🪵 [NiftyWall](https://github.com/weby-homelab/niftywall) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/niftywall?color=brightgreen&label=v)
-Професійний дашборд для **nftables**. Пряма робота з ядром та "Машина часу" для правил.
-
-### 🛡️ [Firewalld-GUI](https://github.com/weby-homelab/firewalld-gui) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/firewalld-gui?label=v)
-Сучасна панель керування для **firewalld** та **Fail2Ban**. Rule Builder та моніторинг атак.
-
-### 🧱 [UFW-GUI](https://github.com/weby-homelab/ufw-gui) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/ufw-gui?label=v)
-Сучасний веб-інтерфейс для керування **UFW** через **Docker** з Zero-Fallback Secrets.
-
-### 🌐 [adb-pd](https://github.com/weby-homelab/adb-pd) — ![Status](https://img.shields.io/badge/Status-Active-success)
-Високопродуктивний DNS-over-HTTPS/TLS/QUIC резолвер на Python з професійною панеллю керування в стилі Glassmorphism.
-
-### 📞 [VoIP Server Installer](https://github.com/weby-homelab/voip-installer) — ![Latest Release](https://img.shields.io/github/v/tag/weby-homelab/voip-installer?label=v)
-Безпечне та автоматизоване розгортання **Asterisk** на Ubuntu 24.04.
-
-### ✉️ [Docker-Mailserver-GUI](https://github.com/weby-homelab/docker-mailserver-gui) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/docker-mailserver-gui?label=v)
-Високозахищений поштовий сервер із **Zero Trust** архітектурою: **Traefik** проксі та **SnappyMail** веб-інтерфейс. Мікросервісна архітектура з авто-SSL.
-
-##
-
-## 🎮 Спільнота та Mini Apps
-
-### 🏆 [Karma Community App](https://github.com/weby-homelab/karma-community-app) — ![Status](https://img.shields.io/badge/Status-Active-success)
-Сучасний **Telegram Mini App** для гейміфікації спільноти. React фронтенд та Node.js бот.
-
-### 🛡️ [Safety-Chat-Bot](https://github.com/weby-homelab/safety-chat-bot) — ![Latest Release](https://img.shields.io/github/v/release/weby-homelab/safety-chat-bot?color=brightgreen&label=v)
-Легкий **Telegram** бот для модерації з нативною системою карми через реакції. Побудований на **Aiogram 3** та **PostgreSQL**. Автореєстрація, антиспам фільтри та готовність до Docker.
-
-##
-
-## 🌌 Інфраструктура та Homelab
-
-### 🌌 [homelab](https://github.com/weby-homelab/homelab) — ![Status](https://img.shields.io/badge/Status-Active-success)
-Центральна нервова система моєї інфраструктури. Інфраструктура як код (IaC), Ansible-конфігурації, скрипти автоматизації та моніторинг для безпечного хмарного та локального HomeLab-середовища.
-
-### 💡 [light-monitor-kyiv](https://github.com/weby-homelab/light-monitor-kyiv) — ![Stars](https://img.shields.io/github/stars/weby-homelab/light-monitor-kyiv?style=flat-square)
-Аналітичний інструмент для homelab, який збирає статистику відключень, будує красиві графіки (Dark Mode) та розраховує точність графіків відключень Yasno/DTEK.
-
-##
-
-## 🛠️ Інструменти розробника
-
-### 🤖 [Claude-Laravel](https://github.com/weby-homelab/claude-laravel) — ![Status](https://img.shields.io/badge/Status-Active-success)
-Готова конфігурація **Claude Code** для **Laravel** — 16 спеціалізованих AI-агентів, 23 навички та автоматизовані quality gates з пайплайнами агентних команд.
-
-##
 <div align="center">
-  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-stats.svg" alt="GitHub Stats" />
-</div>
 
-<br>
-
-## ⚙️ Стек технологій та Інструменти
-
-#### 🌐 Frontend & Languages
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,svelte,html,css,tailwind" />
+  <a href="https://github.com/weby-homelab/adblock-pd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=weby-homelab&repo=adblock-pd&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" width="48%" />
   </a>
-</div>
-
-#### ⚙️ Backend & Tools
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,vite,py,fastapi,flask,go" />
+  <a href="https://github.com/weby-homelab/flash-monitor-kyiv">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=weby-homelab&repo=flash-monitor-kyiv&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" width="48%" />
   </a>
-</div>
 
-#### 💾 Database & DevOps
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,bash,sqlite,postgres,mongodb,nginx,cloudflare,prometheus,linux,ubuntu,git,githubactions" />
+  <a href="https://github.com/weby-homelab/firewalld-gui">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=weby-homelab&repo=firewalld-gui&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" width="48%" />
   </a>
+  <a href="https://github.com/weby-homelab/niftywall">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=weby-homelab&repo=niftywall&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" width="48%" />
+  </a>
+
+  <a href="https://github.com/weby-homelab/docker-mailserver-gui">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=weby-homelab&repo=docker-mailserver-gui&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" width="48%" />
+  </a>
+  <a href="https://github.com/weby-homelab/ufw-gui">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=weby-homelab&repo=ufw-gui&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117" width="48%" />
+  </a>
+
 </div>
 
-##
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ⚡ ВСІ ПРОЄКТИ                                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<details>
+<summary><h3>⚡ Усі проєкти (натисни щоб розгорнути)</h3></summary>
+
+#### ⚡ Енергомоніторинг та Безпека
+
+| Проєкт | Опис | Статус |
+|--------|------|--------|
+| [flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv) | **СВІТЛО⚡БЕЗПЕКА** — флагманська система для Києва. Розумний fallback Yasno/ДТЕК, повітряні тривоги, AQI | ![Release](https://img.shields.io/github/v/release/weby-homelab/flash-monitor-kyiv?color=00D4FF&label=v) |
+| [security-monitor-kyiv](https://github.com/weby-homelab/security-monitor-kyiv) | Дашборд ситуаційної обізнаності. Тривоги 🚨, радіація ☢️, AQI ☁️, мережа 💡 | ![Stars](https://img.shields.io/github/stars/weby-homelab/security-monitor-kyiv?color=FFD700&style=flat-square) |
+| [air-quality-dashboard](https://github.com/weby-homelab/air-quality-dashboard) | **ЕкоСтанція** — PWA для моніторингу PM2.5, PM10 та радіації | ![Release](https://img.shields.io/github/v/release/weby-homelab/air-quality-dashboard?color=00D4FF&label=v) |
+| [fm-ua](https://github.com/weby-homelab/fm-ua) | Flash-Monitor-UA v2.0 — P2P маркетплейс електроенергії | ![Status](https://img.shields.io/badge/Active-success) |
+
+#### 🔒 Мережева безпека та Адмін
+
+| Проєкт | Опис | Статус |
+|--------|------|--------|
+| [ADBlock-PD](https://github.com/weby-homelab/adblock-pd) | Захищений приватний DNS-резолвер — нуль телеметрії, DoH/DoT/DoQUIC | ![Release](https://img.shields.io/github/v/release/weby-homelab/adblock-pd?color=00D4FF&label=v) |
+| [NiftyWall](https://github.com/weby-homelab/niftywall) | Професійний дашборд nftables з "Машиною часу" | ![Release](https://img.shields.io/github/v/release/weby-homelab/niftywall?color=00D4FF&label=v) |
+| [Firewalld-GUI](https://github.com/weby-homelab/firewalld-gui) | Сучасна панель firewalld + Fail2Ban | ![Release](https://img.shields.io/github/v/release/weby-homelab/firewalld-gui?color=00D4FF&label=v) |
+| [UFW-GUI](https://github.com/weby-homelab/ufw-gui) | Docker веб-UI для UFW з Zero-Fallback Secrets | ![Release](https://img.shields.io/github/v/release/weby-homelab/ufw-gui?color=00D4FF&label=v) |
+| [adb-pd](https://github.com/weby-homelab/adb-pd) | DNS-over-HTTPS/TLS/QUIC резолвер з Glassmorphism UI | ![Status](https://img.shields.io/badge/Active-success) |
+| [Docker-Mailserver-GUI](https://github.com/weby-homelab/docker-mailserver-gui) | Zero Trust поштовий сервер + Traefik + SnappyMail | ![Release](https://img.shields.io/github/v/release/weby-homelab/docker-mailserver-gui?color=00D4FF&label=v) |
+| [VoIP Installer](https://github.com/weby-homelab/voip-installer) | Автоматизоване розгортання Asterisk на Ubuntu 24.04 | ![Release](https://img.shields.io/github/v/tag/weby-homelab/voip-installer?color=00D4FF&label=v) |
+
+#### 🎮 Спільнота та додатки
+
+| Проєкт | Опис | Статус |
+|--------|------|--------|
+| [Karma Community App](https://github.com/weby-homelab/karma-community-app) | Telegram Mini App для гейміфікації спільноти | ![Status](https://img.shields.io/badge/Active-success) |
+| [Safety-Chat-Bot](https://github.com/weby-homelab/safety-chat-bot) | Telegram бот модерації з кармою через реакції | ![Release](https://img.shields.io/github/v/release/weby-homelab/safety-chat-bot?color=00D4FF&label=v) |
+
+#### 🌌 Інфраструктура
+
+| Проєкт | Опис | Статус |
+|--------|------|--------|
+| [homelab](https://github.com/weby-homelab/homelab) | Центральна IaC, Ansible-конфіги та моніторинг | ![Status](https://img.shields.io/badge/Active-success) |
+| [light-monitor-kyiv](https://github.com/weby-homelab/light-monitor-kyiv) | Аналітичний трекер відключень з графіками | ![Stars](https://img.shields.io/github/stars/weby-homelab/light-monitor-kyiv?color=FFD700&style=flat-square) |
+
+</details>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB STATS                                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 Статистика GitHub
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=weby-homelab&show_icons=true&theme=react&border_color=00D4FF&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117&hide_border=false&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=weby-homelab&theme=react&border=00D4FF&ring=FF6B35&fire=FFD700&currStreakLabel=00D4FF&background=0D1117" width="49%" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🏆 ДОСЯГНЕННЯ                                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏆 Досягнення
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=weby-homelab&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🛠️ СТЕК ТЕХНОЛОГІЙ                                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Стек технологій
+
+<div align="center">
+
+  #### 🌐 Мови
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,go,ts,js,bash,html,css&theme=dark" />
+  </a>
+
+  #### ⚙️ Фреймворки та інструменти
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,svelte,fastapi,flask,express,vite,tailwind&theme=dark" />
+  </a>
+
+  #### 🏗️ Інфраструктура та DevOps
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,linux,nginx,postgres,redis,prometheus,cloudflare,git,github,githubactions&theme=dark" />
+  </a>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🌐 ТОП МОВИ                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weby-homelab&layout=donut-vertical&theme=react&border_color=00D4FF&title_color=00D4FF&bg_color=0D1117&hide_border=false&langs_count=8" width="35%" />
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 📈 АКТИВНІСТЬ                                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📈 Активність контрибуцій
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weby-homelab&theme=react-dark&hide_border=true&area=true&color=00D4FF&line=FF6B35&point=FFD700" width="100%" alt="Contribution Graph" />
+</div>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
-##
-<p align="center">
-  Built in Ukraine under air raid sirens &amp; blackouts ⚡<br>
-  &copy; 2026 Weby Homelab
-</p>
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 📜 FOOTER                                                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&border=true&quote=Найкраща%20інфраструктура%20—%20та,%20що%20працює,%20коли%20все%20інше%20ламається.&author=Weby%20Homelab" />
+
+  <br><br>
+
+  <sub>Створено в Україні під звуки сирен та блекаути ⚡ • © 2026 Weby Homelab</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:00D4FF,100:0D1117&height=100&section=footer" width="100%" />

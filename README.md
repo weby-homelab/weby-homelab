@@ -215,14 +215,6 @@ currently_building: ADBlock-Private-DNS
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=weby-homelab&theme=react-dark&hide_border=true&area=true&color=00D4FF&line=FF6B35&point=FFD700" width="100%" alt="Contribution Graph" />
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -231,11 +223,7 @@ currently_building: ADBlock-Private-DNS
 
 <div align="center">
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&border=true&quote=The%20best%20infrastructure%20is%20the%20one%20that%20works%20when%20everything%20else%20fails.&author=Weby%20Homelab" />
-
-  <br><br>
-
-  <sub>Built in Ukraine under air raid sirens & blackouts ⚡ • © 2026 Weby Homelab</sub>
+  <sub>Built in Ukraine under air raid sirens & blackouts⚡ 2026 Weby Homelab</sub>
 
 </div>
 

@@ -138,8 +138,8 @@ currently_building: ADBlock-Private-DNS
 ## 📊 Статистика GitHub
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-stats.svg" height="195" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-streak-stats.svg" height="195" alt="Streak Stats" />
+  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-stats.svg?v=1" height="195" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-streak-stats.svg?v=1" height="195" alt="Streak Stats" />
 </div>
 
 ##
@@ -151,7 +151,7 @@ currently_building: ADBlock-Private-DNS
 ## 🏆 Досягнення
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-trophies.svg" width="100%" alt="Досягнення" />
+  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-trophies.svg?v=1" width="100%" alt="Досягнення" />
 </div>
 
 ##
@@ -186,7 +186,7 @@ currently_building: ADBlock-Private-DNS
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-top-langs.svg" width="55%" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-top-langs.svg?v=1" width="55%" alt="Top Languages" />
 </div>
 
 ##
@@ -199,7 +199,7 @@ currently_building: ADBlock-Private-DNS
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=weby-homelab&theme=react-dark&hide_border=true&area=true&color=00D4FF&line=FF6B35&point=FFD700" width="100%" alt="Contribution Graph" />
-  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake-dark.svg?v=1" width="100%" alt="Snake Animation" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->

@@ -133,18 +133,6 @@ currently_building: ADBlock-Private-DNS
 ##
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🏆 ACHIEVEMENTS                                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-trophies.svg?v=1" width="100%" alt="Achievements" />
-</div>
-
-##
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🛠️ TECH STACK                                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 

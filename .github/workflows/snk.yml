@@ -78,7 +78,6 @@ jobs:
           
           # Public Working Instances
           curl -f -s "https://streak-stats.demolab.com/?user=weby-homelab&theme=react&border=0D1117&ring=FF6B35&fire=FFD700&currStreakLabel=00D4FF&background=0D1117&hide_border=true" -o dist/github-streak-stats.svg || echo "Failed to fetch streak-stats"
-          curl -f -s "https://github-profile-trophy-fork-two.vercel.app/?username=weby-homelab&theme=gitdimmed&no-frame=true&no-bg=true&column=7&margin-w=10" -o dist/github-trophies.svg || echo "Failed to fetch trophies"
 
 
       # Push generated files to output branch

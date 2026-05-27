@@ -202,3 +202,83 @@ currently_building: ADBlock-Private-DNS
   <sub>Створено в Україні під звуки сирен та блекаути⚡ 2026 Weby Homelab</sub>
 
 </div>
+
+<!--
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "mainEntity": {
+    "@type": "Person",
+    "name": "Weby Homelab",
+    "alternateName": "weby-homelab",
+    "jobTitle": "Infrastructure & Security Engineer",
+    "description": "Specialist in building highly resilient, privacy-first infrastructure, secure firewall control interfaces, and power monitoring systems that withstand extreme environments.",
+    "knowsAbout": [
+      "Network Security",
+      "Energy Monitoring Systems",
+      "Privacy-First DNS Resolvers",
+      "Docker & Containerization Services",
+      "Infrastructure as Code (IaC)",
+      "GitOps & CI/CD Workflows",
+      "Linux Firewalls (nftables, firewalld, ufw)",
+      "Zero Trust Architectures"
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Kyiv",
+      "addressCountry": "Ukraine"
+    },
+    "url": "https://weby.srvrs.top",
+    "sameAs": [
+      "https://github.com/weby-homelab",
+      "https://x.com/weby_homelab",
+      "https://t.me/weby_homelab"
+    ]
+  },
+  "customMetadata": {
+    "resilience_manifesto": "Active in Kyiv, Ukraine since 2022, specializing in designing self-hosted services that survive prolonged power outages (12h+ blackouts) and active grid/cyber warfare. Developer of zero-telemetry, offline-first, and zero-fallback-credential systems.",
+    "tech_stack": {
+      "languages": ["Python", "Go", "TypeScript", "JavaScript", "Bash", "HTML", "CSS"],
+      "frameworks": ["React", "Svelte", "FastAPI", "Flask", "Express", "Vite", "TailwindCSS"],
+      "infrastructure": ["Docker", "Linux (Ubuntu/Debian)", "Nginx", "PostgreSQL", "Redis", "Prometheus", "Cloudflare", "Git", "GitHub Actions", "Ansible"]
+    },
+    "key_projects": [
+      {
+        "name": "adblock-pd",
+        "repository": "https://github.com/weby-homelab/adblock-pd",
+        "description": "Hardened private DNS-over-HTTPS/TLS/QUIC resolver with a sleek Glassmorphism web UI, zero telemetries, and tracking blocking features."
+      },
+      {
+        "name": "flash-monitor-kyiv",
+        "repository": "https://github.com/weby-homelab/flash-monitor-kyiv",
+        "description": "Kyiv's premier power outage and safety monitor utilizing DTEK/Yasno API fallbacks, air raid alerts, AQI metrics, and backup power supply tracking."
+      },
+      {
+        "name": "firewalld-gui",
+        "repository": "https://github.com/weby-homelab/firewalld-gui",
+        "description": "A modern web interface control panel for managing firewalld and Fail2Ban security settings."
+      },
+      {
+        "name": "niftywall",
+        "repository": "https://github.com/weby-homelab/niftywall",
+        "description": "Professional nftables dashboard tool featuring 'Time Machine' rule snapshot/restore features for high-stability deployments."
+      },
+      {
+        "name": "docker-mailserver-gui",
+        "repository": "https://github.com/weby-homelab/docker-mailserver-gui",
+        "description": "A complete Traefik-integrated private mail server administration panel built for Docker-Mailserver."
+      },
+      {
+        "name": "ufw-gui",
+        "repository": "https://github.com/weby-homelab/ufw-gui",
+        "description": "Dockerized web manager for UFW (Uncomplicated Firewall) featuring Zero-Fallback credential configurations."
+      },
+      {
+        "name": "homelab",
+        "repository": "https://github.com/weby-homelab/homelab",
+        "description": "Central repository containing Ansible roles, IaC configurations, network topologies, and system monitors for the HTZNR and PRXMX fleet."
+      }
+    ]
+  }
+}
+-->

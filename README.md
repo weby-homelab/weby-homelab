@@ -9,7 +9,7 @@
   <!-- ⌨️ ANIMATED TYPING                                          -->
   <!-- ═══════════════════════════════════════════════════════════ -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=130&lines=%F0%9F%9B%A1%EF%B8%8F+Building+Resilient+Infrastructure+from+Kyiv+%F0%9F%87%BA%F0%9F%87%A6;%E2%9A%A1+Surviving+12h%2B+blackouts+since+2022;%F0%9F%94%92+Zero+Trust+%E2%80%A2+IaC+%E2%80%A2+GitOps+%E2%80%A2+Privacy+First" height="130" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=130&lines=%F0%9F%9B%A0%EF%B8%8F+Engineering+Resilient+Infrastructure+from+Kyiv+%F0%9F%87%BA%F0%9F%87%A6;%E2%9A%A1+Surviving+real-world+adversity+since+2022;%F0%9F%94%92+Privacy+DNS+%E2%80%A2+NFTables+%E2%80%A2+GitOps+%E2%80%A2+Zero+Trust" height="130" alt="Typing SVG" />
   </a>
 </div>
 

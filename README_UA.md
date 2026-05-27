@@ -186,7 +186,7 @@ currently_building: ADBlock-Private-DNS
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-top-langs.svg" width="35%" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-top-langs.svg" width="55%" alt="Top Languages" />
 </div>
 
 ##
@@ -199,6 +199,7 @@ currently_building: ADBlock-Private-DNS
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=weby-homelab&theme=react-dark&hide_border=true&area=true&color=00D4FF&line=FF6B35&point=FFD700" width="100%" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->

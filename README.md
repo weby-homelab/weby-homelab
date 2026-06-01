@@ -181,10 +181,6 @@ currently_building: ADBlock-Private-DNS
 <!-- 📜 FOOTER                                                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:00D4FF,100:0D1117&height=100&section=footer" width="100%" />
-
-</div>
-
 <div align="center">
 
   <sub>Built in Ukraine under air raid sirens & blackouts⚡ 2026 Weby Homelab</sub>

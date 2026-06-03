@@ -266,3 +266,33 @@ currently_building: ADBlock-Private-DNS
   }
 }
 -->
+
+## 📚 Repository Analysis
+
+| Repository | Description | Language | Stars | Status |
+|---|---|---|---|---|
+| [adb-pd](https://github.com/weby-homelab/adb-pd) | High-performance DNS-over-HTTPS/TLS/QUIC resolver | Python | 1 | Archived |
+| [adblock-pd](https://github.com/weby-homelab/adblock-pd) | Fork of AdGuard Home | Go | 1 | Active |
+| [ai](https://github.com/weby-homelab/ai) | AI-HomeLab | Python | 2 | Active |
+| [air-quality-dashboard](https://github.com/weby-homelab/air-quality-dashboard) | ECO Station monitoring | HTML | 1 | Active |
+| [antigravity-cli](https://github.com/weby-homelab/antigravity-cli) | Antigravity CLI | PowerShell | 4 | Fork |
+| [BE-Abres-backendround](https://github.com/weby-homelab/BE-Abres-backendround) | Backend demo | JavaScript | 1 | Fork |
+| [beszel](https://github.com/weby-homelab/beszel) | Server monitoring | Go | 1 | Fork |
+| [claude-laravel](https://github.com/weby-homelab/claude-laravel) | Claude code for Laravel | JavaScript | 1 | Fork |
+| [docker-mailserver-gui](https://github.com/weby-homelab/docker-mailserver-gui) | Zero-trust mail server UI |  |  | Active |
+| [ufw-gui](https://github.com/weby-homelab/ufw-gui) | Dockerized UFW manager |  |  | Active |
+| [homelab](https://github.com/weby-homelab/homelab) | Ansible/IaC configs |  |  | Active |
+<!--
+Repository analysis:
+- adb-pd: High-performance DNS-over-HTTPS/TLS/QUIC resolver, Python, archived, 1 ⭐, 1 👁️.
+- adblock-pd: Fork of AdGuard Home, Go, active, 1 ⭐, 1 open issue.
+- ai: AI-HomeLab, Python, 2 ⭐, active.
+- air-quality-dashboard: ECO Station monitoring, HTML, 1 ⭐, active.
+- antigravity-cli: Antigravity CLI, PowerShell, 4 ⭐, fork.
+- BE-Abres-backendround: Backend demo, JavaScript, 1 ⭐, fork.
+- beszel: Server monitoring, Go, 1 ⭐, fork.
+- claude-laravel: Claude code for Laravel, JavaScript, 1 ⭐, fork.
+- docker-mailserver-gui: Zero-trust mail server UI, active.
+- ufw-gui: Dockerized UFW manager, active.
+- homelab: Ansible/IaC configs, active.
+-->

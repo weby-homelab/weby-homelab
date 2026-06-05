@@ -52,8 +52,8 @@ currently_building: ADBlock-Private-DNS
   <a href="https://github.com/weby-homelab/adblock-pd">
     <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-adblock-pd.svg" width="400" height="150" alt="adblock-pd" />
   </a>
-  <a href="https://github.com/weby-homelab/flash-monitor-kyiv">
-    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-flash-monitor-kyiv.svg" width="400" height="150" alt="flash-monitor-kyiv" />
+  <a href="https://github.com/weby-homelab/Power-Safety-UA">
+    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-Power-Safety-UA.svg" width="400" height="150" alt="Power-Safety-UA" />
   </a>
   <br />
   <a href="https://github.com/weby-homelab/firewalld-gui">
@@ -94,7 +94,7 @@ currently_building: ADBlock-Private-DNS
 
 | # | Project | Description | Language | ⭐ | Status |
 |:-:|---------|-------------|:--------:|:--:|:------:|
-| 1 | [flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv) | **POWER⚡SAFETY** — All-in-one real-time power, air raid & AQI monitoring for Kyiv | Python | ![Stars](https://img.shields.io/github/stars/weby-homelab/flash-monitor-kyiv?style=flat-square&color=FFD700) | ![Release](https://img.shields.io/github/v/release/weby-homelab/flash-monitor-kyiv?color=00D4FF&label=v) |
+| 1 | [Power-Safety-UA](https://github.com/weby-homelab/Power-Safety-UA) | **POWER⚡SAFETY** — All-in-one real-time power, air raid & AQI monitoring for Kyiv | Python | ![Stars](https://img.shields.io/github/stars/weby-homelab/Power-Safety-UA?style=flat-square&color=FFD700) | ![Release](https://img.shields.io/github/v/release/weby-homelab/Power-Safety-UA?color=00D4FF&label=v) |
 | 2 | [karma-community-app](https://github.com/weby-homelab/karma-community-app) | Telegram Mini App — gamification via emoji-reactions (🔥❤️👍) | JavaScript | ![Stars](https://img.shields.io/github/stars/weby-homelab/karma-community-app?style=flat-square&color=FFD700) | ![Active](https://img.shields.io/badge/Active-success) |
 | 3 | [firewalld-gui](https://github.com/weby-homelab/firewalld-gui) | Advanced Docker dashboard for Firewalld zones, services, policies & Fail2Ban | TypeScript | ![Stars](https://img.shields.io/github/stars/weby-homelab/firewalld-gui?style=flat-square&color=FFD700) | ![Release](https://img.shields.io/github/v/release/weby-homelab/firewalld-gui?color=00D4FF&label=v) |
 | 4 | [security-monitor-kyiv](https://github.com/weby-homelab/security-monitor-kyiv) | 🛡️ Situational awareness panel — air raids, radiation, AQI, power grid | HTML | ![Stars](https://img.shields.io/github/stars/weby-homelab/security-monitor-kyiv?style=flat-square&color=FFD700) | ![Archived](https://img.shields.io/badge/Archived-red) |
@@ -260,8 +260,8 @@ currently_building: ADBlock-Private-DNS
     },
     "key_projects": [
       {
-        "name": "flash-monitor-kyiv",
-        "repository": "https://github.com/weby-homelab/flash-monitor-kyiv",
+        "name": "Power-Safety-UA",
+        "repository": "https://github.com/weby-homelab/Power-Safety-UA",
         "description": "POWER⚡SAFETY — All-in-one real-time monitoring for power status, air raid alerts, and AQI for Kyiv. Docker multi-arch, dark mode charts, statistics. Flagship project.",
         "language": "Python", "stars": 9, "forks": 1
       },

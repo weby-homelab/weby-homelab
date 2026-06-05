@@ -64,8 +64,8 @@ currently_building: ADBlock-Private-DNS
   <a href="https://github.com/weby-homelab/adblock-pd">
     <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-adblock-pd.svg" width="400" height="150" alt="adblock-pd" />
   </a>
-  <a href="https://github.com/weby-homelab/flash-monitor-kyiv">
-    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-flash-monitor-kyiv.svg" width="400" height="150" alt="flash-monitor-kyiv" />
+  <a href="https://github.com/weby-homelab/Power-Safety-UA">
+    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-Power-Safety-UA.svg" width="400" height="150" alt="Power-Safety-UA" />
   </a>
   <br />
   <a href="https://github.com/weby-homelab/firewalld-gui">
@@ -96,7 +96,7 @@ currently_building: ADBlock-Private-DNS
 
 | Проєкт | Опис | Статус |
 |--------|------|--------|
-| [flash-monitor-kyiv](https://github.com/weby-homelab/flash-monitor-kyiv) | **СВІТЛО⚡БЕЗПЕКА** — флагманська система для Києва. Розумний fallback Yasno/ДТЕК, повітряні тривоги, AQI | ![Release](https://img.shields.io/github/v/release/weby-homelab/flash-monitor-kyiv?color=00D4FF&label=v) |
+| [Power-Safety-UA](https://github.com/weby-homelab/Power-Safety-UA) | **СВІТЛО⚡БЕЗПЕКА** — флагманська система для Києва. Розумний fallback Yasno/ДТЕК, повітряні тривоги, AQI | ![Release](https://img.shields.io/github/v/release/weby-homelab/Power-Safety-UA?color=00D4FF&label=v) |
 | [security-monitor-kyiv](https://github.com/weby-homelab/security-monitor-kyiv) | Дашборд ситуаційної обізнаності. Тривоги 🚨, радіація ☢️, AQI ☁️, мережа 💡 | ![Stars](https://img.shields.io/github/stars/weby-homelab/security-monitor-kyiv?color=FFD700&style=flat-square) |
 | [air-quality-dashboard](https://github.com/weby-homelab/air-quality-dashboard) | **ЕкоСтанція** — PWA для моніторингу PM2.5, PM10 та радіації | ![Release](https://img.shields.io/github/v/release/weby-homelab/air-quality-dashboard?color=00D4FF&label=v) |
 | [fm-ua](https://github.com/weby-homelab/fm-ua) | Flash-Monitor-UA v2.0 — P2P маркетплейс електроенергії | ![Status](https://img.shields.io/badge/Active-success) |
@@ -249,8 +249,8 @@ currently_building: ADBlock-Private-DNS
         "description": "Hardened private DNS-over-HTTPS/TLS/QUIC resolver with a sleek Glassmorphism web UI, zero telemetries, and tracking blocking features."
       },
       {
-        "name": "flash-monitor-kyiv",
-        "repository": "https://github.com/weby-homelab/flash-monitor-kyiv",
+        "name": "Power-Safety-UA",
+        "repository": "https://github.com/weby-homelab/Power-Safety-UA",
         "description": "Kyiv's premier power outage and safety monitor utilizing DTEK/Yasno API fallbacks, air raid alerts, AQI metrics, and backup power supply tracking."
       },
       {

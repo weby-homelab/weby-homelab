@@ -98,7 +98,7 @@ currently_building: ADBlock-Private-DNS
 | 2 | [karma-community-app](https://github.com/weby-homelab/karma-community-app) | Telegram Mini App — gamification via emoji-reactions (🔥❤️👍) | JavaScript | ![Stars](https://img.shields.io/github/stars/weby-homelab/karma-community-app?style=flat-square&color=FFD700) | ![Active](https://img.shields.io/badge/Active-success) |
 | 3 | [firewalld-gui](https://github.com/weby-homelab/firewalld-gui) | Advanced Docker dashboard for Firewalld zones, services, policies & Fail2Ban | TypeScript | ![Stars](https://img.shields.io/github/stars/weby-homelab/firewalld-gui?style=flat-square&color=FFD700) | ![Release](https://img.shields.io/github/v/release/weby-homelab/firewalld-gui?color=00D4FF&label=v) |
 | 4 | [security-monitor-kyiv](https://github.com/weby-homelab/security-monitor-kyiv) | 🛡️ Situational awareness panel — air raids, radiation, AQI, power grid | HTML | ![Stars](https://img.shields.io/github/stars/weby-homelab/security-monitor-kyiv?style=flat-square&color=FFD700) | ![Archived](https://img.shields.io/badge/Archived-red) |
-| 5 | [ai](https://github.com/weby-homelab/ai) | 🇺🇦 AI-HomeLab — local AI, multi-agent systems, blackout-resilience | Python | ![Stars](https://img.shields.io/github/stars/weby-homelab/ai?style=flat-square&color=FFD700) | ![Active](https://img.shields.io/badge/Active-success) |
+| 5 | [AI-HOMELAB](https://github.com/weby-homelab/AI-HOMELAB) | 🇺🇦 AI-HomeLab — local AI, multi-agent systems, blackout-resilience | Python | ![Stars](https://img.shields.io/github/stars/weby-homelab/AI-HOMELAB?style=flat-square&color=FFD700) | ![Active](https://img.shields.io/badge/Active-success) |
 | 6 | [niftywall](https://github.com/weby-homelab/niftywall) | NFTables web dashboard with "Time Machine" snapshots | HTML | ![Stars](https://img.shields.io/github/stars/weby-homelab/niftywall?style=flat-square&color=FFD700) | ![Release](https://img.shields.io/github/v/release/weby-homelab/niftywall?color=00D4FF&label=v) |
 | 7 | [ufw-gui](https://github.com/weby-homelab/ufw-gui) | Docker web dashboard for UFW & Fail2Ban — minimalistic & secure | Python | ![Stars](https://img.shields.io/github/stars/weby-homelab/ufw-gui?style=flat-square&color=FFD700) | ![Release](https://img.shields.io/github/v/release/weby-homelab/ufw-gui?color=00D4FF&label=v) |
 | 8 | [air-quality-dashboard](https://github.com/weby-homelab/air-quality-dashboard) | **EcoStation** — PWA for PM2.5, PM10 & radiation monitoring | HTML | ![Stars](https://img.shields.io/github/stars/weby-homelab/air-quality-dashboard?style=flat-square&color=FFD700) | ![Release](https://img.shields.io/github/v/release/weby-homelab/air-quality-dashboard?color=00D4FF&label=v) |
@@ -284,8 +284,8 @@ currently_building: ADBlock-Private-DNS
         "language": "HTML", "stars": 3, "archived": true
       },
       {
-        "name": "ai",
-        "repository": "https://github.com/weby-homelab/ai",
+        "name": "AI-HOMELAB",
+        "repository": "https://github.com/weby-homelab/AI-HOMELAB",
         "description": "AI-HomeLab — local AI, multi-agent systems, blackout-resilience research.",
         "language": "Python", "stars": 2
       },

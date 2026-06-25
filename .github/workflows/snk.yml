@@ -74,6 +74,7 @@ jobs:
           curl -f -s "http://localhost:9000/api/pin?username=weby-homelab&repo=firewalld-gui&theme=react&border_color=0D1117&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117&hide_border=true" -o dist/pin-firewalld-gui.svg || (echo "Failed to fetch pin-firewalld-gui" && cat grs-local/grs.log || true)
           curl -f -s "http://localhost:9000/api/pin?username=weby-homelab&repo=niftywall&theme=react&border_color=0D1117&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117&hide_border=true" -o dist/pin-niftywall.svg || (echo "Failed to fetch pin-niftywall" && cat grs-local/grs.log || true)
           curl -f -s "http://localhost:9000/api/pin?username=weby-homelab&repo=docker-mailserver-gui&theme=react&border_color=0D1117&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117&hide_border=true" -o dist/pin-docker-mailserver-gui.svg || (echo "Failed to fetch pin-docker-mailserver-gui" && cat grs-local/grs.log || true)
+          curl -f -s "http://localhost:9000/api/pin?username=weby-homelab&repo=Weby-QRank&theme=react&border_color=0D1117&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117&hide_border=true" -o dist/pin-weby-qrank.svg || (echo "Failed to fetch pin-weby-qrank" && cat grs-local/grs.log || true)
           curl -f -s "http://localhost:9000/api/pin?username=weby-homelab&repo=ufw-gui&theme=react&border_color=0D1117&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117&hide_border=true" -o dist/pin-ufw-gui.svg || (echo "Failed to fetch pin-ufw-gui" && cat grs-local/grs.log || true)
           
           # Public Working Instances

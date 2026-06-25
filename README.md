@@ -29,7 +29,7 @@ focus:
   - "⚡ Energy Monitoring (power grid resilience)"
   - "🔒 Privacy-First DNS (DoH/DoT/DoQUIC)"
   - "🐳 Docker & Self-Hosting"
-currently_building: ADBlock-Private-DNS
+currently_building: Weby-QRank
 ```
 
 <p align="left">
@@ -49,25 +49,25 @@ currently_building: ADBlock-Private-DNS
 ## 💎 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/weby-homelab/adblock-pd">
-    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-adblock-pd.svg" width="400" height="150" alt="adblock-pd" />
+  <a href="https://github.com/weby-homelab/Weby-QRank">
+    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-weby-qrank.svg" width="400" height="150" alt="Weby-QRank" />
   </a>
   <a href="https://github.com/weby-homelab/Power-Safety-UA">
     <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-Power-Safety-UA.svg" width="400" height="150" alt="Power-Safety-UA" />
   </a>
   <br />
-  <a href="https://github.com/weby-homelab/firewalld-gui">
-    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-firewalld-gui.svg" width="400" height="150" alt="firewalld-gui" />
+  <a href="https://github.com/weby-homelab/adblock-pd">
+    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-adblock-pd.svg" width="400" height="150" alt="adblock-pd" />
   </a>
   <a href="https://github.com/weby-homelab/niftywall">
     <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-niftywall.svg" width="400" height="150" alt="niftywall" />
   </a>
   <br />
+  <a href="https://github.com/weby-homelab/firewalld-gui">
+    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-firewalld-gui.svg" width="400" height="150" alt="firewalld-gui" />
+  </a>
   <a href="https://github.com/weby-homelab/docker-mailserver-gui">
     <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-docker-mailserver-gui.svg" width="400" height="150" alt="docker-mailserver-gui" />
-  </a>
-  <a href="https://github.com/weby-homelab/ufw-gui">
-    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-ufw-gui.svg" width="400" height="150" alt="ufw-gui" />
   </a>
 </div>
 
@@ -94,8 +94,8 @@ currently_building: ADBlock-Private-DNS
 
 | # | Project | Description | Language | ⭐ | Status |
 |:-:|---------|-------------|:--------:|:--:|:------:|
-| 1 | [Power-Safety-UA](https://github.com/weby-homelab/Power-Safety-UA) | **POWER⚡SAFETY** — All-in-one real-time power, air raid & AQI monitoring for Kyiv | Python | ![Stars](https://img.shields.io/github/stars/weby-homelab/Power-Safety-UA?style=flat-square&color=FFD700) | ![Release](https://img.shields.io/github/v/release/weby-homelab/Power-Safety-UA?color=00D4FF&label=v) |
-| 2 | [karma-community-app](https://github.com/weby-homelab/karma-community-app) | Telegram Mini App — gamification via emoji-reactions (🔥❤️👍) | JavaScript | ![Stars](https://img.shields.io/github/stars/weby-homelab/karma-community-app?style=flat-square&color=FFD700) | ![Active](https://img.shields.io/badge/Active-success) |
+| 1 | [Weby-QRank](https://github.com/weby-homelab/Weby-QRank) | **Weby-QRank** — Flagship reputation engine & Telegram Mini App with Q-index | TypeScript | ![Stars](https://img.shields.io/github/stars/weby-homelab/Weby-QRank?style=flat-square&color=FFD700) | ![Active](https://img.shields.io/badge/Active-success) |
+| 2 | [Power-Safety-UA](https://github.com/weby-homelab/Power-Safety-UA) | **POWER⚡SAFETY** — All-in-one real-time power, air raid & AQI monitoring for Kyiv | Python | ![Stars](https://img.shields.io/github/stars/weby-homelab/Power-Safety-UA?style=flat-square&color=FFD700) | ![Release](https://img.shields.io/github/v/release/weby-homelab/Power-Safety-UA?color=00D4FF&label=v) |
 | 3 | [firewalld-gui](https://github.com/weby-homelab/firewalld-gui) | Advanced Docker dashboard for Firewalld zones, services, policies & Fail2Ban | TypeScript | ![Stars](https://img.shields.io/github/stars/weby-homelab/firewalld-gui?style=flat-square&color=FFD700) | ![Release](https://img.shields.io/github/v/release/weby-homelab/firewalld-gui?color=00D4FF&label=v) |
 | 4 | [security-monitor-kyiv](https://github.com/weby-homelab/security-monitor-kyiv) | 🛡️ Situational awareness panel — air raids, radiation, AQI, power grid | HTML | ![Stars](https://img.shields.io/github/stars/weby-homelab/security-monitor-kyiv?style=flat-square&color=FFD700) | ![Archived](https://img.shields.io/badge/Archived-red) |
 | 5 | [AI-HOMELAB](https://github.com/weby-homelab/AI-HOMELAB) | 🇺🇦 AI-HomeLab — local AI, multi-agent systems, blackout-resilience | Python | ![Stars](https://img.shields.io/github/stars/weby-homelab/AI-HOMELAB?style=flat-square&color=FFD700) | ![Active](https://img.shields.io/badge/Active-success) |
@@ -266,10 +266,10 @@ currently_building: ADBlock-Private-DNS
         "language": "Python", "stars": 9, "forks": 1
       },
       {
-        "name": "karma-community-app",
-        "repository": "https://github.com/weby-homelab/karma-community-app",
-        "description": "Telegram Mini App for community gamification — karma via emoji-reactions.",
-        "language": "JavaScript", "stars": 4
+        "name": "Weby-QRank",
+        "repository": "https://github.com/weby-homelab/Weby-QRank",
+        "description": "Flagship reputation engine and Telegram Mini App for chats. Features Q-index ranking with built-in Sybil protection and mathematical Time Decay.",
+        "language": "TypeScript", "stars": 5
       },
       {
         "name": "firewalld-gui",

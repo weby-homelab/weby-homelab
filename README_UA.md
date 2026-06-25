@@ -41,7 +41,7 @@ focus:
   - "⚡ Енергомоніторинг (стійкість мережі живлення)"
   - "🔒 Privacy-First DNS (DoH/DoT/DoQUIC)"
   - "🐳 Docker та Self-Hosting"
-currently_building: ADBlock-Private-DNS
+currently_building: Weby-QRank
 ```
 
 <p align="left">
@@ -61,25 +61,25 @@ currently_building: ADBlock-Private-DNS
 ## 💎 Головні проєкти
 
 <div align="center">
-  <a href="https://github.com/weby-homelab/adblock-pd">
-    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-adblock-pd.svg" width="400" height="150" alt="adblock-pd" />
+  <a href="https://github.com/weby-homelab/weby-qrank">
+    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-weby-qrank.svg" width="400" height="150" alt="weby-qrank" />
   </a>
   <a href="https://github.com/weby-homelab/Power-Safety-UA">
     <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-Power-Safety-UA.svg" width="400" height="150" alt="Power-Safety-UA" />
   </a>
   <br />
-  <a href="https://github.com/weby-homelab/firewalld-gui">
-    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-firewalld-gui.svg" width="400" height="150" alt="firewalld-gui" />
+  <a href="https://github.com/weby-homelab/adblock-pd">
+    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-adblock-pd.svg" width="400" height="150" alt="adblock-pd" />
   </a>
   <a href="https://github.com/weby-homelab/niftywall">
     <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-niftywall.svg" width="400" height="150" alt="niftywall" />
   </a>
   <br />
+  <a href="https://github.com/weby-homelab/firewalld-gui">
+    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-firewalld-gui.svg" width="400" height="150" alt="firewalld-gui" />
+  </a>
   <a href="https://github.com/weby-homelab/docker-mailserver-gui">
     <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-docker-mailserver-gui.svg" width="400" height="150" alt="docker-mailserver-gui" />
-  </a>
-  <a href="https://github.com/weby-homelab/ufw-gui">
-    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-ufw-gui.svg" width="400" height="150" alt="ufw-gui" />
   </a>
 </div>
 
@@ -117,7 +117,7 @@ currently_building: ADBlock-Private-DNS
 
 | Проєкт | Опис | Статус |
 |--------|------|--------|
-| [Karma Community App](https://github.com/weby-homelab/karma-community-app) | Telegram Mini App для гейміфікації спільноти | ![Status](https://img.shields.io/badge/Active-success) |
+| [Weby-QRank](https://github.com/weby-homelab/weby-qrank) | Telegram Mini App — флагманський репутаційний рушій чатів з Q-індексом | ![Status](https://img.shields.io/badge/Active-success) |
 | [Safety-Chat-Bot](https://github.com/weby-homelab/safety-chat-bot) | Telegram бот модерації з кармою через реакції | ![Release](https://img.shields.io/github/v/release/weby-homelab/safety-chat-bot?color=00D4FF&label=v) |
 
 #### 🌌 Інфраструктура
@@ -269,9 +269,9 @@ currently_building: ADBlock-Private-DNS
         "description": "A complete Traefik-integrated private mail server administration panel built for Docker-Mailserver."
       },
       {
-        "name": "ufw-gui",
-        "repository": "https://github.com/weby-homelab/ufw-gui",
-        "description": "Dockerized web manager for UFW (Uncomplicated Firewall) featuring Zero-Fallback credential configurations."
+        "name": "Weby-QRank",
+        "repository": "https://github.com/weby-homelab/weby-qrank",
+        "description": "Flagship reputation engine and Telegram Mini App for chats. Features Q-index ranking with built-in Sybil protection and mathematical Time Decay."
       },
       {
         "name": "homelab",

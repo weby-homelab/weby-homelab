@@ -61,8 +61,8 @@ currently_building: Weby-QRank
 ## 💎 Головні проєкти
 
 <div align="center">
-  <a href="https://github.com/weby-homelab/weby-qrank">
-    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-weby-qrank.svg" width="400" height="150" alt="weby-qrank" />
+  <a href="https://github.com/weby-homelab/Weby-QRank">
+    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-weby-qrank.svg" width="400" height="150" alt="Weby-QRank" />
   </a>
   <a href="https://github.com/weby-homelab/Power-Safety-UA">
     <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-Power-Safety-UA.svg" width="400" height="150" alt="Power-Safety-UA" />
@@ -117,7 +117,7 @@ currently_building: Weby-QRank
 
 | Проєкт | Опис | Статус |
 |--------|------|--------|
-| [Weby-QRank](https://github.com/weby-homelab/weby-qrank) | Telegram Mini App — флагманський репутаційний рушій чатів з Q-індексом | ![Status](https://img.shields.io/badge/Active-success) |
+| [Weby-QRank](https://github.com/weby-homelab/Weby-QRank) | Telegram Mini App — флагманський репутаційний рушій чатів з Q-індексом | ![Status](https://img.shields.io/badge/Active-success) |
 | [Safety-Chat-Bot](https://github.com/weby-homelab/safety-chat-bot) | Telegram бот модерації з кармою через реакції | ![Release](https://img.shields.io/github/v/release/weby-homelab/safety-chat-bot?color=00D4FF&label=v) |
 
 #### 🌌 Інфраструктура
@@ -270,7 +270,7 @@ currently_building: Weby-QRank
       },
       {
         "name": "Weby-QRank",
-        "repository": "https://github.com/weby-homelab/weby-qrank",
+        "repository": "https://github.com/weby-homelab/Weby-QRank",
         "description": "Flagship reputation engine and Telegram Mini App for chats. Features Q-index ranking with built-in Sybil protection and mathematical Time Decay."
       },
       {

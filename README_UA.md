@@ -61,25 +61,25 @@ currently_building: Weby-QRank
 ## 💎 Головні проєкти
 
 <div align="center">
-  <a href="https://github.com/weby-homelab/Weby-QRank">
-    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-weby-qrank.svg" width="400" height="150" alt="Weby-QRank" />
+  <a href="https://github.com/Weby-Homelab/Weby-QRank">
+    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-weby-qrank.svg" width="400" height="150" alt="Weby-QRank" />
   </a>
-  <a href="https://github.com/weby-homelab/Power-Safety-UA">
-    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-Power-Safety-UA.svg" width="400" height="150" alt="Power-Safety-UA" />
-  </a>
-  <br />
-  <a href="https://github.com/weby-homelab/adblock-pd">
-    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-adblock-pd.svg" width="400" height="150" alt="adblock-pd" />
-  </a>
-  <a href="https://github.com/weby-homelab/niftywall">
-    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-niftywall.svg" width="400" height="150" alt="niftywall" />
+  <a href="https://github.com/Weby-Homelab/Power-Safety-UA">
+    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-Power-Safety-UA.svg" width="400" height="150" alt="Power-Safety-UA" />
   </a>
   <br />
-  <a href="https://github.com/weby-homelab/firewalld-gui">
-    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-firewalld-gui.svg" width="400" height="150" alt="firewalld-gui" />
+  <a href="https://github.com/Weby-Homelab/ADBlock-PD">
+    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-adblock-pd.svg" width="400" height="150" alt="adblock-pd" />
   </a>
-  <a href="https://github.com/weby-homelab/docker-mailserver-gui">
-    <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/pin-docker-mailserver-gui.svg" width="400" height="150" alt="docker-mailserver-gui" />
+  <a href="https://github.com/Weby-Homelab/niftywall">
+    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-niftywall.svg" width="400" height="150" alt="niftywall" />
+  </a>
+  <br />
+  <a href="https://github.com/Weby-Homelab/firewalld-gui">
+    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-firewalld-gui.svg" width="400" height="150" alt="firewalld-gui" />
+  </a>
+  <a href="https://github.com/Weby-Homelab/docker-mailserver-gui">
+    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-docker-mailserver-gui.svg" width="400" height="150" alt="docker-mailserver-gui" />
   </a>
 </div>
 
@@ -96,36 +96,36 @@ currently_building: Weby-QRank
 
 | Проєкт | Опис | Статус |
 |--------|------|--------|
-| [Power-Safety-UA](https://github.com/weby-homelab/Power-Safety-UA) | **СВІТЛО⚡БЕЗПЕКА** — флагманська система для Києва. Розумний fallback Yasno/ДТЕК, повітряні тривоги, AQI | ![Release](https://img.shields.io/github/v/release/weby-homelab/Power-Safety-UA?color=00D4FF&label=v) |
-| [security-monitor-kyiv](https://github.com/weby-homelab/security-monitor-kyiv) | Дашборд ситуаційної обізнаності. Тривоги 🚨, радіація ☢️, AQI ☁️, мережа 💡 | ![Stars](https://img.shields.io/github/stars/weby-homelab/security-monitor-kyiv?color=FFD700&style=flat-square) |
-| [air-quality-dashboard](https://github.com/weby-homelab/air-quality-dashboard) | **ЕкоСтанція** — PWA для моніторингу PM2.5, PM10 та радіації | ![Release](https://img.shields.io/github/v/release/weby-homelab/air-quality-dashboard?color=00D4FF&label=v) |
-| [fm-ua](https://github.com/weby-homelab/fm-ua) | Flash-Monitor-UA v2.0 — P2P маркетплейс електроенергії | ![Status](https://img.shields.io/badge/Active-success) |
+| [Power-Safety-UA](https://github.com/Weby-Homelab/Power-Safety-UA) | **СВІТЛО⚡БЕЗПЕКА** — флагманська система для Києва. Розумний fallback Yasno/ДТЕК, повітряні тривоги, AQI | ![Release](https://img.shields.io/github/v/release/weby-homelab/Power-Safety-UA?color=00D4FF&label=v) |
+| [security-monitor-kyiv](https://github.com/Weby-Homelab/security-monitor-kyiv) | Дашборд ситуаційної обізнаності. Тривоги 🚨, радіація ☢️, AQI ☁️, мережа 💡 | ![Stars](https://img.shields.io/github/stars/weby-homelab/security-monitor-kyiv?color=FFD700&style=flat-square) |
+| [air-quality-dashboard](https://github.com/Weby-Homelab/air-quality-dashboard) | **ЕкоСтанція** — PWA для моніторингу PM2.5, PM10 та радіації | ![Release](https://img.shields.io/github/v/release/weby-homelab/air-quality-dashboard?color=00D4FF&label=v) |
+| [fm-ua](https://github.com/Weby-Homelab/fm-ua) | Flash-Monitor-UA v2.0 — P2P маркетплейс електроенергії | ![Status](https://img.shields.io/badge/Active-success) |
 
 #### 🔒 Мережева безпека та Адмін
 
 | Проєкт | Опис | Статус |
 |--------|------|--------|
-| [ADBlock-PD](https://github.com/weby-homelab/adblock-pd) | Захищений приватний DNS-резолвер — нуль телеметрії, DoH/DoT/DoQUIC | ![Release](https://img.shields.io/github/v/release/weby-homelab/adblock-pd?color=00D4FF&label=v) |
-| [NiftyWall](https://github.com/weby-homelab/niftywall) | Професійний дашборд nftables з "Машиною часу" | ![Release](https://img.shields.io/github/v/release/weby-homelab/niftywall?color=00D4FF&label=v) |
-| [Firewalld-GUI](https://github.com/weby-homelab/firewalld-gui) | Сучасна панель firewalld + Fail2Ban | ![Release](https://img.shields.io/github/v/release/weby-homelab/firewalld-gui?color=00D4FF&label=v) |
-| [UFW-GUI](https://github.com/weby-homelab/ufw-gui) | Docker веб-UI для UFW з Zero-Fallback Secrets | ![Release](https://img.shields.io/github/v/release/weby-homelab/ufw-gui?color=00D4FF&label=v) |
-| [adb-pd](https://github.com/weby-homelab/adb-pd) | DNS-over-HTTPS/TLS/QUIC резолвер з Glassmorphism UI | ![Status](https://img.shields.io/badge/Active-success) |
-| [Docker-Mailserver-GUI](https://github.com/weby-homelab/docker-mailserver-gui) | Zero Trust поштовий сервер + Traefik + SnappyMail | ![Release](https://img.shields.io/github/v/release/weby-homelab/docker-mailserver-gui?color=00D4FF&label=v) |
-| [VoIP Installer](https://github.com/weby-homelab/voip-installer) | Автоматизоване розгортання Asterisk на Ubuntu 24.04 | ![Release](https://img.shields.io/github/v/tag/weby-homelab/voip-installer?color=00D4FF&label=v) |
+| [ADBlock-PD](https://github.com/Weby-Homelab/ADBlock-PD) | Захищений приватний DNS-резолвер — нуль телеметрії, DoH/DoT/DoQUIC | ![Release](https://img.shields.io/github/v/release/Weby-Homelab/ADBlock-PD?color=00D4FF&label=v) |
+| [NiftyWall](https://github.com/Weby-Homelab/niftywall) | Професійний дашборд nftables з "Машиною часу" | ![Release](https://img.shields.io/github/v/release/weby-homelab/niftywall?color=00D4FF&label=v) |
+| [Firewalld-GUI](https://github.com/Weby-Homelab/firewalld-gui) | Сучасна панель firewalld + Fail2Ban | ![Release](https://img.shields.io/github/v/release/weby-homelab/firewalld-gui?color=00D4FF&label=v) |
+| [UFW-GUI](https://github.com/Weby-Homelab/ufw-gui) | Docker веб-UI для UFW з Zero-Fallback Secrets | ![Release](https://img.shields.io/github/v/release/weby-homelab/ufw-gui?color=00D4FF&label=v) |
+| [adb-pd](https://github.com/Weby-Homelab/adb-pd) | DNS-over-HTTPS/TLS/QUIC резолвер з Glassmorphism UI | ![Status](https://img.shields.io/badge/Active-success) |
+| [Docker-Mailserver-GUI](https://github.com/Weby-Homelab/docker-mailserver-gui) | Zero Trust поштовий сервер + Traefik + SnappyMail | ![Release](https://img.shields.io/github/v/release/weby-homelab/docker-mailserver-gui?color=00D4FF&label=v) |
+| [VoIP Installer](https://github.com/Weby-Homelab/voip-installer) | Автоматизоване розгортання Asterisk на Ubuntu 24.04 | ![Release](https://img.shields.io/github/v/tag/weby-homelab/voip-installer?color=00D4FF&label=v) |
 
 #### 🎮 Спільнота та додатки
 
 | Проєкт | Опис | Статус |
 |--------|------|--------|
-| [Weby-QRank](https://github.com/weby-homelab/Weby-QRank) | Telegram Mini App — флагманський репутаційний рушій чатів з Q-індексом | ![Status](https://img.shields.io/badge/Active-success) |
-| [Safety-Chat-Bot](https://github.com/weby-homelab/safety-chat-bot) | Telegram бот модерації з кармою через реакції | ![Release](https://img.shields.io/github/v/release/weby-homelab/safety-chat-bot?color=00D4FF&label=v) |
+| [Weby-QRank](https://github.com/Weby-Homelab/Weby-QRank) | Telegram Mini App — флагманський репутаційний рушій чатів з Q-індексом | ![Status](https://img.shields.io/badge/Active-success) |
+| [Safety-Chat-Bot](https://github.com/Weby-Homelab/safety-chat-bot) | Telegram бот модерації з кармою через реакції | ![Release](https://img.shields.io/github/v/release/weby-homelab/safety-chat-bot?color=00D4FF&label=v) |
 
 #### 🌌 Інфраструктура
 
 | Проєкт | Опис | Статус |
 |--------|------|--------|
-| [homelab](https://github.com/weby-homelab/homelab) | Центральна IaC, Ansible-конфіги та моніторинг | ![Status](https://img.shields.io/badge/Active-success) |
-| [light-monitor-kyiv](https://github.com/weby-homelab/light-monitor-kyiv) | Аналітичний трекер відключень з графіками | ![Stars](https://img.shields.io/github/stars/weby-homelab/light-monitor-kyiv?color=FFD700&style=flat-square) |
+| [homelab](https://github.com/Weby-Homelab/homelab) | Центральна IaC, Ansible-конфіги та моніторинг | ![Status](https://img.shields.io/badge/Active-success) |
+| [light-monitor-kyiv](https://github.com/Weby-Homelab/light-monitor-kyiv) | Аналітичний трекер відключень з графіками | ![Stars](https://img.shields.io/github/stars/weby-homelab/light-monitor-kyiv?color=FFD700&style=flat-square) |
 
 </details>
 
@@ -138,8 +138,8 @@ currently_building: Weby-QRank
 ## 📊 Статистика GitHub
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-stats.svg?v=1" height="195" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-streak-stats.svg?v=1" height="195" alt="Streak Stats" />
+  <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/github-stats.svg?v=1" height="195" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/github-streak-stats.svg?v=1" height="195" alt="Streak Stats" />
 </div>
 
 ##
@@ -174,7 +174,7 @@ currently_building: Weby-QRank
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/weby-homelab/weby-homelab/output/github-top-langs.svg?v=1" width="55%" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/github-top-langs.svg?v=1" width="55%" alt="Top Languages" />
 </div>
 
 ##
@@ -230,7 +230,7 @@ currently_building: Weby-QRank
     },
     "url": "https://weby.srvrs.top",
     "sameAs": [
-      "https://github.com/weby-homelab",
+      "https://github.com/Weby-Homelab",
       "https://x.com/weby_homelab",
       "https://t.me/weby_homelab"
     ]
@@ -245,37 +245,37 @@ currently_building: Weby-QRank
     "key_projects": [
       {
         "name": "adblock-pd",
-        "repository": "https://github.com/weby-homelab/adblock-pd",
+        "repository": "https://github.com/Weby-Homelab/ADBlock-PD",
         "description": "Hardened private DNS-over-HTTPS/TLS/QUIC resolver with a sleek Glassmorphism web UI, zero telemetries, and tracking blocking features."
       },
       {
         "name": "Power-Safety-UA",
-        "repository": "https://github.com/weby-homelab/Power-Safety-UA",
+        "repository": "https://github.com/Weby-Homelab/Power-Safety-UA",
         "description": "Kyiv's premier power outage and safety monitor utilizing DTEK/Yasno API fallbacks, air raid alerts, AQI metrics, and backup power supply tracking."
       },
       {
         "name": "firewalld-gui",
-        "repository": "https://github.com/weby-homelab/firewalld-gui",
+        "repository": "https://github.com/Weby-Homelab/firewalld-gui",
         "description": "A modern web interface control panel for managing firewalld and Fail2Ban security settings."
       },
       {
         "name": "niftywall",
-        "repository": "https://github.com/weby-homelab/niftywall",
+        "repository": "https://github.com/Weby-Homelab/niftywall",
         "description": "Professional nftables dashboard tool featuring 'Time Machine' rule snapshot/restore features for high-stability deployments."
       },
       {
         "name": "docker-mailserver-gui",
-        "repository": "https://github.com/weby-homelab/docker-mailserver-gui",
+        "repository": "https://github.com/Weby-Homelab/docker-mailserver-gui",
         "description": "A complete Traefik-integrated private mail server administration panel built for Docker-Mailserver."
       },
       {
         "name": "Weby-QRank",
-        "repository": "https://github.com/weby-homelab/Weby-QRank",
+        "repository": "https://github.com/Weby-Homelab/Weby-QRank",
         "description": "Flagship reputation engine and Telegram Mini App for chats. Features Q-index ranking with built-in Sybil protection and mathematical Time Decay."
       },
       {
         "name": "homelab",
-        "repository": "https://github.com/weby-homelab/homelab",
+        "repository": "https://github.com/Weby-Homelab/homelab",
         "description": "Central repository containing Ansible roles, IaC configurations, network topologies, and system monitors for the HTZNR and PRXMX fleet."
       }
     ]

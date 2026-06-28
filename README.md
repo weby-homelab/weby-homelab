@@ -3,13 +3,13 @@
   <!-- ═══════════════════════════════════════════════════════════ -->
   <!-- 🎨 ANIMATED HEADER BANNER                                  -->
   <!-- ═══════════════════════════════════════════════════════════ -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:FF6B35&height=220&section=header&text=WEBY%20HOMELAB&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Resilient%20Infrastructure%20from%20Kyiv%20🇺🇦&descSize=18&descAlignY=55&descColor=FFD700" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:FF6B35&height=220&section=header&text=WEBY%20HOMELAB&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=AI-Augmented%20Infrastructure%20from%20Kyiv%20🇺🇦&descSize=18&descAlignY=55&descColor=FFD700" width="100%" />
 
   <!-- ═══════════════════════════════════════════════════════════ -->
   <!-- ⌨️ ANIMATED TYPING                                          -->
   <!-- ═══════════════════════════════════════════════════════════ -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=130&lines=%F0%9F%9B%A0%EF%B8%8F+Engineering+Resilient+Infrastructure+from+Kyiv+%F0%9F%87%BA%F0%9F%87%A6;%E2%9A%A1+Surviving+real-world+adversity+since+2022;%F0%9F%94%92+Privacy+DNS+%E2%80%A2+NFTables+%E2%80%A2+GitOps+%E2%80%A2+Zero+Trust" height="130" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=130&lines=%F0%9F%A4%96+AI-Augmented+Infrastructure+Engineer+from+Kyiv+%F0%9F%87%BA%F0%9F%87%A6;%E2%9A%A1+Local+LLMs+%E2%80%A2+Gemini+Agents+%E2%80%A2+Proxmox+Homelab;%F0%9F%94%92+Privacy+DNS+%E2%80%A2+NFTables+%E2%80%A2+MCP+%E2%80%A2+Obsidian+Second+Brain" height="130" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,27 +22,36 @@
 ```yaml
 name: Weby Homelab
 location: Kyiv, Ukraine 🇺🇦
-role: Full Stack & AI Engineer
-mission: Building resilient tools and AI-powered systems that survive real-world adversity
+role: AI & Infrastructure Engineer
+mission: Building AI-augmented, resilient systems that survive real-world adversity
 focus:
-  - "🤖 AI Engineering (LLMs, FastAPI, Vector DBs)"
-  - "💻 Full Stack Development (Next.js, NestJS, GraphQL)"
-  - "🛡️ Network Security & Privacy-First DNS"
-  - "⚡ Energy Monitoring & Infrastructure"
+  - "🤖 AI Agents & Local LLMs (Gemini, Gemma, Qwen, llama.cpp)"
+  - "🏠 Proxmox Homelab & Tailscale Mesh Networking"
+  - "🛡️ Privacy-First DNS & NFTables Hardening"
+  - "⚡ Energy Grid Monitoring (Power-Safety-UA)"
+  - "🧠 AI Second Brain (Obsidian + MCP)"
 currently_building: Weby-QRank
 
 specialties:
-  Full Stack:
-    Frontend: React.js, Next.js, TypeScript, Tailwind CSS
-    Backend: Node.js, Express.js, NestJS, GraphQL, Python, PHP
-    Database: PostgreSQL, MongoDB, Firebase
-    DevOps: Docker, AWS, Vercel, CI/CD
+  AI & LLM Engineering:
+    Agents: Google Antigravity CLI, Gemini CLI, OpenCode (local)
+    Models: Gemini 2.5 Pro/Flash, Gemma4 27B, Qwen3 35B
+    Runtime: llama.cpp, Ollama, GGUF quantization
+    Protocols: MCP (Model Context Protocol), Obsidian Second Brain
+    APIs: Gemini API, Telegram Bot API
 
-  AI Engineering:
-    Languages: Python, Rust
-    LLMs & APIs: OpenAI API, Gemini API
-    Frameworks: FastAPI, LangChain
-    Vector Databases: Pinecone, ChromaDB
+  Infrastructure & Homelab:
+    Virtualization: Proxmox VE (multi-node cluster)
+    Networking: Tailscale (mesh VPN), NFTables, WireGuard
+    Containers: Docker, LXC, Docker Compose
+    DNS & Privacy: AdGuard Home, custom blocklists (ADBlock-PD)
+    Monitoring: Uptime Kuma, Beszel, custom dashboards
+
+  Full Stack Development:
+    Frontend: React.js, Next.js, TypeScript
+    Backend: Python (FastAPI), Node.js, Express.js
+    Database: PostgreSQL, SQLite
+    DevOps: GitHub Actions, Docker Hub CI/CD, GPG-signed commits
 ```
 
 <p align="left">
@@ -170,22 +179,22 @@ specialties:
 
   #### 🌐 Languages
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,rust,go,ts,js,php,bash,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,go,ts,js,bash,html,css&theme=dark" />
   </a>
 
-  #### 💻 Frontend & Styling
+  #### 🤖 AI & LLM Stack
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,obsidian,pytorch,huggingface&theme=dark" />
   </a>
 
-  #### ⚙️ Backend, AI & Databases
+  #### 💻 Frontend & Backend
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,fastapi,flask,pytorch,tensorflow,scikitlearn,huggingface,opencv,postgres,mongodb,firebase,redis&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,nodejs,express,postgres,sqlite&theme=dark" />
   </a>
 
-  #### 🏗️ Infrastructure & DevOps
+  #### 🏗️ Infrastructure & Homelab
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,vercel,linux,nginx,prometheus,cloudflare,git,github,githubactions,copilot&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,git,github,githubactions&theme=dark" />
   </a>
 
 </div>
@@ -231,25 +240,23 @@ specialties:
     "@type": "Person",
     "name": "Weby Homelab",
     "alternateName": "weby-homelab",
-    "jobTitle": "Full Stack & AI Engineer",
-    "description": "Specialist in building highly resilient, privacy-first infrastructure, full stack web applications, and AI-powered systems that withstand extreme environments. Based in Kyiv, Ukraine — engineering under air raid sirens & blackouts since 2022.",
+    "jobTitle": "AI & Infrastructure Engineer",
+    "description": "AI-augmented infrastructure engineer specializing in local LLMs, agentic AI workflows, and resilient homelab systems. Based in Kyiv, Ukraine — engineering under air raid sirens & blackouts since 2022.",
     "knowsAbout": [
-      "Network Security",
-      "Energy Monitoring Systems",
-      "Privacy-First DNS Resolvers",
-      "Docker & Containerization Services",
-      "Infrastructure as Code (IaC)",
-      "GitOps & CI/CD Workflows",
-      "Linux Firewalls (nftables, firewalld, ufw)",
-      "Zero Trust Architectures",
-      "AI & Multi-Agent Systems",
+      "AI Agents & Agentic Workflows (Antigravity CLI, Gemini CLI)",
+      "Local LLMs (Gemma, Qwen, llama.cpp, GGUF)",
+      "Model Context Protocol (MCP)",
+      "Proxmox VE Virtualization",
+      "Tailscale Mesh Networking",
+      "Network Security & NFTables",
+      "Privacy-First DNS (AdGuard Home)",
+      "Docker & LXC Containers",
+      "Energy Grid Monitoring",
       "Telegram Bot Development",
-      "VoIP (Asterisk/PJSIP)",
-      "WireGuard VPN",
-      "Full Stack Development",
-      "AI Engineering",
-      "LLMs & APIs",
-      "Vector Databases"
+      "Full Stack Development (React, Next.js, FastAPI)",
+      "Obsidian Second Brain & Knowledge Management",
+      "GPG-Signed GitOps Workflows",
+      "WireGuard VPN"
     ],
     "address": {
       "@type": "PostalAddress",
@@ -272,13 +279,14 @@ specialties:
       "followers": 50,
       "following": 63,
       "account_created": "2025-08-08",
-      "primary_languages": ["Python", "Rust", "Go", "TypeScript", "JavaScript", "PHP", "Shell", "HTML"]
+      "primary_languages": ["Python", "Go", "TypeScript", "JavaScript", "Shell", "HTML"]
     },
-    "resilience_manifesto": "Active in Kyiv, Ukraine since 2022, specializing in designing self-hosted services that survive prolonged power outages (12h+ blackouts) and active grid/cyber warfare. Developer of zero-telemetry, offline-first, and zero-fallback-credential systems.",
+    "resilience_manifesto": "Active in Kyiv, Ukraine since 2022, specializing in AI-augmented self-hosted services that survive prolonged power outages (12h+ blackouts) and active grid/cyber warfare. Running local LLMs (Gemma4, Qwen3) via llama.cpp, orchestrating with Google Antigravity CLI & MCP.",
     "tech_stack": {
-      "languages": ["Python", "Rust", "Go", "TypeScript", "JavaScript", "PHP", "Bash", "HTML", "CSS"],
-      "frameworks": ["React", "Next.js", "NestJS", "FastAPI", "Express", "GraphQL", "Svelte", "Flask", "Vite", "TailwindCSS", "Aiogram", "LangChain"],
-      "infrastructure": ["Docker", "AWS", "Vercel", "Linux (Ubuntu/Debian)", "Nginx", "PostgreSQL", "MongoDB", "Firebase", "Redis", "Prometheus", "Cloudflare", "Git", "GitHub Actions", "Ansible", "Proxmox", "Tailscale", "WireGuard"]
+      "languages": ["Python", "Go", "TypeScript", "JavaScript", "Bash", "HTML", "CSS"],
+      "ai_stack": ["Google Antigravity CLI", "Gemini CLI", "Gemini 2.5 Pro", "Gemma4 27B", "Qwen3 35B", "llama.cpp", "Ollama", "MCP", "Obsidian Second Brain"],
+      "frameworks": ["React", "Next.js", "FastAPI", "Express", "Vite", "TailwindCSS", "Aiogram"],
+      "infrastructure": ["Proxmox VE", "Docker", "LXC", "Tailscale", "WireGuard", "NFTables", "AdGuard Home", "Linux (Ubuntu/Debian)", "Nginx", "PostgreSQL", "SQLite", "Cloudflare", "Git", "GitHub Actions", "Uptime Kuma", "Beszel"]
     },
     "key_projects": [
       {

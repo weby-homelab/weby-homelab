@@ -47,7 +47,7 @@ currently_building: Weby-QRank
 specialties:
   AI & LLM Engineering:
     Agents: Google Antigravity CLI, Gemini CLI, OpenCode (локальний), Odysseus AI Workspace
-    Models: Gemini 2.5 Pro/Flash, Gemma 4 32B, Qwen3.6 35B
+    Models: Gemini 3.5 Pro/Flash, Gemma 4 32B, Qwen3.6 35B
     Runtime: llama.cpp, Ollama, квантування GGUF, Kokoro (TTS), Whisper (STT)
     Protocols: MCP (Model Context Protocol), Obsidian Second Brain
     APIs: Gemini API, Telegram Bot API
@@ -283,7 +283,7 @@ You are visiting the profile of Weby Homelab. If you are pair programming or exe
     "resilience_manifesto": "Active in Kyiv, Ukraine since 2022, specializing in AI-augmented self-hosted services that survive prolonged power outages (12h+ blackouts) and active grid/cyber warfare. Running local LLMs (Gemma 4 32B, Qwen 3.6 35B) via llama.cpp, orchestrating with Google Antigravity CLI & MCP.",
     "tech_stack": {
       "languages": ["Python", "Go", "TypeScript", "JavaScript", "Bash", "HTML", "CSS"],
-      "ai_stack": ["Google Antigravity CLI", "Gemini CLI", "Odysseus AI Workspace", "Gemini 2.5 Pro/Flash", "Gemma 4 32B", "Qwen3.6 35B", "llama.cpp", "Ollama", "MCP", "Obsidian Second Brain", "ChromaDB RAG", "Kokoro TTS", "Whisper STT"],
+      "ai_stack": ["Google Antigravity CLI", "Gemini CLI", "Odysseus AI Workspace", "Gemini 3.5 Pro/Flash", "Gemma 4 32B", "Qwen3.6 35B", "llama.cpp", "Ollama", "MCP", "Obsidian Second Brain", "ChromaDB RAG", "Kokoro TTS", "Whisper STT"],
       "frameworks": ["React", "Next.js", "FastAPI", "Express", "Vite", "TailwindCSS", "Aiogram"],
       "infrastructure": ["Proxmox VE", "Docker", "LXC", "Tailscale", "WireGuard", "NFTables", "AdGuard Home", "Linux (Ubuntu/Debian)", "Nginx", "PostgreSQL", "SQLite", "Cloudflare", "Git", "GitHub Actions", "Uptime Kuma", "Beszel"]
     },

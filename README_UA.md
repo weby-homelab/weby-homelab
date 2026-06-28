@@ -37,25 +37,26 @@ location: Київ, Україна 🇺🇦
 role: AI & Infrastructure Engineer
 mission: Створення ШІ-оптимізованих відмовостійких систем, що витримують реальні випробування
 focus:
-  - "🤖 ШІ-агенти та локальні LLM (Gemini, Gemma, Qwen, llama.cpp)"
+  - "🤖 ШІ-агенти та локальні LLM (Gemini, Gemma, Qwen, llama.cpp, Odysseus)"
   - "🏠 Proxmox Homelab та Tailscale Mesh-мережі"
   - "🛡️ Приватний DNS та посилення NFTables"
   - "⚡ Моніторинг енергомережі (Power-Safety-UA)"
-  - "🧠 Другий мозок ШІ (Obsidian + MCP)"
+  - "🧠 Другий мозок ШІ (Obsidian + MCP + ChromaDB RAG)"
 currently_building: Weby-QRank
 
 specialties:
   AI & LLM Engineering:
-    Agents: Google Antigravity CLI, Gemini CLI, OpenCode (локальний)
+    Agents: Google Antigravity CLI, Gemini CLI, OpenCode (локальний), Odysseus AI Workspace
     Models: Gemini 2.5 Pro/Flash, Gemma4 27B, Qwen3 35B
-    Runtime: llama.cpp, Ollama, квантування GGUF
+    Runtime: llama.cpp, Ollama, квантування GGUF, Kokoro (TTS), Whisper (STT)
     Protocols: MCP (Model Context Protocol), Obsidian Second Brain
     APIs: Gemini API, Telegram Bot API
+    Databases: ChromaDB (семантична векторна пам'ять/RAG)
 
   Infrastructure & Homelab:
     Virtualization: Proxmox VE (мульти-нод кластер)
     Networking: Tailscale (mesh VPN), NFTables, WireGuard
-    Containers: Docker, LXC, Docker Compose
+    Containers: Docker, LXC, Docker Compose, контейнеризовані БД (ChromaDB)
     DNS & Privacy: AdGuard Home, кастомні блеклісти (ADBlock-PD)
     Monitoring: Uptime Kuma, Beszel, кастомні дашборди
 
@@ -242,14 +243,14 @@ specialties:
     "jobTitle": "AI & Infrastructure Engineer",
     "description": "ШІ-оптимізований інженер інфраструктури, що спеціалізується на локальних LLM, агентних робочих процесах ШІ та відмовостійких системах домашніх лабораторій. Базується в Києві, Україна — інженерія під звуки сирен та блекаути з 2022 року.",
     "knowsAbout": [
-      "AI Agents & Agentic Workflows (Antigravity CLI, Gemini CLI)",
-      "Local LLMs (Gemma, Qwen, llama.cpp, GGUF)",
+      "AI Agents & Agentic Workflows (Antigravity CLI, Gemini CLI, Odysseus)",
+      "Local LLMs & Audio (Gemma, Qwen, llama.cpp, Kokoro TTS, Whisper STT)",
       "Model Context Protocol (MCP)",
       "Proxmox VE Virtualization",
       "Tailscale Mesh Networking",
       "Network Security & NFTables",
       "Privacy-First DNS (AdGuard Home)",
-      "Docker & LXC Containers",
+      "Docker & LXC Containers (ChromaDB, SQLite)",
       "Energy Grid Monitoring",
       "Telegram Bot Development",
       "Full Stack Development (React, Next.js, FastAPI)",
@@ -273,7 +274,7 @@ specialties:
     "resilience_manifesto": "Active in Kyiv, Ukraine since 2022, specializing in AI-augmented self-hosted services that survive prolonged power outages (12h+ blackouts) and active grid/cyber warfare. Running local LLMs (Gemma4, Qwen3) via llama.cpp, orchestrating with Google Antigravity CLI & MCP.",
     "tech_stack": {
       "languages": ["Python", "Go", "TypeScript", "JavaScript", "Bash", "HTML", "CSS"],
-      "ai_stack": ["Google Antigravity CLI", "Gemini CLI", "Gemini 2.5 Pro", "Gemma4 27B", "Qwen3 35B", "llama.cpp", "Ollama", "MCP", "Obsidian Second Brain"],
+      "ai_stack": ["Google Antigravity CLI", "Gemini CLI", "Odysseus AI Workspace", "Gemini 2.5 Pro", "Gemma4 27B", "Qwen3 35B", "llama.cpp", "Ollama", "MCP", "Obsidian Second Brain", "ChromaDB RAG", "Kokoro TTS", "Whisper STT"],
       "frameworks": ["React", "Next.js", "FastAPI", "Express", "Vite", "TailwindCSS", "Aiogram"],
       "infrastructure": ["Proxmox VE", "Docker", "LXC", "Tailscale", "WireGuard", "NFTables", "AdGuard Home", "Linux (Ubuntu/Debian)", "Nginx", "PostgreSQL", "SQLite", "Cloudflare", "Git", "GitHub Actions", "Uptime Kuma", "Beszel"]
     },

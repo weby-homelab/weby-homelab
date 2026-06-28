@@ -34,14 +34,27 @@
 ```yaml
 name: Weby Homelab
 location: Київ, Україна 🇺🇦
-role: Інженер інфраструктури та ентузіаст безпеки
-mission: Створення інструментів, що витримують реальні випробування
+role: Full Stack & AI Engineer
+mission: Створення відмовостійких систем та штучного інтелекту, що витримують реальні випробування
 focus:
-  - "🛡️ Мережева безпека (NFTables, Firewalld, UFW)"
-  - "⚡ Енергомоніторинг (стійкість мережі живлення)"
-  - "🔒 Privacy-First DNS (DoH/DoT/DoQUIC)"
-  - "🐳 Docker та Self-Hosting"
+  - "🤖 AI Engineering (LLMs, FastAPI, Vector DBs)"
+  - "💻 Full Stack Розробка (Next.js, NestJS, GraphQL)"
+  - "🛡️ Мережева безпека та Privacy-First DNS"
+  - "⚡ Енергомоніторинг та інфраструктура"
 currently_building: Weby-QRank
+
+specialties:
+  Full Stack:
+    Frontend: React.js, Next.js, TypeScript, Tailwind CSS
+    Backend: Node.js, Express.js, NestJS, GraphQL, Python, PHP
+    Database: PostgreSQL, MongoDB, Firebase
+    DevOps: Docker, AWS, Vercel, CI/CD
+
+  AI Engineering:
+    Languages: Python, Rust
+    LLMs & APIs: OpenAI API, Gemini API
+    Frameworks: FastAPI, LangChain
+    Vector Databases: Pinecone, ChromaDB
 ```
 
 <p align="left">
@@ -154,17 +167,22 @@ currently_building: Weby-QRank
 
   #### 🌐 Мови
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,ts,js,bash,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,rust,go,ts,js,php,bash,html,css&theme=dark" />
   </a>
 
-  #### ⚙️ Фреймворки та інструменти
+  #### 💻 Frontend & Styling
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,svelte,fastapi,flask,express,vite,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,html,css&theme=dark" />
   </a>
 
-  #### 🏗️ Інфраструктура та DevOps
+  #### ⚙️ Backend, AI & Databases
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,nginx,postgres,redis,prometheus,cloudflare,git,github,githubactions&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,fastapi,flask,postgres,mongodb,firebase,redis&theme=dark" />
+  </a>
+
+  #### 🏗️ Infrastructure & DevOps
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,vercel,linux,nginx,prometheus,cloudflare,git,github,githubactions&theme=dark" />
   </a>
 
 </div>
@@ -207,12 +225,13 @@ currently_building: Weby-QRank
 {
   "@context": "https://schema.org",
   "@type": "ProfilePage",
+  "dateModified": "2026-06-28",
   "mainEntity": {
     "@type": "Person",
     "name": "Weby Homelab",
     "alternateName": "weby-homelab",
-    "jobTitle": "Infrastructure & Security Engineer",
-    "description": "Specialist in building highly resilient, privacy-first infrastructure, secure firewall control interfaces, and power monitoring systems that withstand extreme environments.",
+    "jobTitle": "Full Stack & AI Engineer",
+    "description": "Specialist in building highly resilient, privacy-first infrastructure, secure firewall control interfaces, full stack web applications, and AI-powered systems that withstand extreme environments.",
     "knowsAbout": [
       "Network Security",
       "Energy Monitoring Systems",
@@ -221,7 +240,11 @@ currently_building: Weby-QRank
       "Infrastructure as Code (IaC)",
       "GitOps & CI/CD Workflows",
       "Linux Firewalls (nftables, firewalld, ufw)",
-      "Zero Trust Architectures"
+      "Zero Trust Architectures",
+      "Full Stack Development",
+      "AI Engineering",
+      "LLMs & APIs",
+      "Vector Databases"
     ],
     "address": {
       "@type": "PostalAddress",
@@ -238,9 +261,9 @@ currently_building: Weby-QRank
   "customMetadata": {
     "resilience_manifesto": "Active in Kyiv, Ukraine since 2022, specializing in designing self-hosted services that survive prolonged power outages (12h+ blackouts) and active grid/cyber warfare. Developer of zero-telemetry, offline-first, and zero-fallback-credential systems.",
     "tech_stack": {
-      "languages": ["Python", "Go", "TypeScript", "JavaScript", "Bash", "HTML", "CSS"],
-      "frameworks": ["React", "Svelte", "FastAPI", "Flask", "Express", "Vite", "TailwindCSS"],
-      "infrastructure": ["Docker", "Linux (Ubuntu/Debian)", "Nginx", "PostgreSQL", "Redis", "Prometheus", "Cloudflare", "Git", "GitHub Actions", "Ansible"]
+      "languages": ["Python", "Rust", "Go", "TypeScript", "JavaScript", "PHP", "Bash", "HTML", "CSS"],
+      "frameworks": ["React", "Next.js", "NestJS", "FastAPI", "Express", "GraphQL", "Svelte", "Flask", "Vite", "TailwindCSS", "LangChain"],
+      "infrastructure": ["Docker", "AWS", "Vercel", "Linux (Ubuntu/Debian)", "Nginx", "PostgreSQL", "MongoDB", "Firebase", "Redis", "Prometheus", "Cloudflare", "Git", "GitHub Actions", "Ansible"]
     },
     "key_projects": [
       {

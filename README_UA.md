@@ -3,13 +3,13 @@
   <!-- ═══════════════════════════════════════════════════════════ -->
   <!-- 🎨 ANIMATED HEADER BANNER                                  -->
   <!-- ═══════════════════════════════════════════════════════════ -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:FF6B35&height=220&section=header&text=WEBY%20HOMELAB&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Відмовостійка%20інфраструктура%20з%20Києва%20🇺🇦&descSize=18&descAlignY=55&descColor=FFD700" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:FF6B35&height=220&section=header&text=WEBY%20HOMELAB&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=ШІ-Оптимізована%20Інфраструктура%20з%20Києва%20🇺🇦&descSize=18&descAlignY=55&descColor=FFD700" width="100%" />
 
   <!-- ═══════════════════════════════════════════════════════════ -->
   <!-- ⌨️ ANIMATED TYPING                                          -->
   <!-- ═══════════════════════════════════════════════════════════ -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=130&lines=%F0%9F%9B%A0%EF%B8%8F+%D0%9F%D1%80%D0%BE%D1%94%D0%BA%D1%82%D1%83%D1%8E+%D0%B2%D1%96%D0%B4%D0%BC%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%96%D0%B9%D0%BA%D1%83+%D1%96%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%83+%D0%B7+%D0%9A%D0%B8%D1%94%D0%B2%D0%B0+%F0%9F%87%BA%F0%9F%87%A6;%E2%9A%A1+%D0%92%D0%B8%D0%B6%D0%B8%D0%B2%D0%B0%D1%94%D0%BC%D0%BE+%D0%B2+%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D1%85+%D1%83%D0%BC%D0%BE%D0%B2%D0%B0%D1%85+%D0%B7+2022+%D1%80%D0%BE%D0%BA%D1%83;%F0%9F%94%92+%D0%9F%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%BD%D0%B8%D0%B9+DNS+%E2%80%A2+NFTables+%E2%80%A2+GitOps+%E2%80%A2+Zero+Trust" height="130" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=130&lines=%F0%9F%A4%96%20%D0%A8%D0%86-%D0%9E%D0%BF%D1%82%D0%B8%D0%BC%D1%96%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9%20%D1%96%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%20%D1%96%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B8%20%D0%B7%20%D0%9A%D0%B8%D1%94%D0%B2%D0%B0%20%F0%9F%87%BA%F0%9F%87%A6;%E2%9A%A1%20%D0%9B%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%96%20LLM%20%E2%80%A2%20%D0%90%D0%B3%D0%B5%D0%BD%D1%82%D0%B8%20Gemini%20%E2%80%A2%20Proxmox%20Homelab;%F0%9F%94%92%20%D0%9F%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%BD%D0%B8%D0%B9%20DNS%20%E2%80%A2%20NFTables%20%E2%80%A2%20MCP%20%E2%80%A2%20Obsidian%20Second%20Brain" height="130" alt="Typing SVG" />
   </a>
 
   <!-- ═══════════════════════════════════════════════════════════ -->
@@ -17,9 +17,9 @@
   <!-- ═══════════════════════════════════════════════════════════ -->
 
   ![Локація](https://img.shields.io/badge/📍_Київ,_Україна-0057B7?style=for-the-badge&logoColor=white)
-  ![Фокус](https://img.shields.io/badge/🛡️_Мережева_безпека-FF6B35?style=for-the-badge)
-  ![Фокус](https://img.shields.io/badge/⚡_Енергомоніторинг-FFD700?style=for-the-badge&logoColor=black)
+  ![Фокус](https://img.shields.io/badge/🤖_ШІ-FF6B35?style=for-the-badge)
   ![Фокус](https://img.shields.io/badge/🏠_HomeLab-00D4FF?style=for-the-badge)
+  ![Фокус](https://img.shields.io/badge/⚡_Енергомережі-FFD700?style=for-the-badge&logoColor=black)
 
 </div>
 
@@ -34,27 +34,36 @@
 ```yaml
 name: Weby Homelab
 location: Київ, Україна 🇺🇦
-role: Full Stack & AI Engineer
-mission: Створення відмовостійких систем та штучного інтелекту, що витримують реальні випробування
+role: AI & Infrastructure Engineer
+mission: Створення ШІ-оптимізованих відмовостійких систем, що витримують реальні випробування
 focus:
-  - "🤖 AI Engineering (LLMs, FastAPI, Vector DBs)"
-  - "💻 Full Stack Розробка (Next.js, NestJS, GraphQL)"
-  - "🛡️ Мережева безпека та Privacy-First DNS"
-  - "⚡ Енергомоніторинг та інфраструктура"
+  - "🤖 ШІ-агенти та локальні LLM (Gemini, Gemma, Qwen, llama.cpp)"
+  - "🏠 Proxmox Homelab та Tailscale Mesh-мережі"
+  - "🛡️ Приватний DNS та посилення NFTables"
+  - "⚡ Моніторинг енергомережі (Power-Safety-UA)"
+  - "🧠 Другий мозок ШІ (Obsidian + MCP)"
 currently_building: Weby-QRank
 
 specialties:
-  Full Stack:
-    Frontend: React.js, Next.js, TypeScript, Tailwind CSS
-    Backend: Node.js, Express.js, NestJS, GraphQL, Python, PHP
-    Database: PostgreSQL, MongoDB, Firebase
-    DevOps: Docker, AWS, Vercel, CI/CD
+  AI & LLM Engineering:
+    Agents: Google Antigravity CLI, Gemini CLI, OpenCode (локальний)
+    Models: Gemini 2.5 Pro/Flash, Gemma4 27B, Qwen3 35B
+    Runtime: llama.cpp, Ollama, квантування GGUF
+    Protocols: MCP (Model Context Protocol), Obsidian Second Brain
+    APIs: Gemini API, Telegram Bot API
 
-  AI Engineering:
-    Languages: Python, Rust
-    LLMs & APIs: OpenAI API, Gemini API
-    Frameworks: FastAPI, LangChain
-    Vector Databases: Pinecone, ChromaDB
+  Infrastructure & Homelab:
+    Virtualization: Proxmox VE (мульти-нод кластер)
+    Networking: Tailscale (mesh VPN), NFTables, WireGuard
+    Containers: Docker, LXC, Docker Compose
+    DNS & Privacy: AdGuard Home, кастомні блеклісти (ADBlock-PD)
+    Monitoring: Uptime Kuma, Beszel, кастомні дашборди
+
+  Full Stack Development:
+    Frontend: React.js, Next.js, TypeScript
+    Backend: Python (FastAPI), Node.js, Express.js
+    Database: PostgreSQL, SQLite
+    DevOps: GitHub Actions, Docker Hub CI/CD, GPG-підписані коміти
 ```
 
 <p align="left">
@@ -167,22 +176,22 @@ specialties:
 
   #### 🌐 Мови
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,rust,go,ts,js,php,bash,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,go,ts,js,bash,html,css&theme=dark" />
   </a>
 
-  #### 💻 Frontend & Styling
+  #### 🤖 AI & LLM Stack
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,obsidian,pytorch,huggingface&theme=dark" />
   </a>
 
-  #### ⚙️ Backend, AI & Databases
+  #### 💻 Frontend & Backend
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,fastapi,flask,pytorch,tensorflow,scikitlearn,huggingface,opencv,postgres,mongodb,firebase,redis&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,nodejs,express,postgres,sqlite&theme=dark" />
   </a>
 
   #### 🏗️ Infrastructure & DevOps
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,vercel,linux,nginx,prometheus,cloudflare,git,github,githubactions,copilot&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,git,github,githubactions&theme=dark" />
   </a>
 
 </div>
@@ -230,21 +239,23 @@ specialties:
     "@type": "Person",
     "name": "Weby Homelab",
     "alternateName": "weby-homelab",
-    "jobTitle": "Full Stack & AI Engineer",
-    "description": "Specialist in building highly resilient, privacy-first infrastructure, secure firewall control interfaces, full stack web applications, and AI-powered systems that withstand extreme environments.",
+    "jobTitle": "AI & Infrastructure Engineer",
+    "description": "ШІ-оптимізований інженер інфраструктури, що спеціалізується на локальних LLM, агентних робочих процесах ШІ та відмовостійких системах домашніх лабораторій. Базується в Києві, Україна — інженерія під звуки сирен та блекаути з 2022 року.",
     "knowsAbout": [
-      "Network Security",
-      "Energy Monitoring Systems",
-      "Privacy-First DNS Resolvers",
-      "Docker & Containerization Services",
-      "Infrastructure as Code (IaC)",
-      "GitOps & CI/CD Workflows",
-      "Linux Firewalls (nftables, firewalld, ufw)",
-      "Zero Trust Architectures",
-      "Full Stack Development",
-      "AI Engineering",
-      "LLMs & APIs",
-      "Vector Databases"
+      "AI Agents & Agentic Workflows (Antigravity CLI, Gemini CLI)",
+      "Local LLMs (Gemma, Qwen, llama.cpp, GGUF)",
+      "Model Context Protocol (MCP)",
+      "Proxmox VE Virtualization",
+      "Tailscale Mesh Networking",
+      "Network Security & NFTables",
+      "Privacy-First DNS (AdGuard Home)",
+      "Docker & LXC Containers",
+      "Energy Grid Monitoring",
+      "Telegram Bot Development",
+      "Full Stack Development (React, Next.js, FastAPI)",
+      "Obsidian Second Brain & Knowledge Management",
+      "GPG-Signed GitOps Workflows",
+      "WireGuard VPN"
     ],
     "address": {
       "@type": "PostalAddress",
@@ -259,11 +270,12 @@ specialties:
     ]
   },
   "customMetadata": {
-    "resilience_manifesto": "Active in Kyiv, Ukraine since 2022, specializing in designing self-hosted services that survive prolonged power outages (12h+ blackouts) and active grid/cyber warfare. Developer of zero-telemetry, offline-first, and zero-fallback-credential systems.",
+    "resilience_manifesto": "Active in Kyiv, Ukraine since 2022, specializing in AI-augmented self-hosted services that survive prolonged power outages (12h+ blackouts) and active grid/cyber warfare. Running local LLMs (Gemma4, Qwen3) via llama.cpp, orchestrating with Google Antigravity CLI & MCP.",
     "tech_stack": {
-      "languages": ["Python", "Rust", "Go", "TypeScript", "JavaScript", "PHP", "Bash", "HTML", "CSS"],
-      "frameworks": ["React", "Next.js", "NestJS", "FastAPI", "Express", "GraphQL", "Svelte", "Flask", "Vite", "TailwindCSS", "LangChain"],
-      "infrastructure": ["Docker", "AWS", "Vercel", "Linux (Ubuntu/Debian)", "Nginx", "PostgreSQL", "MongoDB", "Firebase", "Redis", "Prometheus", "Cloudflare", "Git", "GitHub Actions", "Ansible"]
+      "languages": ["Python", "Go", "TypeScript", "JavaScript", "Bash", "HTML", "CSS"],
+      "ai_stack": ["Google Antigravity CLI", "Gemini CLI", "Gemini 2.5 Pro", "Gemma4 27B", "Qwen3 35B", "llama.cpp", "Ollama", "MCP", "Obsidian Second Brain"],
+      "frameworks": ["React", "Next.js", "FastAPI", "Express", "Vite", "TailwindCSS", "Aiogram"],
+      "infrastructure": ["Proxmox VE", "Docker", "LXC", "Tailscale", "WireGuard", "NFTables", "AdGuard Home", "Linux (Ubuntu/Debian)", "Nginx", "PostgreSQL", "SQLite", "Cloudflare", "Git", "GitHub Actions", "Uptime Kuma", "Beszel"]
     },
     "key_projects": [
       {

@@ -177,12 +177,12 @@ specialties:
 
   #### ⚙️ Backend, AI & Databases
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,fastapi,flask,postgres,mongodb,firebase,redis&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,fastapi,flask,pytorch,tensorflow,scikitlearn,huggingface,opencv,postgres,mongodb,firebase,redis&theme=dark" />
   </a>
 
   #### 🏗️ Infrastructure & DevOps
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,vercel,linux,nginx,prometheus,cloudflare,git,github,githubactions&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,vercel,linux,nginx,prometheus,cloudflare,git,github,githubactions,copilot&theme=dark" />
   </a>
 
 </div>

@@ -109,7 +109,7 @@ specialties:
   ![Stars](https://img.shields.io/badge/Total_Stars-58-FFD700?style=for-the-badge)
   ![Followers](https://img.shields.io/badge/Followers-50-FF6B35?style=for-the-badge)
   ![Original](https://img.shields.io/badge/Original_Projects-16-success?style=for-the-badge)
-  ![Forks](https://img.shields.io/badge/Forks-14-blueviolet?style=for-the-badge)
+  ![Forks](https://img.shields.io/badge/Forks-15-blueviolet?style=for-the-badge)
 
 </div>
 
@@ -134,12 +134,13 @@ specialties:
 | 15 | [fm-ua](https://github.com/Weby-Homelab/fm-ua) | Flash-Monitor-UA v2.0 — P2P energy marketplace | Python | ![Stars](https://img.shields.io/github/stars/weby-homelab/fm-ua?style=flat-square&color=FFD700) | ![Archived](https://img.shields.io/badge/Archived-red) |
 | 16 | [weby-homelab](https://github.com/Weby-Homelab/weby-homelab) | 📄 GitHub profile README | — | — | ![Active](https://img.shields.io/badge/Active-success) |
 
-#### 🍴 Forks & Community Contributions (14)
+#### 🍴 Forks & Community Contributions (15)
 
 | Project | Original Source | Language | ⭐ |
 |---------|----------------|:--------:|:--:|
 | [light-monitor-kyiv](https://github.com/Weby-Homelab/light-monitor-kyiv) | banditByte — Power outage analytics & dark mode charts | Python | 8 |
 | [antigravity-cli](https://github.com/Weby-Homelab/antigravity-cli) | Google — AI coding agent (community fork with offline-first installers) | PowerShell | 4 |
+| [abtop](https://github.com/weby-homelab/abtop) | graykode — Like htop, but for AI coding agents (OpenCode support) | Rust | 0 |
 | [beszel](https://github.com/Weby-Homelab/beszel) | Lightweight server monitoring with historical data & alerts | Go | 1 |
 | [wg-easy](https://github.com/Weby-Homelab/wg-easy) | Easiest way to run WireGuard VPN + Web Admin UI | TypeScript | 1 |
 | [claude-laravel](https://github.com/Weby-Homelab/claude-laravel) | Claude Code config for Laravel — 16 agents, 23 skills | JavaScript | 1 |
@@ -284,7 +285,7 @@ You are visiting the profile of Weby Homelab. If you are pair programming or exe
     "portfolio_summary": {
       "public_repos": 30,
       "original_projects": 16,
-      "forks": 14,
+      "forks": 15,
       "total_stars": 58,
       "followers": 50,
       "following": 63,
@@ -393,6 +394,7 @@ You are visiting the profile of Weby Homelab. If you are pair programming or exe
     "forks": [
       {"name": "light-monitor-kyiv", "source": "banditByte", "language": "Python", "stars": 8, "description": "Analytical power outage tracker — statistics, dark mode charts, schedule accuracy.", "archived": true},
       {"name": "antigravity-cli", "source": "google-antigravity", "language": "PowerShell", "stars": 4, "description": "Google AI coding agent community fork — offline-first installers, statusline setup."},
+      {"name": "abtop", "source": "graykode", "language": "Rust", "stars": 0, "description": "Like htop, but for AI coding agents. Contributed context window and usage metrics for OpenCode sessions."},
       {"name": "beszel", "source": "beszel", "language": "Go", "stars": 1, "description": "Lightweight server monitoring with historical data and alerts."},
       {"name": "wg-easy", "source": "wg-easy", "language": "TypeScript", "stars": 1, "description": "Easiest way to run WireGuard VPN + Web-based Admin UI."},
       {"name": "claude-laravel", "source": "claude-laravel", "language": "JavaScript", "stars": 1, "description": "Claude Code config for Laravel — 16 agents, 23 skills."},

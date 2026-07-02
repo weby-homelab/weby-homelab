@@ -73,7 +73,7 @@ specialties:
 
 <div align="center">
   <a href="https://github.com/weby-homelab/P.O.W.E.R">
-    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-power.svg" width="400" height="150" alt="P.O.W.E.R" />
+    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-power.svg" width="400" height="150" alt="POWER" />
   </a>
   <br />
   <a href="https://github.com/Weby-Homelab/Weby-QRank">

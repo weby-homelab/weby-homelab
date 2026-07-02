@@ -41,7 +41,7 @@ focus:
   - "🏠 Proxmox Homelab та Tailscale Mesh-мережі"
   - "🛡️ Приватний DNS та посилення NFTables"
   - "⚡ Моніторинг енергомережі (Power-Safety-UA)"
-  - "🧠 Другий мозок ШІ (Obsidian + MCP + ChromaDB RAG)"
+  - "🧠 Другий мозок ШІ та управління знаннями (Obsidian + P.O.W.E.R.)"
 currently_building: Weby-QRank
 
 specialties:
@@ -49,7 +49,7 @@ specialties:
     Agents: Google Antigravity CLI, Gemini CLI, OpenCode (локальний), Odysseus AI Workspace
     Models: Gemini 3.5 Pro/Flash, Gemma 4 32B, Qwen3.6 35B
     Runtime: llama.cpp, Ollama, квантування GGUF, Kokoro (TTS), Whisper (STT)
-    Protocols: MCP (Model Context Protocol), Obsidian Second Brain
+    Protocols: MCP (Model Context Protocol), Obsidian Second Brain, фреймворк P.O.W.E.R.
     APIs: Gemini API, Telegram Bot API
     Databases: ChromaDB (семантична векторна пам'ять/RAG)
 
@@ -84,6 +84,10 @@ specialties:
 ## 💎 Головні проєкти
 
 <div align="center">
+  <a href="https://github.com/weby-homelab/P.O.W.E.R">
+    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-power.svg" width="400" height="150" alt="P.O.W.E.R" />
+  </a>
+  <br />
   <a href="https://github.com/Weby-Homelab/Weby-QRank">
     <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-weby-qrank.svg" width="400" height="150" alt="Weby-QRank" />
   </a>
@@ -114,6 +118,12 @@ specialties:
 
 <details>
   <summary><b>⚡ Усі проєкти (натисни щоб розгорнути)</b></summary>
+
+#### 🧠 ШІ та Управління знаннями
+
+| Проєкт | Опис | Статус |
+|--------|------|--------|
+| [P.O.W.E.R](https://github.com/weby-homelab/P.O.W.E.R) | **P.O.W.E.R.** — гібридний фреймворк управління знаннями (P.A.R.A. + OKF Overlay + LLM-Wiki + Execution Rules) для ШІ-агентів | ![Active](https://img.shields.io/badge/Active-success) |
 
 #### ⚡ Енергомоніторинг та Безпека
 
@@ -288,6 +298,11 @@ You are visiting the profile of Weby Homelab. If you are pair programming or exe
       "infrastructure": ["Proxmox VE", "Docker", "LXC", "Tailscale", "WireGuard", "NFTables", "AdGuard Home", "Linux (Ubuntu/Debian)", "Nginx", "PostgreSQL", "SQLite", "Cloudflare", "Git", "GitHub Actions", "Uptime Kuma", "Beszel"]
     },
     "key_projects": [
+      {
+        "name": "P.O.W.E.R",
+        "repository": "https://github.com/weby-homelab/P.O.W.E.R",
+        "description": "P.O.W.E.R. - Hybrid Knowledge Management Framework (P.A.R.A. + OKF Overlay + LLM-Wiki + Execution Rules) for AI Coding Agents."
+      },
       {
         "name": "adblock-pd",
         "repository": "https://github.com/Weby-Homelab/ADBlock-PD",

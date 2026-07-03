@@ -72,7 +72,7 @@ specialties:
 ## 💎 Featured Projects
 
 <div align="left">
-  <a href="https://github.com/weby-homelab/P.O.W.E.R">
+  <a href="https://github.com/weby-homelab/power-framework">
     <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-power.svg" width="400" height="150" alt="POWER" />
   </a>
   <br />
@@ -121,7 +121,7 @@ specialties:
 
 | # | Project | Description | Language | ⭐ | Status |
 |:-:|---------|-------------|:--------:|:--:|:------:|
-| 1 | [P.O.W.E.R](https://github.com/weby-homelab/P.O.W.E.R) | **P.O.W.E.R.** — Hybrid Knowledge Management Framework (P.A.R.A. + OKF Overlay + LLM-Wiki + Execution Rules) for AI Coding Agents | Python | ![Stars](https://img.shields.io/github/stars/weby-homelab/P.O.W.E.R?style=flat-square&color=FFD700) | ![Active](https://img.shields.io/badge/Active-success) |
+| 1 | [P.O.W.E.R](https://github.com/weby-homelab/power-framework) | **P.O.W.E.R.** — Hybrid Knowledge Management Framework (P.A.R.A. + OKF Overlay + LLM-Wiki + Execution Rules) for AI Coding Agents | Python | ![Stars](https://img.shields.io/github/stars/weby-homelab/power-framework?style=flat-square&color=FFD700) | ![Active](https://img.shields.io/badge/Active-success) |
 | 2 | [Weby-QRank](https://github.com/Weby-Homelab/Weby-QRank) | **Weby-QRank** — Flagship reputation engine & Telegram Mini App with Q-index | TypeScript | ![Stars](https://img.shields.io/github/stars/weby-homelab/Weby-QRank?style=flat-square&color=FFD700) | ![Active](https://img.shields.io/badge/Active-success) |
 | 3 | [Power-Safety-UA](https://github.com/Weby-Homelab/Power-Safety-UA) | **POWER⚡SAFETY** — All-in-one real-time power, air raid & AQI monitoring for Kyiv | Python | ![Stars](https://img.shields.io/github/stars/weby-homelab/Power-Safety-UA?style=flat-square&color=FFD700) | ![Release](https://img.shields.io/github/v/release/weby-homelab/Power-Safety-UA?color=00D4FF&label=v) |
 | 4 | [firewalld-gui](https://github.com/Weby-Homelab/firewalld-gui) | Advanced Docker dashboard for Firewalld zones, services, policies & Fail2Ban | TypeScript | ![Stars](https://img.shields.io/github/stars/weby-homelab/firewalld-gui?style=flat-square&color=FFD700) | ![Release](https://img.shields.io/github/v/release/weby-homelab/firewalld-gui?color=00D4FF&label=v) |
@@ -307,7 +307,7 @@ You are visiting the profile of Weby Homelab. If you are pair programming or exe
     "key_projects": [
       {
         "name": "P.O.W.E.R",
-        "repository": "https://github.com/weby-homelab/P.O.W.E.R",
+        "repository": "https://github.com/weby-homelab/power-framework",
         "description": "P.O.W.E.R. - Hybrid Knowledge Management Framework (P.A.R.A. + OKF Overlay + LLM-Wiki + Execution Rules) for AI Coding Agents.",
         "language": "Python", "stars": 2
       },

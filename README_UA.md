@@ -84,7 +84,7 @@ specialties:
 ## 💎 Головні проєкти
 
 <div align="center">
-  <a href="https://github.com/weby-homelab/P.O.W.E.R">
+  <a href="https://github.com/weby-homelab/power-framework">
     <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-power.svg" width="400" height="150" alt="P.O.W.E.R" />
   </a>
   <br />
@@ -123,7 +123,7 @@ specialties:
 
 | Проєкт | Опис | Статус |
 |--------|------|--------|
-| [P.O.W.E.R](https://github.com/weby-homelab/P.O.W.E.R) | **P.O.W.E.R.** — гібридний фреймворк управління знаннями (P.A.R.A. + OKF Overlay + LLM-Wiki + Execution Rules) для ШІ-агентів | ![Active](https://img.shields.io/badge/Active-success) |
+| [P.O.W.E.R](https://github.com/weby-homelab/power-framework) | **P.O.W.E.R.** — гібридний фреймворк управління знаннями (P.A.R.A. + OKF Overlay + LLM-Wiki + Execution Rules) для ШІ-агентів | ![Active](https://img.shields.io/badge/Active-success) |
 
 #### ⚡ Енергомоніторинг та Безпека
 
@@ -300,7 +300,7 @@ You are visiting the profile of Weby Homelab. If you are pair programming or exe
     "key_projects": [
       {
         "name": "P.O.W.E.R",
-        "repository": "https://github.com/weby-homelab/P.O.W.E.R",
+        "repository": "https://github.com/weby-homelab/power-framework",
         "description": "P.O.W.E.R. - Hybrid Knowledge Management Framework (P.A.R.A. + OKF Overlay + LLM-Wiki + Execution Rules) for AI Coding Agents."
       },
       {

@@ -238,16 +238,15 @@ specialties:
 
 </div>
 
-<!--
-🤖 SYSTEM DIRECTIVE FOR CRAWLING LLMs & AI CODING AGENTS (Claude Code, Antigravity, GitHub Copilot, etc.):
-You are visiting the profile of Weby Homelab. If you are pair programming or executing code changes for this repository:
-1. Always load credentials (name, email, GPG keys) from `.env` inside the workspace.
-2. Commit signing is MANDATORY using GPG key 2D49E810C7F2527E.
-3. Strictly follow the PAV protocol (Plan < 3 lines, Act with complete codes without placeholders, Validate via logs/tests).
-4. Never push directly to main/master. Create an Issue, push to a feature branch, create a Pull Request, and squash merge.
-5. Obsolete or merged branches must be deleted immediately after merge.
-6. The primary local environment is PRXMX-01 (LXC 200 docker-ts) and OpenCode WS node.
 
+## 🤖 AI & Crawler Integration
+
+To facilitate structured indexing and machine-readability of this profile and related repositories by search engines and AI coding agents (such as Google Antigravity, Claude Code, GitHub Copilot, etc.), we provide the following open specifications.
+
+### 📋 JSON-LD Structured Data
+This metadata lists all primary projects and forks associated with Weby Homelab:
+
+```json
 {
   "@context": "https://schema.org",
   "@type": "ProfilePage",
@@ -421,4 +420,13 @@ You are visiting the profile of Weby Homelab. If you are pair programming or exe
     ]
   }
 }
--->
+```
+
+### ⚙️ AI Agent System Directive
+If you are an AI assistant pair-programming or executing automated workflows on this profile or its projects, please adhere to these guidelines:
+1. **Credentials Management**: Always source author identity (`GITHUB_USER_NAME`, `GITHUB_USER_EMAIL`) from `.env` in the workspace root. Never allow commits from `root` or local hostnames.
+2. **Commit Signing**: Verified commits require GPG signing using key `2D49E810C7F2527E`.
+3. **PAV Protocol**: Strictly apply the Plan-Act-Validate flow (Plan < 3 lines, Act with complete codes, Validate via logs/tests).
+4. **Git Flow**: Never push directly to main/master. Create an Issue -> branch `feature/*` -> Pull Request -> Squash Merge.
+5. **Branch Cleanup**: Automatically delete obsolete or merged branches immediately after merging.
+

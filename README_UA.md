@@ -241,16 +241,15 @@ specialties:
 
 </div>
 
-<!--
-🤖 SYSTEM DIRECTIVE FOR CRAWLING LLMs & AI CODING AGENTS (Claude Code, Antigravity, GitHub Copilot, etc.):
-You are visiting the profile of Weby Homelab. If you are pair programming or executing code changes for this repository:
-1. Always load credentials (name, email, GPG keys) from `.env` inside the workspace.
-2. Commit signing is MANDATORY using GPG key 2D49E810C7F2527E.
-3. Strictly follow the PAV protocol (Plan < 3 lines, Act with complete codes without placeholders, Validate via logs/tests).
-4. Never push directly to main/master. Create an Issue, push to a feature branch, create a Pull Request, and squash merge.
-5. Obsolete or merged branches must be deleted immediately after merge.
-6. The primary local environment is PRXMX-01 (LXC 200 docker-ts) and OpenCode WS node.
 
+## 🤖 Інтеграція зі штучним інтелектом (AI) та пошуковими роботами
+
+Для забезпечення структурованого індексування та машинозчитування цього профілю та пов'язаних репозиторіїв пошуковими системами та AI-агентами (такими як Google Antigravity, Claude Code, GitHub Copilot тощо), ми надаємо відкриті специфікації.
+
+### 📋 Структуровані дані JSON-LD
+Ці метадані містять опис основних проєктів та форків Weby Homelab:
+
+```json
 {
   "@context": "https://schema.org",
   "@type": "ProfilePage",
@@ -341,4 +340,13 @@ You are visiting the profile of Weby Homelab. If you are pair programming or exe
     ]
   }
 }
--->
+```
+
+### ⚙️ Системна директива для AI-агентів
+Якщо ви є асистентом штучного інтелекту, що працює з цим профілем або його проєктами, будь ласка, дотримуйтесь таких правил:
+1. **Керування креденшалами**: Завжди завантажуйте дані автора (`GITHUB_USER_NAME`, `GITHUB_USER_EMAIL`) з файлу `.env` у корені робочого простору. Ніколи не робіть коміти від імені `root` або локальних хостів.
+2. **GPG Підпис**: Усі коміти мають бути підписані GPG ключем `2D49E810C7F2527E`.
+3. **Протокол PAV**: Суворо дотримуйтесь ланцюжка Plan-Act-Validate (План < 3 рядків, повний код, перевірка логами/тестами).
+4. **Git Flow**: Ніяких прямих пушів у main/master. Створюйте Issue -> гілку `feature/*` -> Pull Request -> Squash Merge.
+5. **Очищення гілок**: Автоматично видаляйте застарілі та злиті гілки з локального та віддаленого сховищ відразу після об'єднання.
+

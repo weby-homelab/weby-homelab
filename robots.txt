@@ -1,0 +1,3 @@
+# Allow crawling and indexing by all search engines and AI bots
+User-agent: *
+Allow: /

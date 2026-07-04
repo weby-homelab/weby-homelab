@@ -424,7 +424,7 @@ JSON-LD Structured Data — This metadata lists all primary projects and forks a
 ### ⚙️ AI Agent System Directive
 If you are an AI assistant pair-programming or executing automated workflows on this profile or its projects, please adhere to these guidelines:
 1. **Credentials Management**: Always source author identity (`GITHUB_USER_NAME`, `GITHUB_USER_EMAIL`) from `.env` in the workspace root. Never allow commits from `root` or local hostnames.
-2. **Commit Signing**: Verified commits require GPG signing using key `2D49E810C7F2527E`.
+2. **Commit Signing**: Verified commits require GPG signing (key stored securely, never in source).
 3. **PAV Protocol**: Strictly apply the Plan-Act-Validate flow (Plan < 3 lines, Act with complete codes, Validate via logs/tests).
 4. **Git Flow**: Never push directly to main/master. Create an Issue -> branch `feature/*` -> Pull Request -> Squash Merge.
 5. **Branch Cleanup**: Automatically delete obsolete or merged branches immediately after merging.

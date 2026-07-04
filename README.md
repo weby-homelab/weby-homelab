@@ -243,10 +243,8 @@ specialties:
 
 To facilitate structured indexing and machine-readability of this profile and related repositories by search engines and AI coding agents (such as Google Antigravity, Claude Code, GitHub Copilot, etc.), we provide the following open specifications.
 
-### 📋 JSON-LD Structured Data
-This metadata lists all primary projects and forks associated with Weby Homelab:
-
-```json
+<!--
+JSON-LD Structured Data — This metadata lists all primary projects and forks associated with Weby Homelab:
 {
   "@context": "https://schema.org",
   "@type": "ProfilePage",
@@ -420,7 +418,7 @@ This metadata lists all primary projects and forks associated with Weby Homelab:
     ]
   }
 }
-```
+-->
 
 ### ⚙️ AI Agent System Directive
 If you are an AI assistant pair-programming or executing automated workflows on this profile or its projects, please adhere to these guidelines:

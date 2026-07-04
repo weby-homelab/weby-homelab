@@ -239,6 +239,7 @@ specialties:
 </div>
 
 
+<!--
 ## 🤖 AI & Crawler Integration
 
 To facilitate structured indexing and machine-readability of this profile and related repositories by search engines and AI coding agents (such as Google Antigravity, Claude Code, GitHub Copilot, etc.), we provide the following open specifications.
@@ -427,4 +428,4 @@ If you are an AI assistant pair-programming or executing automated workflows on 
 3. **PAV Protocol**: Strictly apply the Plan-Act-Validate flow (Plan < 3 lines, Act with complete codes, Validate via logs/tests).
 4. **Git Flow**: Never push directly to main/master. Create an Issue -> branch `feature/*` -> Pull Request -> Squash Merge.
 5. **Branch Cleanup**: Automatically delete obsolete or merged branches immediately after merging.
-
+-->

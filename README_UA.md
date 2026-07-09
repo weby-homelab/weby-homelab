@@ -130,9 +130,9 @@ specialties:
 | Проєкт | Опис | Статус |
 |--------|------|--------|
 | [Power-Safety-UA](https://github.com/Weby-Homelab/Power-Safety-UA) | **СВІТЛО⚡БЕЗПЕКА** — флагманська система для Києва. Розумний fallback Yasno/ДТЕК, повітряні тривоги, AQI | ![Release](https://img.shields.io/github/v/release/weby-homelab/Power-Safety-UA?color=00D4FF&label=v) |
-| [security-monitor-kyiv](https://github.com/Weby-Homelab/security-monitor-kyiv) | Дашборд ситуаційної обізнаності. Тривоги 🚨, радіація ☢️, AQI ☁️, мережа 💡 | ![Stars](https://img.shields.io/github/stars/weby-homelab/security-monitor-kyiv?color=FFD700&style=flat-square) |
+| [security-monitor-kyiv](https://github.com/Weby-Homelab/security-monitor-kyiv) | Дашборд ситуаційної обізнаності. Тривоги 🚨, радіація ☢️, AQI ☁️, мережа 💡 (архівований) | ![Archived](https://img.shields.io/badge/Archived-red) |
 | [air-quality-dashboard](https://github.com/Weby-Homelab/air-quality-dashboard) | **ЕкоСтанція** — PWA для моніторингу PM2.5, PM10 та радіації | ![Release](https://img.shields.io/github/v/release/weby-homelab/air-quality-dashboard?color=00D4FF&label=v) |
-| [fm-ua](https://github.com/Weby-Homelab/fm-ua) | Flash-Monitor-UA v2.0 — P2P маркетплейс електроенергії | ![Status](https://img.shields.io/badge/Active-success) |
+| [fm-ua](https://github.com/Weby-Homelab/fm-ua) | Flash-Monitor-UA v2.0 — P2P маркетплейс електроенергії (архівований) | ![Archived](https://img.shields.io/badge/Archived-red) |
 
 #### 🔒 Мережева безпека та Адмін
 
@@ -142,7 +142,7 @@ specialties:
 | [NiftyWall](https://github.com/Weby-Homelab/niftywall) | Професійний дашборд nftables з "Машиною часу" | ![Release](https://img.shields.io/github/v/release/weby-homelab/niftywall?color=00D4FF&label=v) |
 | [Firewalld-GUI](https://github.com/Weby-Homelab/firewalld-gui) | Сучасна панель firewalld + Fail2Ban | ![Release](https://img.shields.io/github/v/release/weby-homelab/firewalld-gui?color=00D4FF&label=v) |
 | [UFW-GUI](https://github.com/Weby-Homelab/ufw-gui) | Docker веб-UI для UFW з Zero-Fallback Secrets | ![Release](https://img.shields.io/github/v/release/weby-homelab/ufw-gui?color=00D4FF&label=v) |
-| [adb-pd](https://github.com/Weby-Homelab/adb-pd) | DNS-over-HTTPS/TLS/QUIC резолвер з Glassmorphism UI | ![Status](https://img.shields.io/badge/Active-success) |
+| [adb-pd](https://github.com/Weby-Homelab/adb-pd) | DNS-over-HTTPS/TLS/QUIC резолвер з Glassmorphism UI (архівований) | ![Archived](https://img.shields.io/badge/Archived-red) |
 | [Docker-Mailserver-GUI](https://github.com/Weby-Homelab/docker-mailserver-gui) | Zero Trust поштовий сервер + Traefik + SnappyMail | ![Release](https://img.shields.io/github/v/release/weby-homelab/docker-mailserver-gui?color=00D4FF&label=v) |
 | [VoIP Installer](https://github.com/Weby-Homelab/voip-installer) | Автоматизоване розгортання Asterisk на Ubuntu 24.04 | ![Release](https://img.shields.io/github/v/tag/weby-homelab/voip-installer?color=00D4FF&label=v) |
 

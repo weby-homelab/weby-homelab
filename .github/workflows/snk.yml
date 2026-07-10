@@ -78,6 +78,9 @@ jobs:
           curl -f -s "http://localhost:9000/api/pin?username=Weby-Homelab&repo=Weby-QRank&theme=react&border_color=0D1117&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117&hide_border=true" -o dist/pin-weby-qrank.svg || (echo "Failed to fetch pin-weby-qrank" && cat grs-local/grs.log || true)
           curl -f -s "http://localhost:9000/api/pin?username=Weby-Homelab&repo=ufw-gui&theme=react&border_color=0D1117&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117&hide_border=true" -o dist/pin-ufw-gui.svg || (echo "Failed to fetch pin-ufw-gui" && cat grs-local/grs.log || true)
           
+          # Homelab Infrastructure Card
+          curl -f -s "http://localhost:9000/api/pin?username=Weby-Homelab&repo=homelab&theme=react&border_color=0D1117&title_color=00D4FF&icon_color=FF6B35&bg_color=0D1117&hide_border=true" -o dist/pin-homelab.svg || (echo "Failed to fetch pin-homelab" && cat grs-local/grs.log || true)
+          
           # Public Working Instances
           curl -f -s "https://streak-stats.demolab.com/?user=weby-homelab&theme=react&border=0D1117&ring=FF6B35&fire=FFD700&currStreakLabel=00D4FF&background=0D1117&hide_border=true" -o dist/github-streak-stats.svg || echo "Failed to fetch streak-stats"
 

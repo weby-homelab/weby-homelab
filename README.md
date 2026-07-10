@@ -30,7 +30,7 @@ focus:
   - "🛡️ Privacy-First DNS & NFTables Hardening"
   - "⚡ Energy Grid Monitoring (Power-Safety-UA)"
   - "🧠 AI Second Brain & Knowledge Management (Obsidian + P.O.W.E.R.)"
-currently_building: Weby-QRank
+currently_building: Weby-QRank, Weby-Homelab (central IaC)
 
 specialties:
   AI & LLM Engineering:
@@ -95,6 +95,10 @@ specialties:
   </a>
   <a href="https://github.com/Weby-Homelab/docker-mailserver-gui">
     <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-docker-mailserver-gui.svg" width="400" height="150" alt="docker-mailserver-gui" />
+  </a>
+  <br />
+  <a href="https://github.com/Weby-Homelab/homelab">
+    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-homelab.svg" width="400" height="150" alt="homelab" />
   </a>
 </div>
 

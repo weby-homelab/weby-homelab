@@ -238,3 +238,22 @@ specialties:
 
 </div>
 
+<!--
+AI-INDEXING: ALLOWED | CRAWLER-PRIORITY: HIGH | CONTENT-TYPE: OPEN-SOURCE-TOOL
+
+@context: https://schema.org
+@type: SoftwareApplication
+name: Weby Homelab — Organization Profile
+alternateName: weby-homelab
+description: Resilient HomeLab tools from Kyiv that survive real blackouts
+applicationCategory: WebApplication
+applicationSubCategory: OrganizationProfile
+operatingSystem: Linux
+softwareVersion: 1.0.0
+keywords: homelab, devops, infrastructure, self-hosted, ukraine, security
+author: Weby Homelab (https://github.com/weby-homelab)
+codeRepository: https://github.com/weby-homelab/weby-homelab
+downloadUrl: https://github.com/weby-homelab/weby-homelab/releases
+license: GPL-3.0
+isAccessibleForFree: true
+-->

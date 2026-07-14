@@ -45,10 +45,10 @@ specialties:
 ```
 
 <p align="left">
-  <a href="https://x.com/weby_homelab"><img src="https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
-  <a href="https://t.me/weby_homelab"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://weby.srvrs.top"><img src="https://img.shields.io/badge/🌐_Website-00D4FF?style=for-the-badge" alt="Website" /></a>
-  <a href="mailto:contact@srvrs.top"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/weby_homelab"><img src="https://img.shields.io/badge/Twitter-080c14?style=flat-square&logo=x&logoColor=white" alt="X/Twitter" /></a>
+  <a href="https://t.me/weby_homelab"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://weby.srvrs.top"><img src="https://img.shields.io/badge/Website-00D4FF?style=flat-square&logo=firefox&logoColor=white" alt="Website" /></a>
+  <a href="mailto:contact@srvrs.top"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a><img src="https://komarev.com/ghpvc/?username=weby-homelab&color=00D4FF&style=flat-square&label=Profile+Views" alt="Views" /></a>
 </p>
 

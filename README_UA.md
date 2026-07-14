@@ -1,26 +1,5 @@
 <div align="center">
-
-  <!-- ═══════════════════════════════════════════════════════════ -->
-  <!-- 🎨 ANIMATED HEADER BANNER                                  -->
-  <!-- ═══════════════════════════════════════════════════════════ -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:FF6B35&height=220&section=header&text=WEBY%20HOMELAB&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=ШІ-Оптимізована%20Інфраструктура%20з%20Києва%20🇺🇦&descSize=18&descAlignY=55&descColor=FFD700" width="100%" />
-
-  <!-- ═══════════════════════════════════════════════════════════ -->
-  <!-- ⌨️ ANIMATED TYPING                                          -->
-  <!-- ═══════════════════════════════════════════════════════════ -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=130&lines=%F0%9F%A4%96%20%D0%A8%D0%86-%D0%9E%D0%BF%D1%82%D0%B8%D0%BC%D1%96%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9%20%D1%96%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%20%D1%96%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B8%20%D0%B7%20%D0%9A%D0%B8%D1%94%D0%B2%D0%B0%20%F0%9F%87%BA%F0%9F%87%A6;%E2%9A%A1%20%D0%9B%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%96%20LLM%20%E2%80%A2%20%D0%90%D0%B3%D0%B5%D0%BD%D1%82%D0%B8%20Gemini%20%E2%80%A2%20Proxmox%20Homelab;%F0%9F%94%92%20%D0%9F%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%BD%D0%B8%D0%B9%20DNS%20%E2%80%A2%20NFTables%20%E2%80%A2%20MCP%20%E2%80%A2%20Obsidian%20Second%20Brain" height="130" alt="Typing SVG" />
-  </a>
-
-  <!-- ═══════════════════════════════════════════════════════════ -->
-  <!-- 🏷️ QUICK INFO BADGES                                       -->
-  <!-- ═══════════════════════════════════════════════════════════ -->
-
-  ![Локація](https://img.shields.io/badge/📍_Київ,_Україна-0057B7?style=for-the-badge&logoColor=white)
-  ![Фокус](https://img.shields.io/badge/🤖_ШІ-FF6B35?style=for-the-badge)
-  ![Фокус](https://img.shields.io/badge/🏠_HomeLab-00D4FF?style=for-the-badge)
-  ![Фокус](https://img.shields.io/badge/⚡_Енергомережі-FFD700?style=for-the-badge&logoColor=black)
-
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
 
 ##
@@ -84,30 +63,7 @@ specialties:
 ## 💎 Головні проєкти
 
 <div align="center">
-  <a href="https://github.com/weby-homelab/power-framework">
-    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-power.svg" width="400" height="150" alt="P.O.W.E.R" />
-  </a>
-  <br />
-  <a href="https://github.com/Weby-Homelab/Weby-QRank">
-    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-weby-qrank.svg" width="400" height="150" alt="Weby-QRank" />
-  </a>
-  <a href="https://github.com/Weby-Homelab/Power-Safety-UA">
-    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-Power-Safety-UA.svg" width="400" height="150" alt="Power-Safety-UA" />
-  </a>
-  <br />
-  <a href="https://github.com/Weby-Homelab/ADBlock-PD">
-    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-adblock-pd.svg" width="400" height="150" alt="adblock-pd" />
-  </a>
-  <a href="https://github.com/Weby-Homelab/niftywall">
-    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-niftywall.svg" width="400" height="150" alt="niftywall" />
-  </a>
-  <br />
-  <a href="https://github.com/Weby-Homelab/firewalld-gui">
-    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-firewalld-gui.svg" width="400" height="150" alt="firewalld-gui" />
-  </a>
-  <a href="https://github.com/Weby-Homelab/docker-mailserver-gui">
-    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-docker-mailserver-gui.svg" width="400" height="150" alt="docker-mailserver-gui" />
-  </a>
+  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects Constellation"/>
 </div>
 
 ##
@@ -171,8 +127,7 @@ specialties:
 ## 📊 Статистика GitHub
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/github-stats.svg?v=1" height="195" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/github-streak-stats.svg?v=1" height="195" alt="Streak Stats" />
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
 </div>
 
 ##
@@ -184,35 +139,7 @@ specialties:
 ## 🛠️ Стек технологій
 
 <div align="center">
-
-  #### 🌐 Мови
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,ts,js,bash,html,css&theme=dark" />
-  </a>
-
-  #### 🤖 AI & LLM Stack
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,obsidian,pytorch,huggingface&theme=dark" />
-  </a>
-
-  #### 💻 Frontend & Backend
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,nodejs,express,postgres,sqlite&theme=dark" />
-  </a>
-
-  #### 🏗️ Infrastructure & DevOps
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,git,github,githubactions&theme=dark" />
-  </a>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🌐 ТОП МОВИ                                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/github-top-langs.svg?v=1" width="55%" alt="Top Languages" />
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
 </div>
 
 ##

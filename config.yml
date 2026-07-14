@@ -61,15 +61,18 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "weby-homelab/Power-Safety-UA"
-    arm: 0
-    description: "System for monitoring power outages, AQI, and radiation levels with local Proxmox and exit node replication."
+  - repo: "weby-homelab/power-framework"
+    arm: 2
+    description: "P.O.W.E.R. - Hybrid Knowledge Management Framework (P.A.R.A. + OKF Overlay + LLM-Wiki + Execution Rules)"
   - repo: "weby-homelab/antigravity-cli-statusline"
     arm: 1
-    description: "Resilient telemetry statusline plugin for Google Antigravity CLI with rounded badges and powerline styling."
-  - repo: "weby-homelab/weby-homelab"
-    arm: 2
-    description: "Interactive galaxy-themed GitHub profile readme with animated SVGs and real-time environment metrics."
+    description: "An advanced, responsive, and high-information statusline plugin for Antigravity CLI"
+  - repo: "weby-homelab/Power-Safety-UA"
+    arm: 0
+    description: "СВІТЛО⚡БЕЗПЕКА / POWER⚡SAFETY — All-in-one real-time monitoring. Power-Safety-UA — autonomous power, air raid, and AQI monitoring system for Kyiv. Docker multi-arch."
+  - repo: "weby-homelab/Weby-QRank"
+    arm: 1
+    description: "🚀 Weby-QRank — Telegram Mini App for community gamification with smart scoring & OLED UI | Сучасний Telegram Mini App для гейміфікації спільноти із розумним скорингом"
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)

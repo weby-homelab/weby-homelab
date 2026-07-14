@@ -1,0 +1,374 @@
+"""GitHub API client for fetching user stats and language data."""
+
+import datetime
+import logging
+import os
+import time
+
+import requests
+
+logger = logging.getLogger(__name__)
+
+
+class GitHubAPI:
+    """Fetches GitHub stats via GraphQL (with token) or REST (fallback)."""
+
+    GRAPHQL_URL = "https://api.github.com/graphql"
+    REST_URL = "https://api.github.com"
+
+    def __init__(self, username: str, token: str = None):
+        self.username = username
+        self.token = token or os.environ.get("GITHUB_TOKEN", "")
+        self.headers = {"Accept": "application/vnd.github.v3+json"}
+        if self.token:
+            self.headers["Authorization"] = f"Bearer {self.token}"
+
+    def _request(self, method: str, url: str, **kwargs) -> requests.Response:
+        """Make an HTTP request with rate-limit awareness and retry.
+
+        Checks X-RateLimit-Remaining after each response.
+        On 403 rate-limit, waits until reset and retries once.
+        """
+        kwargs.setdefault("headers", self.headers)
+        kwargs.setdefault("timeout", 15)
+
+        resp = requests.request(method, url, **kwargs)
+
+        # Check rate limit headers
+        remaining = resp.headers.get("X-RateLimit-Remaining")
+        if remaining is not None and int(remaining) < 10:
+            reset_ts = int(resp.headers.get("X-RateLimit-Reset", 0))
+            logger.warning(
+                "GitHub API rate limit low: %s remaining (resets at %s)",
+                remaining,
+                time.strftime("%H:%M:%S", time.localtime(reset_ts)),
+            )
+
+        # Retry once on rate-limit 403
+        if resp.status_code == 403 and "rate limit" in resp.text.lower():
+            reset_ts = int(resp.headers.get("X-RateLimit-Reset", 0))
+            wait = max(reset_ts - int(time.time()), 1)
+            logger.warning("Rate limited. Waiting %ds for reset...", wait)
+            time.sleep(wait)
+            resp = requests.request(method, url, **kwargs)
+
+        return resp
+
+    def fetch_stats(self) -> dict:
+        """Fetch user statistics. Uses GraphQL if token available, REST otherwise."""
+        if self.token:
+            return self._fetch_stats_graphql()
+        return self._fetch_stats_rest()
+
+    def _fetch_stats_graphql(self) -> dict:
+        """Fetch stats via GraphQL for accurate counts including private contributions."""
+        # Get contributions from multiple years (last 10 years)
+        current_year = datetime.datetime.now().year
+        years_to_fetch = list(range(current_year - 9, current_year + 1))
+        
+        # Build query with multiple contribution collections
+        collections_query = "\n".join([
+            f'year{year}: contributionsCollection(from: "{year}-01-01T00:00:00Z", to: "{year}-12-31T23:59:59Z") {{'
+            f'  totalCommitContributions\n'
+            f'  restrictedContributionsCount\n'
+            f'}}'
+            for year in years_to_fetch
+        ])
+        
+        query = f"""
+        query($username: String!) {{
+          user(login: $username) {{
+            repositoriesContributedTo(contributionTypes: [COMMIT, PULL_REQUEST, ISSUE]) {{
+              totalCount
+            }}
+            pullRequests {{
+              totalCount
+            }}
+            issues {{
+              totalCount
+            }}
+            repositories(ownerAffiliations: OWNER, first: 100) {{
+              totalCount
+              nodes {{
+                stargazerCount
+              }}
+            }}
+            {collections_query}
+          }}
+        }}
+        """
+        try:
+            resp = self._request(
+                "POST",
+                self.GRAPHQL_URL,
+                json={"query": query, "variables": {"username": self.username}},
+            )
+            resp.raise_for_status()
+        except requests.exceptions.Timeout:
+            logger.warning("GraphQL request timed out, falling back to REST.")
+            return self._fetch_stats_rest()
+        except requests.exceptions.HTTPError as e:
+            logger.warning("GraphQL HTTP error (%s), falling back to REST.", e)
+            return self._fetch_stats_rest()
+
+        data = resp.json()
+
+        if "errors" in data:
+            logger.warning("GraphQL errors: %s", data["errors"])
+            return self._fetch_stats_rest()
+
+        user = data["data"]["user"]
+        repos = user["repositories"]
+
+        total_stars = sum(n["stargazerCount"] for n in repos["nodes"])
+        
+        # Sum commits across all years
+        total_commits = 0
+        for year in years_to_fetch:
+            year_key = f"year{year}"
+            if year_key in user:
+                contrib = user[year_key]
+                total_commits += (
+                    contrib["totalCommitContributions"]
+                    + contrib["restrictedContributionsCount"]
+                )
+
+        return {
+            "commits": total_commits,
+            "stars": total_stars,
+            "prs": user["pullRequests"]["totalCount"],
+            "issues": user["issues"]["totalCount"],
+            "repos": repos["totalCount"],
+        }
+
+    def _fetch_stats_rest(self) -> dict:
+        """Fallback: fetch stats via REST API (public data only)."""
+        user_resp = self._request(
+            "GET", f"{self.REST_URL}/users/{self.username}"
+        )
+        user_resp.raise_for_status()
+        user_data = user_resp.json()
+
+        # Fetch repos to count stars
+        total_stars = 0
+        for repos in self._paginate_repos():
+            total_stars += sum(r.get("stargazers_count", 0) for r in repos)
+
+        # Estimate commits from events (rough approximation without token)
+        events_resp = self._request(
+            "GET",
+            f"{self.REST_URL}/users/{self.username}/events/public",
+            params={"per_page": 100},
+        )
+        events_resp.raise_for_status()
+        events = events_resp.json()
+        commit_count = sum(
+            len(e.get("payload", {}).get("commits", []))
+            for e in events
+            if e.get("type") == "PushEvent"
+        )
+
+        # Fetch actual PR count via Search API
+        pr_count = self._search_count(f"author:{self.username} type:pr")
+
+        # Fetch actual issue count via Search API
+        issue_count = self._search_count(f"author:{self.username} type:issue")
+
+        return {
+            "commits": commit_count,
+            "stars": total_stars,
+            "prs": pr_count,
+            "issues": issue_count,
+            "repos": user_data.get("public_repos", 0),
+        }
+
+    def _paginate_repos(self):
+        """Yield pages of owned repos from the REST API."""
+        page = 1
+        while True:
+            repos_resp = self._request(
+                "GET",
+                f"{self.REST_URL}/users/{self.username}/repos",
+                params={"per_page": 100, "page": page, "type": "owner"},
+            )
+            repos_resp.raise_for_status()
+            repos = repos_resp.json()
+            if not repos:
+                break
+            yield repos
+            if len(repos) < 100:
+                break
+            page += 1
+
+    def _search_count(self, query: str) -> int:
+        """Use the GitHub Search API to get a total_count for a query."""
+        try:
+            resp = self._request(
+                "GET",
+                f"{self.REST_URL}/search/issues",
+                params={"q": query, "per_page": 1},
+            )
+            if resp.status_code == 200:
+                return resp.json().get("total_count", 0)
+            logger.warning("Search API returned %d for query '%s'", resp.status_code, query)
+        except requests.exceptions.RequestException as e:
+            logger.warning("Search API failed for '%s': %s", query, e)
+        return 0
+
+    def fetch_org_contributions(self, org_name: str) -> dict:
+        """Fetch user's contributions to a specific organization.
+        
+        Args:
+            org_name: The organization name (e.g., 'wexinc')
+            
+        Returns:
+            dict with keys: commits, stars, prs, issues, repos (repos will be 0 for orgs)
+        """
+        logger.info(f"    Fetching contributions to org {org_name}...")
+        
+        # First, verify the organization exists
+        try:
+            org_resp = self._request("GET", f"{self.REST_URL}/orgs/{org_name}")
+            if org_resp.status_code != 200:
+                logger.warning(f"    Organization '{org_name}' not found or not accessible (HTTP {org_resp.status_code})")
+                return {"commits": 0, "stars": 0, "prs": 0, "issues": 0, "repos": 0}
+            org_data = org_resp.json()
+            logger.info(f"    Found organization: {org_data.get('name', org_name)}")
+        except requests.exceptions.RequestException as e:
+            logger.warning(f"    Could not verify organization '{org_name}': {e}")
+            return {"commits": 0, "stars": 0, "prs": 0, "issues": 0, "repos": 0}
+        
+        # Count PRs created by user in the organization
+        pr_query = f"author:{self.username} org:{org_name} is:pr"
+        pr_count = self._search_count(pr_query)
+        
+        # Count issues created by user in the organization
+        issue_query = f"author:{self.username} org:{org_name} is:issue"
+        issue_count = self._search_count(issue_query)
+        
+        # For commits, we'll use the GraphQL API if token is available
+        commit_count = 0
+        if self.token:
+            commit_count = self._fetch_org_commits_graphql(org_name)
+        
+        return {
+            "commits": commit_count,
+            "stars": 0,  # Stars are per-repo, not aggregated for org contributions
+            "prs": pr_count,
+            "issues": issue_count,
+            "repos": 0,  # User doesn't "own" org repos
+        }
+
+    def _fetch_org_commits_graphql(self, org_name: str) -> int:
+        """Fetch commit count for user's contributions to an org via GraphQL."""
+        # Note: This is an approximation as GitHub doesn't provide a direct
+        # "commits to org" count. We'd need to iterate through repos.
+        # For simplicity, we'll return 0 and let the REST stats handle commits
+        return 0
+
+    def fetch_languages(self) -> dict:
+        """Fetch language byte counts aggregated across all owned non-fork repos."""
+        languages = {}
+        for repos in self._paginate_repos():
+            for repo in repos:
+                if repo.get("fork"):
+                    continue
+                try:
+                    lang_resp = self._request("GET", repo["languages_url"])
+                    if lang_resp.status_code == 200:
+                        for lang, bytes_count in lang_resp.json().items():
+                            languages[lang] = languages.get(lang, 0) + bytes_count
+                    else:
+                        logger.warning(
+                            "Could not fetch languages for %s (HTTP %d)",
+                            repo.get("full_name", "unknown"),
+                            lang_resp.status_code,
+                        )
+                except requests.exceptions.RequestException as e:
+                    logger.warning(
+                        "Error fetching languages for %s: %s",
+                        repo.get("full_name", "unknown"),
+                        e,
+                    )
+        return languages
+
+    def fetch_org_languages(self, org_name: str) -> dict:
+        """Fetch language byte counts from org repos where user has contributions.
+        
+        Args:
+            org_name: The organization name (e.g., 'wexinc')
+            
+        Returns:
+            dict mapping language names to byte counts
+        """
+        logger.info(f"    Fetching languages from org {org_name} repos...")
+        languages = {}
+        
+        try:
+            # Get recently updated repos from the organization (most likely to have recent contributions)
+            page = 1
+            repos_checked = 0
+            repos_with_contributions = 0
+            max_repos_to_check = 50  # Limit to first 50 repos to avoid excessive API calls
+            
+            while repos_checked < max_repos_to_check:
+                org_repos_resp = self._request(
+                    "GET",
+                    f"{self.REST_URL}/orgs/{org_name}/repos",
+                    params={
+                        "per_page": 30, 
+                        "page": page, 
+                        "sort": "updated",  # Most recently updated first
+                        "type": "all"
+                    }
+                )
+                
+                if org_repos_resp.status_code != 200:
+                    logger.warning(f"    Could not fetch repos for org {org_name} (HTTP {org_repos_resp.status_code})")
+                    break
+                
+                repos = org_repos_resp.json()
+                if not repos:
+                    break
+                
+                for repo in repos:
+                    if repos_checked >= max_repos_to_check:
+                        break
+                    
+                    repos_checked += 1
+                    
+                    if repo.get("fork"):
+                        continue
+                    
+                    # Quick check: does this repo have any languages?
+                    if repo.get("language") is None:
+                        continue
+                    
+                    # Check if user has commits in this repo (limit to 1 result for speed)
+                    try:
+                        commits_resp = self._request(
+                            "GET",
+                            f"{self.REST_URL}/repos/{org_name}/{repo['name']}/commits",
+                            params={"author": self.username, "per_page": 1}
+                        )
+                        
+                        if commits_resp.status_code == 200:
+                            commits = commits_resp.json()
+                            if commits:  # User has at least one commit
+                                repos_with_contributions += 1
+                                # Fetch languages for this repo
+                                lang_resp = self._request("GET", repo["languages_url"])
+                                if lang_resp.status_code == 200:
+                                    for lang, bytes_count in lang_resp.json().items():
+                                        languages[lang] = languages.get(lang, 0) + bytes_count
+                    except requests.exceptions.RequestException:
+                        # Skip repos we can't access
+                        continue
+                
+                page += 1
+            
+            logger.info(f"    Found {len(languages)} languages across {repos_with_contributions} repos (checked {repos_checked} total)")
+        except requests.exceptions.RequestException as e:
+            logger.warning(f"    Error fetching org languages: {e}")
+        
+        return languages

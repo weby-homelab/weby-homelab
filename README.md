@@ -1,16 +1,5 @@
 <div align="center">
-
-  <!-- ═══════════════════════════════════════════════════════════ -->
-  <!-- 🎨 ANIMATED HEADER BANNER                                  -->
-  <!-- ═══════════════════════════════════════════════════════════ -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:FF6B35&height=220&section=header&text=WEBY%20HOMELAB&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=AI-Augmented%20Infrastructure%20from%20Kyiv%20🇺🇦&descSize=18&descAlignY=55&descColor=FFD700" width="100%" />
-
-  <!-- ═══════════════════════════════════════════════════════════ -->
-  <!-- ⌨️ ANIMATED TYPING                                          -->
-  <!-- ═══════════════════════════════════════════════════════════ -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=130&lines=%F0%9F%A4%96+AI-Augmented+Infrastructure+Engineer+from+Kyiv+%F0%9F%87%BA%F0%9F%87%A6;%E2%9A%A1+Local+LLMs+%E2%80%A2+Gemini+Agents+%E2%80%A2+Proxmox+Homelab;%F0%9F%94%92+Privacy+DNS+%E2%80%A2+NFTables+%E2%80%A2+MCP+%E2%80%A2+Obsidian+Second+Brain" height="130" alt="Typing SVG" />
-  </a>
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -71,35 +60,8 @@ specialties:
 
 ## 💎 Featured Projects
 
-<div align="left">
-  <a href="https://github.com/weby-homelab/power-framework">
-    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-power.svg" width="400" height="150" alt="POWER" />
-  </a>
-  <br />
-  <a href="https://github.com/Weby-Homelab/Weby-QRank">
-    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-weby-qrank.svg" width="400" height="150" alt="Weby-QRank" />
-  </a>
-  <a href="https://github.com/Weby-Homelab/Power-Safety-UA">
-    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-Power-Safety-UA.svg" width="400" height="150" alt="Power-Safety-UA" />
-  </a>
-  <br />
-  <a href="https://github.com/Weby-Homelab/ADBlock-PD">
-    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-adblock-pd.svg" width="400" height="150" alt="adblock-pd" />
-  </a>
-  <a href="https://github.com/Weby-Homelab/niftywall">
-    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-niftywall.svg" width="400" height="150" alt="niftywall" />
-  </a>
-  <br />
-  <a href="https://github.com/Weby-Homelab/firewalld-gui">
-    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-firewalld-gui.svg" width="400" height="150" alt="firewalld-gui" />
-  </a>
-  <a href="https://github.com/Weby-Homelab/docker-mailserver-gui">
-    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-docker-mailserver-gui.svg" width="400" height="150" alt="docker-mailserver-gui" />
-  </a>
-  <br />
-  <a href="https://github.com/Weby-Homelab/homelab">
-    <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/pin-homelab.svg" width="400" height="150" alt="homelab" />
-  </a>
+<div align="center">
+  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects Constellation"/>
 </div>
 
 ##
@@ -174,8 +136,7 @@ specialties:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/github-stats.svg?v=1" height="195" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/github-streak-stats.svg?v=1" height="195" alt="Streak Stats" />
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
 </div>
 
 ##
@@ -187,35 +148,7 @@ specialties:
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-  #### 🌐 Languages
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,ts,js,bash,html,css&theme=dark" />
-  </a>
-
-  #### 🤖 AI & LLM Stack
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,obsidian,pytorch,huggingface&theme=dark" />
-  </a>
-
-  #### 💻 Frontend & Backend
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,nodejs,express,postgres,sqlite&theme=dark" />
-  </a>
-
-  #### 🏗️ Infrastructure & Homelab
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,git,github,githubactions&theme=dark" />
-  </a>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🌐 TOP LANGUAGES                                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Weby-Homelab/weby-homelab/output/github-top-langs.svg?v=1" width="55%" alt="Top Languages" />
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
 </div>
 
 ##

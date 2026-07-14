@@ -250,9 +250,13 @@ def _build_project_card(i, proj, arm, color, card_width, card_x, theme):
     )
 
     # Project name (centered)
+    # Scale down font size for long project names on narrower cards
+    font_size = 14
+    if len(repo_name) > 15 and card_width < 240:
+        font_size = max(10, int(14 * 15 / len(repo_name)))
     card_parts.append(
         f'    <text x="{card_cx}" y="111" fill="{theme["text_bright"]}" '
-        f'font-size="14" font-weight="bold" font-family="sans-serif" '
+        f'font-size="{font_size}" font-weight="bold" font-family="sans-serif" '
         f'text-anchor="middle">{esc(repo_name)}</text>'
     )
 
@@ -305,7 +309,7 @@ def render(projects: list, galaxy_arms: list, theme: dict) -> str:
     """
     all_arm_colors = resolve_arm_colors(galaxy_arms, theme)
 
-    n = min(len(projects), 3)
+    n = min(len(projects), 4)
 
     if n == 0:
         # No projects — render an empty card
@@ -317,10 +321,14 @@ def render(projects: list, galaxy_arms: list, theme: dict) -> str:
 </svg>'''
 
     # Adaptive card sizing
-    if n == 2:
+    if n == 1:
+        card_width = 500
+    elif n == 2:
         card_width = 340
-    else:
+    elif n == 3:
         card_width = 240
+    else:
+        card_width = 180
     total_cards_width = card_width * n
     gap = (WIDTH - total_cards_width) / (n + 1)
 

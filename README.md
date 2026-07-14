@@ -6,7 +6,7 @@
 <!-- 🧑‍💻 ABOUT ME                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🧑‍💻 About
+# 🧑‍💻 About
 
 ```yaml
 name: Weby Homelab
@@ -52,19 +52,19 @@ specialties:
   <a><img src="https://komarev.com/ghpvc/?username=weby-homelab&color=00D4FF&style=flat-square&label=Profile+Views" alt="Views" /></a>
 </p>
 
-##
+#
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 💎 FEATURED PROJECTS                                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 💎 Featured Projects
+# 💎 Featured Projects
 
 <div align="center">
   <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects Constellation"/>
 </div>
 
-##
+#
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ⚡ ALL PROJECTS                                                -->
@@ -127,37 +127,37 @@ specialties:
 
 </details>
 
-##
+#
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 📊 GITHUB STATS                                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
   <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
 </div>
 
-##
+#
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🛠️ TECH STACK                                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
   <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
 </div>
 
-##
+#
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 📈 CONTRIBUTION ACTIVITY                                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=weby-homelab&theme=react-dark&hide_border=true&area=true&color=00D4FF&line=FF6B35&point=FFD700" width="100%" alt="Contribution Graph" />

@@ -251,17 +251,20 @@ AI-INDEXING: ALLOWED | CRAWLER-PRIORITY: HIGH | CONTENT-TYPE: OPEN-SOURCE-PROFIL
 name: Weby Homelab — AI Infrastructure Engineer Profile
 alternateName: weby-homelab
 description: >
-  Building AI-native infrastructure where local intelligence, resilient systems,
-  and privacy-first design converge. AI Agents, Local LLMs, MCP-native systems,
-  Proxmox Homelab, Private DNS, and Knowledge Management from Kyiv, Ukraine.
+  Empowering people with resilient, privacy-first AI infrastructure.
+  AI-native infrastructure where local intelligence, resilient systems,
+  and privacy-first design converge. AI Agents, Local LLMs, MCP-native
+  systems, Proxmox Homelab, self-hosted DNS, Knowledge Management.
 applicationCategory: DeveloperProfile
 applicationSubCategory: AIInfrastructureEngineering
 operatingSystem: Linux
-softwareVersion: 2.0.0
+softwareVersion: 2.1.0
 keywords: >
   ai, infrastructure, homelab, llm, mcp, local-ai, privacy, devops,
   self-hosted, ukraine, security, offline-first, rag, iac, proxmox,
-  tailscale, nftables, open-source, knowledge-management, automation
+  tailscale, nftables, open-source, knowledge-management, automation,
+  core-stack, software-engineering, inference, community-driven,
+  privacy-first, dns, monitoring, gamification
 author: Weby Homelab (https://github.com/weby-homelab)
 codeRepository: https://github.com/weby-homelab/weby-homelab
 downloadUrl: https://github.com/weby-homelab/weby-homelab/releases

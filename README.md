@@ -3,6 +3,101 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🚀 FIRST SCREEN — Elevator pitch, Why, What, Arch, Projects    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<br>
+
+> **Empowering people with resilient, privacy-first AI infrastructure.**
+> Building AI-native infrastructure where local intelligence, resilient systems, and privacy-first design converge.
+
+<p align="center">
+  <code>AI Infrastructure • Homelab • Privacy • Knowledge Systems • Open Source</code>
+</p>
+
+#
+
+### Why
+
+> Modern AI tools often depend on cloud services. My goal is to build open, privacy-first systems that remain useful locally and can continue operating in constrained or disconnected environments.
+
+### What I'm Building
+
+> An open-source ecosystem focused on local AI, resilient infrastructure, privacy-first networking, and knowledge management. Every project is designed to work together while remaining useful as a standalone tool.
+
+#
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🏗️ ECOSYSTEM ARCHITECTURE                                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="./assets/generated/ecosystem-arch.svg" width="850" alt="Ecosystem Architecture"/>
+</div>
+
+#
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🚀 FLAGSHIP PROJECTS                                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+# 🚀 Flagship Projects
+
+| Project                                                                | Why it matters                                                                  |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [**Weby-Homelab**](https://github.com/weby-homelab/weby-homelab)       | Central Infrastructure as Code — manages the entire homelab ecosystem           |
+| [**P.O.W.E.R.**](https://github.com/weby-homelab/power-framework)      | Hybrid Knowledge Management Framework for AI agents (P.A.R.A. + OKF + LLM-Wiki) |
+| [**Power-Safety-UA**](https://github.com/weby-homelab/Power-Safety-UA) | Public real-time power, air raid & AQI monitoring platform for Kyiv             |
+| [**Weby-QRank**](https://github.com/weby-homelab/Weby-QRank)           | AI community gamification engine with smart scoring & OLED UI                   |
+
+#
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 💎 FEATURED PROJECTS                                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+# 💎 Featured Projects
+
+<div align="center">
+  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects Constellation"/>
+</div>
+
+<br>
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <b>🚀 Weby-Homelab</b><br>
+      <sub>Central IaC ecosystem — Ansible, monitoring, Docker infrastructure</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>🧠 P.O.W.E.R.</b><br>
+      <sub>Hybrid Knowledge Management Framework for AI coding agents</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>⚡ Power-Safety-UA</b><br>
+      <sub>Autonomous power, air raid & AQI monitoring for Kyiv</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <b>🤖 Weby-QRank</b><br>
+      <sub>Telegram Mini App for community gamification & smart scoring</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>🛡️ ADBlock-PD</b><br>
+      <sub>Self-hosted anonymous DNS resolver — zero telemetry</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>📊 LLMtop</b><br>
+      <sub>htop for local LLMs — TUI dashboard (Ollama, llama.cpp, vLLM)</sub>
+    </td>
+  </tr>
+</table>
+
+#
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🧑‍💻 ABOUT ME                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -30,10 +125,6 @@ currently_building:
   - antigravity-cli-statusline — Advanced statusline plugin for Antigravity CLI
 ```
 
-<p align="center">
-  <code>AI Infrastructure • Homelab • Privacy • Knowledge Systems • Open Source</code>
-</p>
-
 <p align="left">
   <a href="https://x.com/weby_homelab"><img src="https://img.shields.io/badge/Twitter-080c14?style=flat-square&logo=x&logoColor=white" alt="X/Twitter" /></a>
   <a href="https://telegram.me/weby_homelab"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
@@ -41,6 +132,29 @@ currently_building:
   <a href="mailto:contact@weby.guru"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a><img src="https://komarev.com/ghpvc/?username=weby-homelab&color=00D4FF&style=flat-square&label=Profile+Views" alt="Views" /></a>
 </p>
+
+#
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🎯 DESIGN PRINCIPLES                                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+# 🎯 Design Principles
+
+```
+Local-first        → Build & run on your own hardware
+Privacy-first      → Zero telemetry, zero tracking
+Offline-capable    → Works under blackouts & no internet
+AI-native          → MCP-native, agent-first architecture
+Open standards     → MIT-licensed, community-driven, interoperable
+Automation by default → CI/CD, IaC, repeatable deployments
+```
+
+#
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🧰 SPECIALTIES & STACK                                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <details>
 <summary><b>🧰 Specialties & Stack</b></summary>
@@ -119,55 +233,6 @@ specialties:
 ```
 
 </details>
-
-#
-
-> **What I'm building** — An ecosystem of open-source tools for local AI, privacy-first infrastructure, resilient homelabs, and AI-assisted knowledge management.
-
-#
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 💎 FEATURED PROJECTS                                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-# 💎 Featured Projects
-
-<div align="center">
-  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects Constellation"/>
-</div>
-
-<br>
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <b>🚀 Weby-Homelab</b><br>
-      <sub>Central IaC ecosystem — Ansible, monitoring, Docker infrastructure</sub>
-    </td>
-    <td width="33%" align="center">
-      <b>🧠 P.O.W.E.R.</b><br>
-      <sub>Hybrid Knowledge Management Framework for AI coding agents</sub>
-    </td>
-    <td width="33%" align="center">
-      <b>⚡ Power-Safety-UA</b><br>
-      <sub>Autonomous power, air raid & AQI monitoring for Kyiv</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-      <b>🤖 Weby-QRank</b><br>
-      <sub>Telegram Mini App for community gamification & smart scoring</sub>
-    </td>
-    <td width="33%" align="center">
-      <b>🛡️ ADBlock-PD</b><br>
-      <sub>Self-hosted anonymous DNS resolver — zero telemetry</sub>
-    </td>
-    <td width="33%" align="center">
-      <b>📊 LLMtop</b><br>
-      <sub>htop for local LLMs — TUI dashboard (Ollama, llama.cpp, vLLM)</sub>
-    </td>
-  </tr>
-</table>
 
 #
 

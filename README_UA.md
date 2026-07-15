@@ -338,16 +338,18 @@ description: >
   відмовостійкі системи та приватність за задумом поєднуються.
   ШІ-агенти, локальні LLM, MCP-системи, Proxmox Homelab,
   приватний DNS та управління знаннями з Києва.
+  Філософія: будуй локально, автоматизуй, відкриті стандарти.
 applicationCategory: DeveloperProfile
 applicationSubCategory: AIInfrastructureEngineering
 operatingSystem: Linux
-softwareVersion: 2.1.0
+softwareVersion: 2.2.0
 keywords: >
   ai, infrastructure, homelab, llm, mcp, local-ai, privacy, devops,
   self-hosted, ukraine, security, offline-first, rag, iac, proxmox,
   tailscale, nftables, open-source, knowledge-management, automation,
   core-stack, software-engineering, inference, community-driven,
-  privacy-first, dns, monitoring, gamification
+  privacy-first, dns, monitoring, gamification, engineering-philosophy,
+  timeline, project-cards, IaC, ansible, adblock-pd, power-safety-ua
 author: Weby Homelab (https://github.com/weby-homelab)
 codeRepository: https://github.com/weby-homelab/weby-homelab
 downloadUrl: https://github.com/weby-homelab/weby-homelab/releases

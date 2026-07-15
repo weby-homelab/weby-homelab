@@ -14,7 +14,7 @@
 name: Weby Homelab
 location: Київ, Україна 🇺🇦
 role: AI & Infrastructure Engineer
-mission: Створення ШІ-оптимізованих відмовостійких систем, що витримують реальні випробування
+mission: Надання людям відмовостійкої, приватної ШІ-інфраструктури
 slogan: >
   Створення ШІ-нативної інфраструктури, де локальний інтелект,
   відмовостійкі системи та приватність за задумом поєднуються
@@ -35,31 +35,53 @@ specialties:
   AI & LLM Engineering:
     Agents: Google Antigravity CLI, Gemini CLI, OpenCode (локальний), Odysseus AI Workspace
     Models:
-      - Gemini 3.5 Pro/Flash
-      - Gemma 4 32B
-      - Qwen3.6 35B
-    Runtime:
+      - Gemini
+      - Gemma
+      - Qwen
+    Inference:
       - llama.cpp
       - Ollama
-      - квантування GGUF
+      - GGUF
+    AI Services:
       - Kokoro (TTS)
       - Whisper (STT)
-    Protocols: MCP (Model Context Protocol), Obsidian Second Brain, фреймворк P.O.W.E.R.
+    Protocols:
+      - MCP (Model Context Protocol)
+    Knowledge Systems:
+      - Obsidian Second Brain
+      - фреймворк P.O.W.E.R.
     APIs: Gemini API, Telegram Bot API
-    Database: ChromaDB (семантична векторна пам'ять/RAG)
+    Knowledge Store: ChromaDB (RAG)
 
   Infrastructure & Homelab:
     Virtualization: Proxmox VE (мульти-нод кластер)
     Networking: Tailscale (mesh VPN), NFTables, WireGuard
-    Containers: Docker, LXC, Docker Compose, контейнеризовані БД (ChromaDB)
-    DNS & Privacy: ADBlock-PD (власний анонімний захищений Private DNS резолвер)
+    Containers: Docker, LXC, Docker Compose
+    DNS & Privacy: ADBlock-PD — самостійний анонімний DNS резолвер
     Monitoring: Uptime Kuma, Beszel, кастомні дашборди
 
-  Розробка:
+  Software Engineering:
     Frontend: React.js, Next.js, TypeScript
     Backend: Python (FastAPI), Node.js, Express.js
     Дані: PostgreSQL, SQLite
     DevOps: GitHub Actions, Docker Hub CI/CD, GPG-підписані коміти
+
+  Core Stack:
+    Мови:
+      - Python
+      - TypeScript
+    Платформи:
+      - Linux
+      - Docker
+      - Proxmox
+    AI:
+      - Gemini
+      - Ollama
+      - llama.cpp
+    Інфраструктура:
+      - Tailscale
+      - WireGuard
+      - NFTables
 
   Архітектура:
     - MCP-нативні системи
@@ -79,7 +101,14 @@ specialties:
     - Супровід кількох ШІ-інфраструктурних проєктів
     - Ліцензія MIT
     - Розробка з документацією передусім
+    - Орієнтація на спільноту
     - CI/CD автоматизація
+
+  Статистика:
+    - 50+ репозиторіїв
+    - 4,800+ контрибуцій на GitHub (за останній рік)
+    - Розробка з документацією передусім
+    - ШІ-асоційована розробка
 ```
 
 <p align="left">

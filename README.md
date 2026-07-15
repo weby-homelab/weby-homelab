@@ -12,7 +12,7 @@
 name: Weby Homelab
 location: Kyiv, Ukraine 🇺🇦
 role: AI & Infrastructure Engineer
-mission: Building AI-augmented, resilient systems that survive real-world adversity
+mission: Empowering people with resilient, privacy-first AI infrastructure
 slogan: >
   Building AI-native infrastructure where local intelligence,
   resilient systems, and privacy-first design converge
@@ -33,31 +33,53 @@ specialties:
   AI & LLM Engineering:
     Agents: Google Antigravity CLI, Gemini CLI, OpenCode (local), Odysseus AI Workspace
     Models:
-      - Gemini 3.5 Pro/Flash
-      - Gemma 4 32B
-      - Qwen3.6 35B
-    Runtime:
+      - Gemini
+      - Gemma
+      - Qwen
+    Inference:
       - llama.cpp
       - Ollama
-      - GGUF quantization
+      - GGUF
+    AI Services:
       - Kokoro (TTS)
       - Whisper (STT)
-    Protocols: MCP (Model Context Protocol), Obsidian Second Brain, P.O.W.E.R. Framework
+    Protocols:
+      - MCP (Model Context Protocol)
+    Knowledge Systems:
+      - Obsidian Second Brain
+      - P.O.W.E.R. Framework
     APIs: Gemini API, Telegram Bot API
-    Database: ChromaDB (vector store/RAG)
+    Knowledge Store: ChromaDB (RAG)
 
   Infrastructure & Homelab:
     Virtualization: Proxmox VE (multi-node cluster)
     Networking: Tailscale (mesh VPN), NFTables, WireGuard
-    Containers: Docker, LXC, Docker Compose, Dockerized DBs (ChromaDB)
-    DNS & Privacy: ADBlock-PD (own anonymous secure Private DNS resolver)
+    Containers: Docker, LXC, Docker Compose
+    DNS & Privacy: ADBlock-PD — self-hosted anonymous DNS resolver
     Monitoring: Uptime Kuma, Beszel, custom dashboards
 
-  Engineering:
+  Software Engineering:
     Frontend: React.js, Next.js, TypeScript
     Backend: Python (FastAPI), Node.js, Express.js
     Data: PostgreSQL, SQLite
     DevOps: GitHub Actions, Docker Hub CI/CD, GPG-signed commits
+
+  Core Stack:
+    Languages:
+      - Python
+      - TypeScript
+    Platforms:
+      - Linux
+      - Docker
+      - Proxmox
+    AI:
+      - Gemini
+      - Ollama
+      - llama.cpp
+    Infrastructure:
+      - Tailscale
+      - WireGuard
+      - NFTables
 
   Architecture:
     - MCP-native systems
@@ -77,7 +99,14 @@ specialties:
     - Maintaining multiple AI infrastructure projects
     - MIT Licensed
     - Documentation-first development
+    - Community-driven development
     - CI/CD automation
+
+  Stats:
+    - 50+ repositories
+    - 4,800+ GitHub contributions (last year)
+    - Documentation-first workflow
+    - AI-assisted development
 ```
 
 <p align="left">

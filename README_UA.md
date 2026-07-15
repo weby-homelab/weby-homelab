@@ -30,7 +30,24 @@ currently_building:
   - P.O.W.E.R. — Гібридний фреймворк управління знаннями (P.A.R.A. + OKF + LLM-Wiki)
   - Power-Safety-UA — Автономний моніторинг світла, тривог та AQI для Києва
   - antigravity-cli-statusline — Просунутий статуслайн для Antigravity CLI
+```
 
+<p align="center">
+  <code>AI Infrastructure • Homelab • Privacy • Knowledge Systems • Open Source</code>
+</p>
+
+<p align="left">
+  <a href="https://x.com/weby_homelab"><img src="https://img.shields.io/badge/Twitter-080c14?style=flat-square&logo=x&logoColor=white" alt="X/Twitter" /></a>
+  <a href="https://t.me/weby_homelab"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://weby.srvrs.top"><img src="https://img.shields.io/badge/Сайт-00D4FF?style=flat-square&logo=firefox&logoColor=white" alt="Website" /></a>
+  <a href="mailto:contact@srvrs.top"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a><img src="https://komarev.com/ghpvc/?username=weby-homelab&color=00D4FF&style=flat-square&label=Profile+Views" alt="Views" /></a>
+</p>
+
+<details>
+<summary><b>🧰 Спеціалізації та стек</b></summary>
+
+```yaml
 specialties:
   AI & LLM Engineering:
     Agents: Google Antigravity CLI, Gemini CLI, OpenCode (локальний), Odysseus AI Workspace
@@ -103,17 +120,11 @@ specialties:
     - Кілька активно підтримуваних open-source проєктів
 ```
 
-<p align="center">
-  <code>AI Infrastructure • Homelab • Privacy • Knowledge Systems • Open Source</code>
-</p>
+</details>
 
-<p align="left">
-  <a href="https://x.com/weby_homelab"><img src="https://img.shields.io/badge/Twitter-080c14?style=flat-square&logo=x&logoColor=white" alt="X/Twitter" /></a>
-  <a href="https://t.me/weby_homelab"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://weby.srvrs.top"><img src="https://img.shields.io/badge/Сайт-00D4FF?style=flat-square&logo=firefox&logoColor=white" alt="Website" /></a>
-  <a href="mailto:contact@srvrs.top"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a><img src="https://komarev.com/ghpvc/?username=weby-homelab&color=00D4FF&style=flat-square&label=Profile+Views" alt="Views" /></a>
-</p>
+##
+
+> **Що я будую** — Екосистема open-source інструментів для локального ШІ, приватної інфраструктури, відмовостійких хоумлабів та ШІ-асоційованого управління знаннями.
 
 ##
 
@@ -126,6 +137,39 @@ specialties:
 <div align="center">
   <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects Constellation"/>
 </div>
+
+<br>
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <b>🚀 Weby-Homelab</b><br>
+      <sub>Центральна IaC екосистема — Ansible, моніторинг, Docker</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>🧠 P.O.W.E.R.</b><br>
+      <sub>Фреймворк управління знаннями для ШІ-агентів</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>⚡ Power-Safety-UA</b><br>
+      <sub>Автономний моніторинг світла, тривог та AQI для Києва</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <b>🤖 Weby-QRank</b><br>
+      <sub>Telegram Mini App для гейміфікації спільноти</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>🛡️ ADBlock-PD</b><br>
+      <sub>Самостійний анонімний DNS резолвер — нуль телеметрії</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>📊 LLMtop</b><br>
+      <sub>htop для локальних LLM — TUI дашборд (Ollama, llama.cpp, vLLM)</sub>
+    </td>
+  </tr>
+</table>
 
 ##
 
@@ -141,12 +185,10 @@ specialties:
 ![Репозиторії](https://img.shields.io/badge/Публічні_Репозиторії-37-00D4FF?style=for-the-badge)
 ![Зірки](https://img.shields.io/badge/Всього_Зірок-109-FFD700?style=for-the-badge)
 ![Читачі](https://img.shields.io/badge/Читачі-82-FF6B35?style=for-the-badge)
-![Власні](https://img.shields.io/badge/Власні_Проєкти-22-success?style=for-the-badge)
-![Форки](https://img.shields.io/badge/Форки-15-blueviolet?style=for-the-badge)
 
 </div>
 
-#### 🚀 Власні проєкти (22)
+#### 🚀 Топ проєкти
 
 |  #  | Проєкт                                                                                   | Опис                                                                                                                          |    Мова    |                                                          ⭐                                                          |                                                      Статус                                                      |
 | :-: | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | :--------: | :------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
@@ -155,23 +197,31 @@ specialties:
 |  3  | [P.O.W.E.R](https://github.com/weby-homelab/power-framework)                             | **P.O.W.E.R.** — гібридний фреймворк управління знаннями (P.A.R.A. + OKF Overlay + LLM-Wiki + Execution Rules) для ШІ-агентів |   Python   |      ![Stars](https://img.shields.io/github/stars/weby-homelab/power-framework?style=flat-square&color=FFD700)       |                              ![Status](https://img.shields.io/badge/Active-success)                              |
 |  4  | [AI-HOMELAB](https://github.com/weby-homelab/AI-HOMELAB)                                 | 🇺🇦 **AI-HomeLab** — локальний ШІ, мультиагентні системи, стійкість до блекаутів                                               |   Python   |         ![Stars](https://img.shields.io/github/stars/weby-homelab/AI-HOMELAB?style=flat-square&color=FFD700)         |                              ![Status](https://img.shields.io/badge/Active-success)                              |
 |  5  | [firewalld-gui](https://github.com/weby-homelab/firewalld-gui)                           | Сучасна Docker-панель керування для зон, сервісів та політик Firewalld і Fail2Ban                                             | TypeScript |       ![Stars](https://img.shields.io/github/stars/weby-homelab/firewalld-gui?style=flat-square&color=FFD700)        |       ![Release](https://img.shields.io/github/v/release/weby-homelab/firewalld-gui?color=00D4FF&label=v)        |
-|  6  | [karma-community-app](https://github.com/weby-homelab/karma-community-app)               | Бекенд та дашборд Weby-QRank для гейміфікації спільноти                                                                       | JavaScript |    ![Stars](https://img.shields.io/github/stars/weby-homelab/karma-community-app?style=flat-square&color=FFD700)     |                              ![Status](https://img.shields.io/badge/Active-success)                              |
-|  7  | [security-monitor-kyiv](https://github.com/weby-homelab/security-monitor-kyiv)           | 🛡️ Панель ситуаційної обізнаності — повітряні тривоги, радіація, AQI, електромережі                                           |    HTML    |   ![Stars](https://img.shields.io/github/stars/weby-homelab/security-monitor-kyiv?style=flat-square&color=FFD700)    |                               ![Status](https://img.shields.io/badge/Archived-red)                               |
-|  8  | [Weby-QRank](https://github.com/weby-homelab/Weby-QRank)                                 | **Weby-QRank** — Telegram Mini App для гейміфікації спільноти із розумним скорингом та OLED-інтерфейсом                       | JavaScript |         ![Stars](https://img.shields.io/github/stars/weby-homelab/Weby-QRank?style=flat-square&color=FFD700)         |                              ![Status](https://img.shields.io/badge/Active-success)                              |
-|  9  | [niftywall](https://github.com/weby-homelab/niftywall)                                   | Веб-панель керування nftables із функцією знімків стану «Машина часу»                                                         |    HTML    |         ![Stars](https://img.shields.io/github/stars/weby-homelab/niftywall?style=flat-square&color=FFD700)          |         ![Release](https://img.shields.io/github/v/release/weby-homelab/niftywall?color=00D4FF&label=v)          |
-| 10  | [safety-chat-bot](https://github.com/weby-homelab/safety-chat-bot)                       | Telegram-бот модерації чату — карма та репутація через реакції                                                                |   Python   |      ![Stars](https://img.shields.io/github/stars/weby-homelab/safety-chat-bot?style=flat-square&color=FFD700)       |      ![Release](https://img.shields.io/github/v/release/weby-homelab/safety-chat-bot?color=00D4FF&label=v)       |
-| 11  | [ufw-gui](https://github.com/weby-homelab/ufw-gui)                                       | Docker веб-панель для керування UFW та Fail2Ban — мінімалістична та безпечна                                                  |   Python   |          ![Stars](https://img.shields.io/github/stars/weby-homelab/ufw-gui?style=flat-square&color=FFD700)           |          ![Release](https://img.shields.io/github/v/release/weby-homelab/ufw-gui?color=00D4FF&label=v)           |
-| 12  | [adb-pd](https://github.com/weby-homelab/adb-pd)                                         | DNS-over-HTTPS/TLS/QUIC резолвер із сучасним Glassmorphism-інтерфейсом                                                        |   Python   |           ![Stars](https://img.shields.io/github/stars/weby-homelab/adb-pd?style=flat-square&color=FFD700)           |                               ![Status](https://img.shields.io/badge/Archived-red)                               |
-| 13  | [adblock-pd](https://github.com/weby-homelab/ADBlock-PD)                                 | Захищений приватний DNS-резолвер — нуль телеметрії, DoH/DoT/DoQUIC                                                            |     Go     |         ![Stars](https://img.shields.io/github/stars/weby-homelab/ADBlock-PD?style=flat-square&color=FFD700)         |         ![Release](https://img.shields.io/github/v/release/weby-homelab/ADBlock-PD?color=00D4FF&label=v)         |
-| 14  | [ai-second-brain-gui](https://github.com/weby-homelab/ai-second-brain-gui)               | Веб-інтерфейс Obsidian (Second Brain) для доступу та пошуку у базі знань                                                      |    CSS     |    ![Stars](https://img.shields.io/github/stars/weby-homelab/ai-second-brain-gui?style=flat-square&color=FFD700)     |    ![Release](https://img.shields.io/github/v/release/weby-homelab/ai-second-brain-gui?color=00D4FF&label=v)     |
-| 15  | [air-quality-dashboard](https://github.com/weby-homelab/air-quality-dashboard)           | **ЕкоСтанція** — моніторинг PM2.5, PM10 та радіаційного фону                                                                  |    HTML    |   ![Stars](https://img.shields.io/github/stars/weby-homelab/air-quality-dashboard?style=flat-square&color=FFD700)    |   ![Release](https://img.shields.io/github/v/release/weby-homelab/air-quality-dashboard?color=00D4FF&label=v)    |
-| 16  | [docker-mailserver-gui](https://github.com/weby-homelab/docker-mailserver-gui)           | Zero Trust поштовий сервер + Traefik + SnappyMail                                                                             |   Shell    |   ![Stars](https://img.shields.io/github/stars/weby-homelab/docker-mailserver-gui?style=flat-square&color=FFD700)    |   ![Release](https://img.shields.io/github/v/release/weby-homelab/docker-mailserver-gui?color=00D4FF&label=v)    |
-| 17  | [fm-ua](https://github.com/weby-homelab/fm-ua)                                           | Flash-Monitor-UA v2.0 — децентралізований P2P ринок електроенергії                                                            |   Python   |           ![Stars](https://img.shields.io/github/stars/weby-homelab/fm-ua?style=flat-square&color=FFD700)            |                               ![Status](https://img.shields.io/badge/Archived-red)                               |
-| 18  | [homelab](https://github.com/weby-homelab/homelab)                                       | 🌌 Центральна IaC, Ansible-конфігурації та моніторинг локального хоумлабу                                                     |     —      |          ![Stars](https://img.shields.io/github/stars/weby-homelab/homelab?style=flat-square&color=FFD700)           |                              ![Status](https://img.shields.io/badge/Active-success)                              |
-| 19  | [LLMtop](https://github.com/weby-homelab/LLMtop)                                         | htop для локальних LLM — TUI-дашборд моніторингу Ollama, llama.cpp, vLLM                                                      |    Rust    |           ![Stars](https://img.shields.io/github/stars/weby-homelab/LLMtop?style=flat-square&color=FFD700)           |           ![Release](https://img.shields.io/github/v/release/weby-homelab/LLMtop?color=00D4FF&label=v)           |
-| 20  | [voip-installer](https://github.com/weby-homelab/voip-installer)                         | Автоматизоване розгортання IP-АТС Asterisk 22 на Ubuntu 24.04                                                                 |   Shell    |       ![Stars](https://img.shields.io/github/stars/weby-homelab/voip-installer?style=flat-square&color=FFD700)       |         ![Release](https://img.shields.io/github/v/tag/weby-homelab/voip-installer?color=00D4FF&label=v)         |
-| 21  | [weby-homelab](https://github.com/weby-homelab/weby-homelab)                             | 📄 Файли конфігурації та README профілю GitHub                                                                                |   Python   |        ![Stars](https://img.shields.io/github/stars/weby-homelab/weby-homelab?style=flat-square&color=FFD700)        |                              ![Status](https://img.shields.io/badge/Active-success)                              |
-| 22  | [docker-eMailServer](https://github.com/weby-homelab/docker-eMailServer)                 | Стек розгортання поштового сервера на базі docker-mailserver                                                                  |    HTML    |     ![Stars](https://img.shields.io/github/stars/weby-homelab/docker-eMailServer?style=flat-square&color=FFD700)     |                              ![Status](https://img.shields.io/badge/Active-success)                              |
+|  6  | [Weby-QRank](https://github.com/weby-homelab/Weby-QRank)                                 | **Weby-QRank** — Telegram Mini App для гейміфікації спільноти із розумним скорингом та OLED-інтерфейсом                       | JavaScript |         ![Stars](https://img.shields.io/github/stars/weby-homelab/Weby-QRank?style=flat-square&color=FFD700)         |                              ![Status](https://img.shields.io/badge/Active-success)                              |
+
+<details>
+<summary><b>📦 Усі 22 власні проєкти (повна таблиця)</b></summary>
+
+|  #  | Проєкт                                                                         | Опис                                                                                |    Мова    |                                                       ⭐                                                        |                                                   Статус                                                    |
+| :-: | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | :--------: | :-------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
+|  7  | [karma-community-app](https://github.com/weby-homelab/karma-community-app)     | Бекенд та дашборд Weby-QRank для гейміфікації спільноти                             | JavaScript |  ![Stars](https://img.shields.io/github/stars/weby-homelab/karma-community-app?style=flat-square&color=FFD700)  |                           ![Status](https://img.shields.io/badge/Active-success)                            |
+|  8  | [security-monitor-kyiv](https://github.com/weby-homelab/security-monitor-kyiv) | 🛡️ Панель ситуаційної обізнаності — повітряні тривоги, радіація, AQI, електромережі |    HTML    | ![Stars](https://img.shields.io/github/stars/weby-homelab/security-monitor-kyiv?style=flat-square&color=FFD700) |                            ![Status](https://img.shields.io/badge/Archived-red)                             |
+|  9  | [niftywall](https://github.com/weby-homelab/niftywall)                         | Веб-панель керування nftables із функцією знімків стану «Машина часу»               |    HTML    |       ![Stars](https://img.shields.io/github/stars/weby-homelab/niftywall?style=flat-square&color=FFD700)       |       ![Release](https://img.shields.io/github/v/release/weby-homelab/niftywall?color=00D4FF&label=v)       |
+| 10  | [safety-chat-bot](https://github.com/weby-homelab/safety-chat-bot)             | Telegram-бот модерації чату — карма та репутація через реакції                      |   Python   |    ![Stars](https://img.shields.io/github/stars/weby-homelab/safety-chat-bot?style=flat-square&color=FFD700)    |    ![Release](https://img.shields.io/github/v/release/weby-homelab/safety-chat-bot?color=00D4FF&label=v)    |
+| 11  | [ufw-gui](https://github.com/weby-homelab/ufw-gui)                             | Docker веб-панель для керування UFW та Fail2Ban — мінімалістична та безпечна        |   Python   |        ![Stars](https://img.shields.io/github/stars/weby-homelab/ufw-gui?style=flat-square&color=FFD700)        |        ![Release](https://img.shields.io/github/v/release/weby-homelab/ufw-gui?color=00D4FF&label=v)        |
+| 12  | [adb-pd](https://github.com/weby-homelab/adb-pd)                               | DNS-over-HTTPS/TLS/QUIC резолвер із сучасним Glassmorphism-інтерфейсом              |   Python   |        ![Stars](https://img.shields.io/github/stars/weby-homelab/adb-pd?style=flat-square&color=FFD700)         |                            ![Status](https://img.shields.io/badge/Archived-red)                             |
+| 13  | [adblock-pd](https://github.com/weby-homelab/ADBlock-PD)                       | Захищений приватний DNS-резолвер — нуль телеметрії, DoH/DoT/DoQUIC                  |     Go     |      ![Stars](https://img.shields.io/github/stars/weby-homelab/ADBlock-PD?style=flat-square&color=FFD700)       |      ![Release](https://img.shields.io/github/v/release/weby-homelab/ADBlock-PD?color=00D4FF&label=v)       |
+| 14  | [ai-second-brain-gui](https://github.com/weby-homelab/ai-second-brain-gui)     | Веб-інтерфейс Obsidian (Second Brain) для доступу та пошуку у базі знань            |    CSS     |  ![Stars](https://img.shields.io/github/stars/weby-homelab/ai-second-brain-gui?style=flat-square&color=FFD700)  |  ![Release](https://img.shields.io/github/v/release/weby-homelab/ai-second-brain-gui?color=00D4FF&label=v)  |
+| 15  | [air-quality-dashboard](https://github.com/weby-homelab/air-quality-dashboard) | **ЕкоСтанція** — моніторинг PM2.5, PM10 та радіаційного фону                        |    HTML    | ![Stars](https://img.shields.io/github/stars/weby-homelab/air-quality-dashboard?style=flat-square&color=FFD700) | ![Release](https://img.shields.io/github/v/release/weby-homelab/air-quality-dashboard?color=00D4FF&label=v) |
+| 16  | [docker-mailserver-gui](https://github.com/weby-homelab/docker-mailserver-gui) | Zero Trust поштовий сервер + Traefik + SnappyMail                                   |   Shell    | ![Stars](https://img.shields.io/github/stars/weby-homelab/docker-mailserver-gui?style=flat-square&color=FFD700) | ![Release](https://img.shields.io/github/v/release/weby-homelab/docker-mailserver-gui?color=00D4FF&label=v) |
+| 17  | [fm-ua](https://github.com/weby-homelab/fm-ua)                                 | Flash-Monitor-UA v2.0 — децентралізований P2P ринок електроенергії                  |   Python   |         ![Stars](https://img.shields.io/github/stars/weby-homelab/fm-ua?style=flat-square&color=FFD700)         |                            ![Status](https://img.shields.io/badge/Archived-red)                             |
+| 18  | [homelab](https://github.com/weby-homelab/homelab)                             | 🌌 Центральна IaC, Ansible-конфігурації та моніторинг локального хоумлабу           |     —      |        ![Stars](https://img.shields.io/github/stars/weby-homelab/homelab?style=flat-square&color=FFD700)        |                           ![Status](https://img.shields.io/badge/Active-success)                            |
+| 19  | [LLMtop](https://github.com/weby-homelab/LLMtop)                               | htop для локальних LLM — TUI-дашборд моніторингу Ollama, llama.cpp, vLLM            |    Rust    |        ![Stars](https://img.shields.io/github/stars/weby-homelab/LLMtop?style=flat-square&color=FFD700)         |        ![Release](https://img.shields.io/github/v/release/weby-homelab/LLMtop?color=00D4FF&label=v)         |
+| 20  | [voip-installer](https://github.com/weby-homelab/voip-installer)               | Автоматизоване розгортання IP-АТС Asterisk 22 на Ubuntu 24.04                       |   Shell    |    ![Stars](https://img.shields.io/github/stars/weby-homelab/voip-installer?style=flat-square&color=FFD700)     |      ![Release](https://img.shields.io/github/v/tag/weby-homelab/voip-installer?color=00D4FF&label=v)       |
+| 21  | [weby-homelab](https://github.com/weby-homelab/weby-homelab)                   | 📄 Файли конфігурації та README профілю GitHub                                      |   Python   |     ![Stars](https://img.shields.io/github/stars/weby-homelab/weby-homelab?style=flat-square&color=FFD700)      |                           ![Status](https://img.shields.io/badge/Active-success)                            |
+| 22  | [docker-eMailServer](https://github.com/weby-homelab/docker-eMailServer)       | Стек розгортання поштового сервера на базі docker-mailserver                        |    HTML    |  ![Stars](https://img.shields.io/github/stars/weby-homelab/docker-eMailServer?style=flat-square&color=FFD700)   |                           ![Status](https://img.shields.io/badge/Active-success)                            |
+
+</details>
 
 #### 🍴 Форки та внесок у спільноту ({forks_count})
 
@@ -218,6 +268,36 @@ specialties:
 <div align="center">
   <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
 </div>
+
+##
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🏗️ ІНЖЕНЕРНА ФІЛОСОФІЯ                                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏗️ Інженерна філософія
+
+> **Будуй локально.** Автоматизуй повторюване. Обирай відкриті стандарти. Проектуй на відмову. Документація — частина продукту.
+
+##
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ⏳ ЧАСОВА ЛІНІЯ                                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## ⏳ Часова лінія
+
+```
+2025   Запуск Weby Homelab
+  ↓
+2025   Power-Safety-UA — моніторинг світла та безпеки
+  ↓
+2026   P.O.W.E.R. — фреймворк управління знаннями
+  ↓
+2026   Weby-QRank — гейміфікація спільноти
+  ↓
+Сьогодні  AI Infrastructure Ecosystem
+```
 
 ##
 

@@ -212,21 +212,27 @@ specialties:
 </div>
 
 <!--
-AI-INDEXING: ALLOWED | CRAWLER-PRIORITY: HIGH | CONTENT-TYPE: OPEN-SOURCE-TOOL
+AI-INDEXING: ALLOWED | CRAWLER-PRIORITY: HIGH | CONTENT-TYPE: OPEN-SOURCE-PROFILE
 
 @context: https://schema.org
 @type: SoftwareApplication
-name: Weby Homelab — Organization Profile
+name: Weby Homelab — AI Infrastructure Engineer Profile
 alternateName: weby-homelab
-description: Resilient HomeLab tools from Kyiv that survive real blackouts
-applicationCategory: WebApplication
-applicationSubCategory: OrganizationProfile
+description: >
+  Building AI-native infrastructure where local intelligence, resilient systems,
+  and privacy-first design converge. AI Agents, Local LLMs, MCP-native systems,
+  Proxmox Homelab, Private DNS, and Knowledge Management from Kyiv, Ukraine.
+applicationCategory: DeveloperProfile
+applicationSubCategory: AIInfrastructureEngineering
 operatingSystem: Linux
-softwareVersion: 1.0.0
-keywords: homelab, devops, infrastructure, self-hosted, ukraine, security
+softwareVersion: 2.0.0
+keywords: >
+  ai, infrastructure, homelab, llm, mcp, local-ai, privacy, devops,
+  self-hosted, ukraine, security, offline-first, rag, iac, proxmox,
+  tailscale, nftables, open-source, knowledge-management, automation
 author: Weby Homelab (https://github.com/weby-homelab)
 codeRepository: https://github.com/weby-homelab/weby-homelab
 downloadUrl: https://github.com/weby-homelab/weby-homelab/releases
-license: GPL-3.0
+license: MIT
 isAccessibleForFree: true
 -->

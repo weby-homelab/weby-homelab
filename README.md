@@ -23,11 +23,11 @@ focus:
   - "⚡ Energy Grid Monitoring (Power-Safety-UA)"
   - "🧠 AI Second Brain & Knowledge Management (Obsidian + P.O.W.E.R.)"
 currently_building:
-  - Weby-QRank — AI community gamification engine
   - Weby-Homelab — Infrastructure as Code ecosystem
+  - Weby-QRank — AI community gamification engine
   - P.O.W.E.R. — Hybrid Knowledge Management Framework (P.A.R.A. + OKF + LLM-Wiki)
-  - antigravity-cli-statusline — Advanced statusline plugin for Antigravity CLI
   - Power-Safety-UA — Autonomous power, air raid & AQI monitoring for Kyiv
+  - antigravity-cli-statusline — Advanced statusline plugin for Antigravity CLI
 
 specialties:
   AI & LLM Engineering:
@@ -68,18 +68,10 @@ specialties:
     Languages:
       - Python
       - TypeScript
-    Platforms:
-      - Linux
-      - Docker
-      - Proxmox
     AI:
       - Gemini
       - Ollama
       - llama.cpp
-    Infrastructure:
-      - Tailscale
-      - WireGuard
-      - NFTables
 
   Architecture:
     - MCP-native systems
@@ -100,14 +92,18 @@ specialties:
     - MIT Licensed
     - Documentation-first development
     - Community-driven development
+    - Infrastructure as Code
     - CI/CD automation
 
   Stats:
-    - 50+ repositories
+    - 50+ public repositories
     - 4,800+ GitHub contributions (last year)
-    - Documentation-first workflow
-    - AI-assisted development
+    - Multiple actively maintained open-source projects
 ```
+
+<p align="center">
+  <code>AI Infrastructure • Homelab • Privacy • Knowledge Systems • Open Source</code>
+</p>
 
 <p align="left">
   <a href="https://x.com/weby_homelab"><img src="https://img.shields.io/badge/Twitter-080c14?style=flat-square&logo=x&logoColor=white" alt="X/Twitter" /></a>

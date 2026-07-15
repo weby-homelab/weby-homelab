@@ -25,11 +25,11 @@ focus:
   - "⚡ Моніторинг енергомережі (Power-Safety-UA)"
   - "🧠 Другий мозок ШІ та управління знаннями (Obsidian + P.O.W.E.R.)"
 currently_building:
-  - Weby-QRank — AI рушій гейміфікації спільноти
   - Weby-Homelab — екосистема інфраструктури як коду
+  - Weby-QRank — AI рушій гейміфікації спільноти
   - P.O.W.E.R. — Гібридний фреймворк управління знаннями (P.A.R.A. + OKF + LLM-Wiki)
-  - antigravity-cli-statusline — Просунутий статуслайн для Antigravity CLI
   - Power-Safety-UA — Автономний моніторинг світла, тривог та AQI для Києва
+  - antigravity-cli-statusline — Просунутий статуслайн для Antigravity CLI
 
 specialties:
   AI & LLM Engineering:
@@ -70,18 +70,10 @@ specialties:
     Мови:
       - Python
       - TypeScript
-    Платформи:
-      - Linux
-      - Docker
-      - Proxmox
     AI:
       - Gemini
       - Ollama
       - llama.cpp
-    Інфраструктура:
-      - Tailscale
-      - WireGuard
-      - NFTables
 
   Архітектура:
     - MCP-нативні системи
@@ -102,14 +94,18 @@ specialties:
     - Ліцензія MIT
     - Розробка з документацією передусім
     - Орієнтація на спільноту
+    - Інфраструктура як код
     - CI/CD автоматизація
 
   Статистика:
-    - 50+ репозиторіїв
+    - 50+ публічних репозиторіїв
     - 4,800+ контрибуцій на GitHub (за останній рік)
-    - Розробка з документацією передусім
-    - ШІ-асоційована розробка
+    - Кілька активно підтримуваних open-source проєктів
 ```
+
+<p align="center">
+  <code>AI Infrastructure • Homelab • Privacy • Knowledge Systems • Open Source</code>
+</p>
 
 <p align="left">
   <a href="https://x.com/weby_homelab"><img src="https://img.shields.io/badge/Twitter-080c14?style=flat-square&logo=x&logoColor=white" alt="X/Twitter" /></a>

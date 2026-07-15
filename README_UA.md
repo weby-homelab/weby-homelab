@@ -27,6 +27,9 @@ focus:
 currently_building:
   - Weby-QRank — AI рушій гейміфікації спільноти
   - Weby-Homelab — екосистема інфраструктури як коду
+  - P.O.W.E.R. — Гібридний фреймворк управління знаннями (P.A.R.A. + OKF + LLM-Wiki)
+  - antigravity-cli-statusline — Просунутий статуслайн для Antigravity CLI
+  - Power-Safety-UA — Автономний моніторинг світла, тривог та AQI для Києва
 
 specialties:
   AI & LLM Engineering:

@@ -25,6 +25,9 @@ focus:
 currently_building:
   - Weby-QRank — AI community gamification engine
   - Weby-Homelab — Infrastructure as Code ecosystem
+  - P.O.W.E.R. — Hybrid Knowledge Management Framework (P.A.R.A. + OKF + LLM-Wiki)
+  - antigravity-cli-statusline — Advanced statusline plugin for Antigravity CLI
+  - Power-Safety-UA — Autonomous power, air raid & AQI monitoring for Kyiv
 
 specialties:
   AI & LLM Engineering:

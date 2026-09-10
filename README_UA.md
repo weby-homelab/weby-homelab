@@ -371,7 +371,7 @@ specialties:
 ## 📈 Активність контрибуцій
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weby-homelab&theme=react-dark&hide_border=true&area=true&color=00D4FF&line=FF6B35&point=FFD700" width="100%" alt="Contribution Graph" />
+  <img src="./assets/generated/activity-graph.svg" width="100%" alt="Contribution Graph" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
